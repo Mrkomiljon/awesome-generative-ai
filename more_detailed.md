@@ -444,7 +444,28 @@
 <details>
 <summary>🧠 Voice Cloning (click to expand)</summary>
 
-- Add models like SV2TTS, Resemblyzer, etc...
+## 🗣️ Voice Cloning Models 
+
+### 2025
+1. [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)  *Fast and high-quality voice cloning from 1-minute audio using GPT + SoVITS.*
+2. [CosyVoice](https://github.com/FunAudioLLM/CosyVoice)  *Multilingual voice generation pipeline combining LLMs with TTS systems.*
+3. [VideoLingo](https://github.com/Huanshere/VideoLingo)  *AI-based dubbing and voice-over pipeline with automatic sync and translation.*
+4. [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)  *Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning.*
+5. [YuE](https://github.com/multimodal-art-projection/YuE)  *Text-to-music generation system capable of cloning singing voices.*
+
+---
+
+### 2024
+6. [OpenVoice](https://github.com/myshell-ai/OpenVoice)  *Instant voice cloning with granular control over voice styles, including emotion and accent.*
+7. [Bark-Voice-Cloning](https://github.com/serp-ai/bark-with-voice-clone)  *Text-prompted generative audio model with voice cloning capabilities.*
+---
+
+### 2023
+8. [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)  *Real-time voice cloning with speaker embedding, Tacotron2, and WaveRNN.*
+9. [TTS](https://github.com/coqui-ai/TTS)  *Deep learning toolkit for Text-to-Speech and voice cloning in many languages.*
+---
+### 2022
+10. [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)  *Open-source speech toolkit for ASR, TTS, voice cloning, and more.*
 
 </details>
 
