@@ -221,7 +221,76 @@
 <details>
 <summary>🔊 Text-to-Speech (TTS) (click to expand)</summary>
 
-- Add Tortoise-TTS, VITS, Coqui-TTS, etc...
+# 📚 Awesome TTS Datasets
+A curated list of high-quality **Text-to-Speech (TTS)** datasets suitable for training, fine-tuning, and benchmarking TTS models.
+> 🔗 *Note: Always check dataset licenses before commercial use.*
+---
+## 🌍 Multilingual / Large-scale Datasets
+### 🗣 [LibriTTS](https://www.openslr.org/60/)
+**Description**: A large corpus derived from LibriSpeech with aligned text and high-quality audio for English TTS tasks.
+---
+### 🗣 [Hi-Fi TTS](https://www.openslr.org/109/)
+**Description**: High-fidelity English TTS dataset with diverse speakers and SNR subsets, suitable for robust TTS training.
+---
+## 🎤 English Datasets
+### 🗣 [LJSpeech](https://keithito.com/LJ-Speech-Dataset/)
+**Description**: A widely used single-speaker English dataset designed for TTS and voice cloning tasks.
+---
+### 🗣 [AudioCaps](https://github.com/cdjkim/audiocaps)
+**Description**: 44K audio-caption pairs, useful for audio-captioning and could support TTS training with paired audio-text data.
+---
+## 🇨🇳 Mandarin Chinese Datasets
+### 🗣 [Opencpop](https://wenet.org.cn/opencpop/)
+**Description**: Mandarin singing voice dataset containing phoneme-aligned lyrics, MIDI, and TextGrid files.
+---
+### 🗣 [KiSing](http://shijt.site/index.php/2021/05/16/kising-the-first-open-source-mandarin-singing-voice-synthesis-corpus/)
+**Description**: Mandarin singing voice synthesis corpus with clean recordings.
+---
+## 🇯🇵 Japanese Datasets
+### 🗣 [PJS](https://sites.google.com/site/shinnosuketakamichi/research-topics/pjs_corpus)
+**Description**: Japanese speech corpus containing both singing and speaking voice recordings.
+---
+## 🧑‍🎤 Singing Voice Datasets
+### 🗣 [M4Singer](https://drive.google.com/file/d/1xC37E59EWRRFFLdG3aJkVqwtLDgtFNqW/view)
+**Description**: Multi-singer singing voice dataset with phoneme-aligned data.
+---
+### 🗣 [OpenSinger](https://drive.google.com/file/d/1EofoZxvalgMjZqzUEuEdleHIZ6SHtNuK/view)
+**Description**: Open-source singing voice dataset with both male and female recordings.
+---
+### 🗣 [NUS-48E](https://drive.google.com/drive/folders/12pP9uUl0HTVANu3IPLnumTJiRjPtVUMx)
+**Description**: English singing voice corpus from multiple speakers with both singing and speaking data.
+---
+### 🗣 [PopBuTFy](https://github.com/MoonInTheRiver/NeuralSVB)
+**Description**: Singing dataset featuring both amateur and professional singing recordings.
+---
+### 🗣 [PopCS](https://github.com/MoonInTheRiver/DiffSinger/blob/master/resources/apply_form.md)
+**Description**: Mandarin singing corpus with aligned phoneme and waveform data.
+---
+### 🗣 [Opera](http://isophonics.net/SingingVoiceDataset)
+**Description**: Western and Chinese opera dataset containing monophonic and polyphonic recordings.
+---
+## 🧪 Voice Conversion / Singing Voice Conversion
+### 🗣 [CSD](https://zenodo.org/records/4785016)
+**Description**: Multilingual dataset for cross-lingual voice conversion including Korean and English utterances.
+
+---
+### 🗣 [SVCC](https://github.com/lesterphillip/SVCC23_FastSVC/tree/main/egs/generate_dataset)
+**Description**: Singing Voice Conversion Challenge dataset for benchmarking singing voice conversion systems.
+---
+## 👤 Multi-speaker Speech Datasets
+### 🗣 [VCTK](https://datashare.ed.ac.uk/handle/10283/3443)
+**Description**: English multi-speaker dataset designed for speech synthesis and voice conversion tasks.
+---
+## 🛠 Custom Dataset Support
+### 🗣 CustomSVCDataset
+**Description**: Amphion-compatible folder structure for organizing your own Singing Voice Conversion dataset.
+---
+## 🔖 License Reminder
+Most datasets listed are for **research purposes only**. For commercial use, carefully review and comply with individual dataset licenses.
+---
+## 📝 Contributions
+Want to add a new dataset? Feel free to submit a pull request or open an issue!
+
 
 </details>
 
