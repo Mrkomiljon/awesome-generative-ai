@@ -56,6 +56,42 @@ Curated list of high-quality open-source TTS models and toolkits used for resear
 - [MelGAN](https://github.com/descriptinc/melgan-neurips): GAN-based vocoder
 
 ---
+## 🗣️ Notable TTS Projects
+
+### 🐟 Fish-Speech
+- [Repo](https://github.com/fishaudio/fish-speech)  
+- [Demo](https://speech.fish.audio/samples/)  
+- [Website](https://speech.fish.audio/)  
+- Real-time streaming TTS system  
+- High-fidelity, low-latency voice synthesis  
+
+---
+
+### 💞 Kokoro
+- [PyPI](https://pypi.org/project/kokoro/)  
+- [Repo](https://github.com/hexgrad/kokoro)  
+- [Model on Hugging Face](https://huggingface.co/hexgrad/Kokoro)  
+- [Demo Space](https://huggingface.co/spaces/hexgrad/kokoro-tts)  
+- Multilingual (Japanese/English) expressive TTS  
+- Supports multi-speaker voice generation and style control  
+
+---
+
+### 🏔️ Llasa-TTS
+- [Website](https://llasatts.com/)  
+- [Demo Space](https://huggingface.co/spaces/srinivasanbalasubramani/llasa-tts)  
+- Ultra-fast multilingual TTS engine  
+- Designed for streaming and natural prosody  
+
+---
+
+### 🔥 Spark-TTS
+- [Repo](https://github.com/sparkaudio/spark-tts)  
+- [Demo](https://sparkaudio.github.io/spark-tts/)  
+- Modular, real-time neural TTS engine  
+- Optimized for latency-sensitive applications  
+
+---
 
 💡 **Tip**: Combine Tacotron2/FastSpeech2 with HiFi-GAN for clean, real-time voice synthesis.
 
