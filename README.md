@@ -82,7 +82,7 @@ Welcome to the **Awesome Generative AI** repository — a structured and profess
 <details>
 <summary>Super Agents</summary>
 
-- [DeepResearchAgent (Skywork AI)](https://github.com/skywork-ai/deepresearchagent) — Hierarchical multi-agent framework for general-purpose task solving. [[paper](https://arxiv.org/abs/2025.06.14)]
+- [DeepResearchAgent (Skywork AI)]((https://github.com/SkyworkAI/DeepResearchAgent)) — Hierarchical multi-agent framework for general-purpose task solving. [[paper](https://arxiv.org/abs/2025.06.14)]
 - [OWL (CAMEL-AI.org)](https://github.com/camel-ai/owl) — Optimized Workforce Learning for real-world task automation. [[paper](https://arxiv.org/abs/2025.05.29)]
 - [Suna (Kortix)](https://github.com/kortix/suna) — Open-source generalist AI agent. [[release](https://kortix.ai/suna)]
 - [OpenManus (MetaGPT)](https://github.com/metagpt/openmanus) — Open alternative to Manus, no invite code required. [[release](https://metagpt.ai/openmanus)]
