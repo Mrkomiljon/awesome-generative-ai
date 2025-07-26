@@ -92,6 +92,15 @@ Curated list of high-quality open-source TTS models and toolkits used for resear
 - Optimized for latency-sensitive applications  
 
 ---
+### 🗣️ VITS2
+- [Repo](https://github.com/daniilrobnikov/vits2)  
+- Tacotron-style neural TTS with real-time performance  
+- 🧠 Fast and lightweight architecture for low-latency inference  
+- 🧩 Modular components for training and inference  
+- 🔤 Phoneme-based synthesis via `espeak-ng`  
+- 🔄 ONNX export support for deployment  
+- 🌍 Multilingual support — easy to train custom voices
+---
 
 💡 **Tip**: Combine Tacotron2/FastSpeech2 with HiFi-GAN for clean, real-time voice synthesis.
 
