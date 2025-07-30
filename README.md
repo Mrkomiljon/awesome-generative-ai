@@ -1,101 +1,139 @@
 <p align="center">
-  <img src="assets/awesome.png" alt="Awesome Generative AI Banner" />
+  <img src="assets/awesome.png" alt="Awesome Generative AI Banner" width="600"/>
 </p>
 
-## 🔥 Awesome Generative AI Resources
+<h1 align="center">🚀 Awesome Generative AI Resources</h1>
 
-Welcome to the **Awesome Generative AI** repository — a structured and professional hub for state-of-the-art resources across Speech, Text, Image, and Multimodal AI. This page provides an overview and organized links to detailed pages.
+<p align="center">
+  <strong>Comprehensive collection of cutting-edge Generative AI resources across Speech, Text, Image, and Multimodal domains</strong>
+</p>
+
+<p align="center">
+  <a href="#-main-categories">📚 Categories</a> •
+  <a href="#-transformers--foundation-models">🤖 Models</a> •
+  <a href="#-super-agents">🦾 Agents</a> •
+  <a href="#-contribution">💡 Contribute</a>
+</p>
+
+---
+
+## 🎯 **About This Repository**
+
+This is a **curated and organized collection** of state-of-the-art Generative AI resources, carefully compiled from various open-source projects, research papers, and community contributions. Each resource has been selected for its quality, relevance, and practical utility in the AI/ML ecosystem.
+
+### 🌟 **What You'll Find Here:**
+- **Speech Processing**: STT, TTS, Voice Cloning, Emotion Recognition
+- **Computer Vision**: Text-to-Image, Talking Head Generation
+- **Multimodal AI**: Transformers, Foundation Models, APIs
+- **AI Agents**: Latest autonomous AI systems and frameworks
+- **Datasets**: High-quality training data for various AI tasks
 
 ---
 
-### 📚 Main Categories
+## 📚 **Main Categories**
 
-- [🎙️ Speech-to-Text (STT) Datasets](./stt-datasets.md)
-- [🧠 Speech-to-Text (STT) Models](./stt-models.md)
-- [🔊 Text-to-Speech (TTS)](./tts.md)
-- [💬 Emotion Recognition](./emotion-recognition.md)
-- [🧠 Voice Cloning](./voice-cloning.md)
-- [🗣️ Talking Head Generation](./talking-head.md)
-- [🖼️ Text-to-Image Generation](./text-to-image.md)
-- [📈 Generative AI & LLM APIs](./genai-apis.md)
+<div align="center">
+
+| 🎙️ **Speech** | 🖼️ **Vision** | 🤖 **AI & APIs** | 📊 **Data** |
+|:---:|:---:|:---:|:---:|
+| [STT Datasets](./stt-datasets.md) | [Text-to-Image](./text-to-image.md) | [GenAI APIs](./genai-apis.md) | [STT Models](./stt-models.md) |
+| [STT Models](./stt-models.md) | [Talking Head](./talking-head.md) | [Transformers](./transformers.md) | [TTS Models](./tts.md) |
+| [TTS Models](./tts.md) | | | [Voice Cloning](./voice-cloning.md) |
+| [Voice Cloning](./voice-cloning.md) | | | [Emotion Recognition](./emotion-recognition.md) |
+| [Emotion Recognition](./emotion-recognition.md) | | | |
+
+</div>
 
 ---
-### 🤖 Transformers & Foundation Models
 
-- [📈 Widely-used transformer models](./transformers.md)
-<details>
-<summary>Audio</summary>
+## 🤖 **Transformers & Foundation Models**
 
-- Audio classification with [Whisper](https://huggingface.co/openai/whisper-large-v3-turbo)
-- Automatic speech recognition with [Moonshine](https://huggingface.co/UsefulSensors/moonshine)
-- Keyword spotting with [Wav2Vec2](https://huggingface.co/superb/wav2vec2-base-superb-ks)
-- Speech to speech generation with [Moshi](https://huggingface.co/kyutai/moshiko-pytorch-bf16)
-- Text to audio with [MusicGen](https://huggingface.co/facebook/musicgen-large)
-- Text to speech with [Bark](https://huggingface.co/suno/bark)
+### 🎵 **Audio Processing**
+- **Whisper** - Multilingual speech recognition
+- **Moonshine** - Automatic speech recognition
+- **Wav2Vec2** - Keyword spotting
+- **Moshi** - Speech-to-speech generation
+- **MusicGen** - Text-to-audio generation
+- **Bark** - Text-to-speech synthesis
 
-</details>
+### 👁️ **Computer Vision**
+- **SAM** - Automatic mask generation
+- **DepthPro** - Depth estimation
+- **DINO v2** - Image classification
+- **SuperGlue** - Keypoint detection & matching
+- **RT-DETRv2** - Object detection
+- **VitPose** - Pose estimation
+- **OneFormer** - Universal segmentation
+- **VideoMAE** - Video classification
 
-<details>
-<summary>Computer vision</summary>
+### 🔄 **Multimodal**
+- **Qwen2-Audio** - Audio/text to text
+- **LayoutLMv3** - Document understanding
+- **Qwen-VL** - Image/text to text
+- **BLIP-2** - Image captioning
+- **GOT-OCR2** - OCR document understanding
+- **TAPAS** - Table question answering
+- **Emu3** - Unified multimodal understanding
+- **Llava** - Visual question answering
+- **Kosmos-2** - Visual referring expression
 
-- Automatic mask generation with [SAM](https://huggingface.co/facebook/sam-vit-base)
-- Depth estimation with [DepthPro](https://huggingface.co/apple/DepthPro-hf)
-- Image classification with [DINO v2](https://huggingface.co/facebook/dinov2-base)
-- Keypoint detection with [SuperGlue](https://huggingface.co/magic-leap-community/superglue_outdoor)
-- Keypoint matching with [SuperGlue](https://huggingface.co/magic-leap-community/superglue)
-- Object detection with [RT-DETRv2](https://huggingface.co/PekingU/rtdetr_v2_r50vd)
-- Pose Estimation with [VitPose](https://huggingface.co/usyd-community/vitpose-base-simple)
-- Universal segmentation with [OneFormer](https://huggingface.co/shi-labs/oneformer_ade20k_swin_large)
-- Video classification with [VideoMAE](https://huggingface.co/MCG-NJU/videomae-large)
+### 📝 **Natural Language Processing**
+- **ModernBERT** - Masked word completion
+- **Gemma** - Named entity recognition
+- **Mixtral** - Question answering
+- **BART** - Summarization
+- **T5** - Translation
+- **Llama** - Text generation
+- **Qwen** - Text classification
 
-</details>
+---
 
-<details>
-<summary>Multimodal</summary>
+## 🦾 **Super Agents**
 
-- Audio or text to text with [Qwen2-Audio](https://huggingface.co/Qwen/Qwen2-Audio-7B)
-- Document question answering with [LayoutLMv3](https://huggingface.co/microsoft/layoutlmv3-base)
-- Image or text to text with [Qwen-VL](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct)
-- Image captioning [BLIP-2](https://huggingface.co/Salesforce/blip2-opt-2.7b)
-- OCR-based document understanding with [GOT-OCR2](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf)
-- Table question answering with [TAPAS](https://huggingface.co/google/tapas-base)
-- Unified multimodal understanding and generation with [Emu3](https://huggingface.co/BAAI/Emu3-Gen)
-- Vision to text with [Llava-OneVision](https://huggingface.co/llava-hf/llava-onevision-qwen2-0.5b-ov-hf)
-- Visual question answering with [Llava](https://huggingface.co/llava-hf/llava-1.5-7b-hf)
-- Visual referring expression segmentation with [Kosmos-2](https://huggingface.co/microsoft/kosmos-2-patch14-224)
+| Agent | Organization | Description | Links |
+|:---|:---|:---|:---|
+| **DeepResearchAgent** | Skywork AI | Hierarchical multi-agent framework | [Repo](https://github.com/SkyworkAI/DeepResearchAgent) • [Paper](https://arxiv.org/abs/2025.06.14) |
+| **OWL** | CAMEL-AI.org | Optimized Workforce Learning | [Repo](https://github.com/camel-ai/owl) • [Paper](https://arxiv.org/abs/2025.05.29) |
+| **Suna** | Kortix | Open-source generalist AI agent | [Repo](https://github.com/kortix/suna) • [Release](https://kortix.ai/suna) |
+| **OpenManus** | MetaGPT | Open alternative to Manus | [Repo](https://github.com/metagpt/openmanus) • [Release](https://metagpt.ai/openmanus) |
+| **Agent S²** | Simular | Compositional generalist-specialist framework | [Repo](https://github.com/simular/agent-s2) • [Paper](https://arxiv.org/abs/2025.04.01) |
+| **UI-TARS** | ByteDance | All-in-one multimodal AI agent stack | [Repo](https://github.com/bytedance/ui-tars) • [Paper](https://arxiv.org/abs/2025.01.21) |
 
-</details>
+---
 
-<details>
-<summary>NLP</summary>
+## 📖 **Detailed Resources**
 
-- Masked word completion with [ModernBERT](https://huggingface.co/answerdotai/ModernBERT-base)
-- Named entity recognition with [Gemma](https://huggingface.co/google/gemma-2-2b)
-- Question answering with [Mixtral](https://huggingface.co/mistralai/Mixtral-8x7B-v0.1)
-- Summarization with [BART](https://huggingface.co/facebook/bart-large-cnn)
-- Translation with [T5](https://huggingface.co/google-t5/t5-base)
-- Text generation with [Llama](https://huggingface.co/meta-llama/Llama-3.2-1B)
-- Text classification with [Qwen](https://huggingface.co/Qwen/Qwen2.5-0.5B)
+- **[🧩 Comprehensive Open-Source Projects](./more_detailed.md)** - Extended collection with detailed descriptions and implementation guides
 
-</details>
+---
 
-<details>
-<summary>Super Agents</summary>
+## 💡 **Contribution**
 
-- [DeepResearchAgent (Skywork AI)](https://github.com/SkyworkAI/DeepResearchAgent) — Hierarchical multi-agent framework for general-purpose task solving. [[paper](https://arxiv.org/abs/2025.06.14)]
-- [OWL (CAMEL-AI.org)](https://github.com/camel-ai/owl) — Optimized Workforce Learning for real-world task automation. [[paper](https://arxiv.org/abs/2025.05.29)]
-- [Suna (Kortix)](https://github.com/kortix/suna) — Open-source generalist AI agent. [[release](https://kortix.ai/suna)]
-- [OpenManus (MetaGPT)](https://github.com/metagpt/openmanus) — Open alternative to Manus, no invite code required. [[release](https://metagpt.ai/openmanus)]
-- [Agent S² (Simular)](https://github.com/simular/agent-s2) — Compositional generalist-specialist framework for computer-use agents. [[paper](https://arxiv.org/abs/2025.04.01)]
-- [UI-TARS (ByteDance)](https://github.com/bytedance/ui-tars) — All-in-one multimodal AI agent stack connecting models and infra. [[paper](https://arxiv.org/abs/2025.01.21)]
+Found something amazing that should be here? We'd love to include it!
 
-</details>
+### 🤝 **How to Contribute:**
+1. **Open an Issue** - Suggest new resources or improvements
+2. **Submit a PR** - Add new content or fix existing entries
+3. **Share Feedback** - Help us improve the organization and structure
 
+### 📋 **Guidelines:**
+- Ensure resources are open-source or freely accessible
+- Include relevant links (GitHub, papers, demos)
+- Provide brief but informative descriptions
+- Maintain consistent formatting
 
-## More detailed
-- [🧩 More Detailed Open-Source Projects](./more_detailed.md)
-## ✅ Contribution:
-Found something worth sharing? Feel free to [open an issue](https://github.com/Mrkomiljon/awesome-generative-ai/issues) or submit a pull request.
+---
 
-## Disclaimer: 
-This repository is a curated list of generative AI and LLM-related projects. All rights and credits belong to the respective authors and organizations. If you are an author and would like to suggest edits or removal, please open an issue.
+## ⚖️ **Disclaimer**
+
+This repository is a **curated collection** of Generative AI and LLM-related projects. All rights and credits belong to their respective authors and organizations. If you're an author and would like to suggest edits or request removal, please [open an issue](https://github.com/Mrkomiljon/awesome-generative-ai/issues).
+
+---
+
+<div align="center">
+
+**⭐ Star this repo if you find it helpful!**
+
+**🔄 Updated regularly with the latest AI breakthroughs**
+
+</div>
