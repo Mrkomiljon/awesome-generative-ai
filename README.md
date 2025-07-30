@@ -8,6 +8,15 @@
   <strong>Comprehensive collection of cutting-edge Generative AI resources across Speech, Text, Image, and Multimodal domains</strong>
 </p>
 
+<!-- Badges -->
+<p align="center">
+  ![Downloads](https://img.shields.io/github/downloads/Mrkomiljon/awesome-generative-ai/total)
+  [![GitHub Repo stars](https://img.shields.io/github/stars/Mrkomiljon/awesome-generative-ai)](https://github.com/Mrkomiljon/awesome-generative-ai/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/Mrkomiljon/awesome-generative-ai)](https://github.com/Mrkomiljon/awesome-generative-ai/network)
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Mrkomiljon/awesome-generative-ai)
+</p>
+
 <p align="center">
   <a href="#-main-categories">📚 Categories</a> •
   <a href="#-transformers--foundation-models">🤖 Models</a> •
