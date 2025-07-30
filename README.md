@@ -10,11 +10,11 @@
 
 <!-- Badges -->
 <p align="center">
-  ![Downloads](https://img.shields.io/github/downloads/Mrkomiljon/awesome-generative-ai/total)
-  [![GitHub Repo stars](https://img.shields.io/github/stars/Mrkomiljon/awesome-generative-ai)](https://github.com/Mrkomiljon/awesome-generative-ai/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/Mrkomiljon/awesome-generative-ai)](https://github.com/Mrkomiljon/awesome-generative-ai/network)
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Mrkomiljon/awesome-generative-ai)
+  <img src="https://img.shields.io/github/downloads/Mrkomiljon/awesome-generative-ai/total" alt="Downloads">
+  <img src="https://img.shields.io/github/stars/Mrkomiljon/awesome-generative-ai" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Mrkomiljon/awesome-generative-ai" alt="Forks">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+  <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" alt="GitHub Repository">
 </p>
 
 <p align="center">
