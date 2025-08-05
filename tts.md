@@ -9,6 +9,7 @@
 - [⚡ Fast & Efficient Models](#-fast--efficient-models)
 - [🔊 Vocoders](#-vocoders)
 - [🗣️ Notable TTS Projects](#️-notable-tts-projects)
+- [🔧 Additional TTS Models](#-additional-tts-models)
 - [💡 Selection Guide](#-selection-guide)
 
 ---
@@ -32,6 +33,42 @@
 - **Features**: Easy training, fine-tuning, pretrained models
 - **Languages**: English, German, French, and more
 - **Best for**: Production-ready applications
+
+### 🔷 [Bark](https://github.com/suno-ai/bark)
+- **Type**: Multilingual text-to-audio model
+- **Features**: High-quality speech synthesis
+- **Languages**: Multiple languages support
+- **Best for**: Creative audio generation
+
+### 🔷 [Maha TTS](https://github.com/dubverse-ai/MahaTTS)
+- **Type**: Multilingual TTS system
+- **Features**: Indian languages support
+- **Languages**: Hindi, English, and regional languages
+- **Best for**: Indian language applications
+
+### 🔷 [MMS (Massively Multilingual Speech)](https://github.com/facebookresearch/fairseq/blob/main/examples/mms/README.md)
+- **Type**: Multilingual speech recognition and synthesis
+- **Features**: 1000+ languages support
+- **Languages**: Extensive language coverage
+- **Best for**: Global applications
+
+### 🔷 [Vall-E X](https://github.com/Plachtaa/VALL-E-X)
+- **Type**: Multilingual TTS with voice cloning
+- **Features**: Cross-lingual voice cloning
+- **Languages**: Multiple languages
+- **Best for**: Multilingual voice synthesis
+
+### 🔷 [StyleTTS2](https://github.com/sidharthrajaram/StyleTTS2)
+- **Type**: Style-aware TTS system
+- **Features**: Style control and transfer
+- **Performance**: High-quality synthesis
+- **Best for**: Expressive speech generation
+
+### 🔷 [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)
+- **Type**: Multimodal multilingual model
+- **Features**: Speech-to-speech translation
+- **Languages**: 100+ languages
+- **Best for**: Real-time translation
 
 ---
 
@@ -111,6 +148,24 @@
 
 ---
 
+## 🔧 **Additional TTS Models**
+
+### 🔷 **Extension Models**
+- **[XTTSv2](https://github.com/coqui-ai/TTS)** - Enhanced XTTS implementation
+- **[MARS5](https://github.com/camb-ai/mars5-tts)** - Multilingual TTS system
+- **[F5-TTS](https://github.com/SWivid/F5-TTS)** - Fast and efficient TTS
+- **[Parler TTS](https://github.com/huggingface/parler-tts)** - Hugging Face TTS
+- **[OpenVoice](https://github.com/myshell-ai/OpenVoice)** - Open-source voice cloning
+- **[OpenVoice V2](https://github.com/myshell-ai/OpenVoice)** - Enhanced OpenVoice
+- **[DIA](https://github.com/nari-labs/dia)** - Neural TTS framework
+- **[CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** - Conversational TTS
+- **[GPT-SoVITS](https://github.com/X-T-E-R/GPT-SoVITS-Inference)** - GPT-based voice synthesis
+- **[Piper TTS](https://github.com/rhasspy/piper)** - Lightweight TTS engine
+- **[Kimi Audio 7B Instruct](https://github.com/Dao-AILab/Kimi-Audio)** - Large-scale audio model
+- **[ACE-Step](https://github.com/ACE-Step/ACE-Step)** - Advanced TTS framework
+
+---
+
 ## 💡 **Selection Guide**
 
 | Use Case | Recommended Model | Why |
@@ -119,9 +174,10 @@
 | **Production deployment** | Coqui TTS | Modular, well-documented |
 | **Real-time applications** | FastSpeech 2 | Fast inference |
 | **Research projects** | VITS | End-to-end, efficient |
-| **Multilingual support** | Kokoro | Japanese/English focus |
+| **Multilingual support** | MMS, Vall-E X | Extensive language coverage |
 | **Streaming applications** | Llasa-TTS | Ultra-fast, streaming |
 | **Lightweight deployment** | VITS2 | Small footprint |
+| **Voice cloning** | OpenVoice, Bark | High-fidelity cloning |
 
 ---
 
