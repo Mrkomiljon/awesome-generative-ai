@@ -91,6 +91,21 @@
 - **Features**: High-performance, parallelizable
 - **Best for**: Fast inference scenarios
 
+### 🔷 [KittenTTS](https://github.com/KittenML/KittenTTS) 😻
+- **Type**: Ultra-lightweight neural TTS
+- **Features**: Only 15M parameters, <25MB model size
+- **Performance**: CPU-optimized, no GPU required
+- **Voices**: 8 premium voice options (male/female variants)
+- **Best for**: Edge deployment, mobile applications
+
+### 🔷 [Piper](https://github.com/rhasspy/piper)
+- **Type**: Fast, local neural text-to-speech system
+- **Features**: Lightweight deployment, high-quality synthesis
+- **Performance**: Optimized for real-time applications
+- **Languages**: Multiple language support
+- **Note**: Development moved to [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)
+- **Best for**: Local deployment, privacy-focused applications
+
 ---
 
 ## 🔊 **Vocoders**
@@ -177,6 +192,8 @@
 | **Multilingual support** | MMS, Vall-E X | Extensive language coverage |
 | **Streaming applications** | Llasa-TTS | Ultra-fast, streaming |
 | **Lightweight deployment** | VITS2 | Small footprint |
+| **Ultra-lightweight/Edge** | KittenTTS | <25MB, CPU-only |
+| **Local/Privacy-focused** | Piper | Fast local synthesis |
 | **Voice cloning** | OpenVoice, Bark | High-fidelity cloning |
 
 ---
@@ -206,6 +223,44 @@ from vits import utils, commons
 from vits.models import SynthesizerTrn
 
 # Load model and generate speech
+```
+
+### Python - KittenTTS
+```python
+from kittentts import KittenTTS
+import soundfile as sf
+
+# Initialize model
+m = KittenTTS("KittenML/kitten-tts-nano-0.1")
+
+# Generate audio with voice selection
+audio = m.generate(
+    "This high quality TTS model works without a GPU", 
+    voice='expr-voice-2-f'
+)
+
+# Save the audio
+sf.write('output.wav', audio, 24000)
+
+# Available voices: expr-voice-2-m, expr-voice-2-f, 
+# expr-voice-3-m, expr-voice-3-f, expr-voice-4-m, 
+# expr-voice-4-f, expr-voice-5-m, expr-voice-5-f
+```
+
+### Python - Piper
+```python
+import subprocess
+import wave
+
+# Using Piper command line (install via releases)
+subprocess.run([
+    "piper", 
+    "--model", "path/to/model.onnx",
+    "--config", "path/to/config.json",
+    "--output_file", "output.wav"
+], input="Hello, this is Piper TTS!", text=True)
+
+# Note: Development moved to OHF-Voice/piper1-gpl
 ```
 
 ---
