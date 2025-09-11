@@ -35,6 +35,7 @@ This is a **curated and organized collection** of state-of-the-art Generative AI
 - **Computer Vision**: Text-to-Image, Talking Head Generation
 - **Multimodal AI**: Transformers, Foundation Models, APIs
 - **AI Agents**: Latest autonomous AI systems and frameworks
+- **MCP Servers**: Model Context Protocol servers for AI tool integration
 - **Datasets**: High-quality training data for various AI tasks
 
 ---
@@ -43,13 +44,13 @@ This is a **curated and organized collection** of state-of-the-art Generative AI
 
 <div align="center">
 
-| 🎙️ **Speech** | 🖼️ **Vision** | 🤖 **AI & APIs** | 📊 **Data** |
-|:---:|:---:|:---:|:---:|
-| [STT Datasets](./stt-datasets.md) | [Text-to-Image](./text-to-image.md) | [GenAI APIs](./genai-apis.md) | [STT Models](./stt-models.md) |
-| [STT Models](./stt-models.md) | [Talking Head](./talking-head.md) | [Transformers](./transformers.md) | [TTS Models](./tts.md) |
-| [TTS Models](./tts.md) | | | [Voice Cloning](./voice-cloning.md) |
-| [Voice Cloning](./voice-cloning.md) | | | [Emotion Recognition](./emotion-recognition.md) |
-| [Emotion Recognition](./emotion-recognition.md) | | | |
+| 🎙️ **Speech** | 🖼️ **Vision** | 🤖 **AI & APIs** | 📊 **Data** | 🔌 **MCP** |
+|:---:|:---:|:---:|:---:|:---:|
+| [STT Datasets](./stt-datasets.md) | [Text-to-Image](./text-to-image.md) | [GenAI APIs](./genai-apis.md) | [STT Models](./stt-models.md) | [MCP Servers](./mcp.md) |
+| [STT Models](./stt-models.md) | [Talking Head](./talking-head.md) | [Transformers](./transformers.md) | [TTS Models](./tts.md) | |
+| [TTS Models](./tts.md) | | | [Voice Cloning](./voice-cloning.md) | |
+| [Voice Cloning](./voice-cloning.md) | | | [Emotion Recognition](./emotion-recognition.md) | |
+| [Emotion Recognition](./emotion-recognition.md) | | | | |
 
 </div>
 
@@ -107,6 +108,32 @@ This is a **curated and organized collection** of state-of-the-art Generative AI
 | **OpenManus** | MetaGPT | Open alternative to Manus | [Repo](https://github.com/metagpt/openmanus) • [Release](https://metagpt.ai/openmanus) |
 | **Agent S²** | Simular | Compositional generalist-specialist framework | [Repo](https://github.com/simular/agent-s2) • [Paper](https://arxiv.org/abs/2025.04.01) |
 | **UI-TARS** | ByteDance | All-in-one multimodal AI agent stack | [Repo](https://github.com/bytedance/ui-tars) • [Paper](https://arxiv.org/abs/2025.01.21) |
+
+---
+
+## 🔌 **Model Context Protocol (MCP) Servers**
+
+### 🌟 **Top MCP Servers**
+- **Browserbase MCP** - Cloud browser automation with 2.1k+ stars
+- **Microsoft Playwright MCP** - Official browser automation framework
+- **Supabase MCP** - Full-stack platform integration with 1.5k+ stars
+- **Pipedream MCP** - API integration platform with 1.2k+ APIs
+- **Redis MCP** - In-memory database integration
+
+### 🎯 **Key Categories**
+- **Browser Automation**: Web scraping, form filling, navigation
+- **Database Integration**: PostgreSQL, MongoDB, Redis, SQLite
+- **Cloud Platforms**: AWS, Cloudflare, Kubernetes management
+- **Communication**: Slack, Discord, Telegram, Teams integration
+- **Developer Tools**: GitHub, Docker, CI/CD, API testing
+
+### 📊 **MCP Statistics**
+- **500+ MCP Servers** available across all categories
+- **20+ Programming Languages** supported (Python, TypeScript, Go, Rust)
+- **Cross-platform** support (Windows, macOS, Linux)
+- **Production-ready** servers for enterprise use
+
+> **💡 Explore**: [Complete MCP Server Collection](./mcp.md) - Comprehensive directory with detailed descriptions, installation guides, and usage examples.
 
 ---
 
