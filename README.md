@@ -32,11 +32,18 @@ This is a **curated and organized collection** of state-of-the-art Generative AI
 
 ### 🌟 **What You'll Find Here:**
 - **Speech Processing**: STT, TTS, Voice Cloning, Emotion Recognition
-- **Computer Vision**: Text-to-Image, Talking Head Generation
+- **Computer Vision**: Text-to-Image, **🗣️ Talking Head Generation** (Latest 2025 papers & models)
 - **Multimodal AI**: Transformers, Foundation Models, APIs
 - **AI Agents**: Latest autonomous AI systems and frameworks
 - **MCP Servers**: Model Context Protocol servers for AI tool integration
 - **Datasets**: High-quality training data for various AI tasks
+
+### 🔥 **Featured: Talking Head Generation**
+- **500+ Research Papers** from 2016-2025
+- **Latest Models**: VASA-1, EMO, AniPortrait, GaussianTalker
+- **3D Technologies**: NeRF, Gaussian Splatting, FLAME
+- **Comprehensive Datasets**: VoxCeleb, MEAD, HDTF, Multiface
+- **Real-time Tools**: Wav2Lip, SadTalker, LivePortrait
 
 ---
 
@@ -47,7 +54,7 @@ This is a **curated and organized collection** of state-of-the-art Generative AI
 | 🎙️ **Speech** | 🖼️ **Vision** | 🤖 **AI & APIs** | 📊 **Data** | 🔌 **MCP** |
 |:---:|:---:|:---:|:---:|:---:|
 | [STT Datasets](./stt-datasets.md) | [Text-to-Image](./text-to-image.md) | [GenAI APIs](./genai-apis.md) | [STT Models](./stt-models.md) | [MCP Servers](./mcp.md) |
-| [STT Models](./stt-models.md) | [Talking Head](./talking-head.md) | [Transformers](./transformers.md) | [TTS Models](./tts.md) | |
+| [STT Models](./stt-models.md) | [🗣️ Talking Head](./talking-head.md) | [Transformers](./transformers.md) | [TTS Models](./tts.md) | |
 | [TTS Models](./tts.md) | | | [Voice Cloning](./voice-cloning.md) | |
 | [Voice Cloning](./voice-cloning.md) | | | [Emotion Recognition](./emotion-recognition.md) | |
 | [Emotion Recognition](./emotion-recognition.md) | | | | |
@@ -75,6 +82,16 @@ This is a **curated and organized collection** of state-of-the-art Generative AI
 - **VitPose** - Pose estimation
 - **OneFormer** - Universal segmentation
 - **VideoMAE** - Video classification
+
+### 🗣️ **Talking Head Generation**
+- **VASA-1** - Microsoft's lifelike real-time talking faces
+- **EMO** - Expressive portrait videos with diffusion
+- **AniPortrait** - Photorealistic portrait animation
+- **GaussianTalker** - 3D Gaussian splatting for talking heads
+- **SadTalker** - 3D motion coefficients for facial animation
+- **Wav2Lip** - Lip-sync expert for speech generation
+- **LivePortrait** - Real-time portrait animation
+- **Animate Anyone** - Consistent character animation
 
 ### 🔄 **Multimodal**
 - **Qwen2-Audio** - Audio/text to text
