@@ -2,36 +2,36 @@ name: Update GitHub Stars
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Har kuni UTC 00:00 da ishga tushadi
-  workflow_dispatch:     # Qo'lda ham ishga tushirish mumkin
+    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
+  workflow_dispatch:     # Allows manual triggering
   push:
     paths:
-      - 'ai-agents.md'   # ai-agents.md o'zgarganida ham ishga tushadi
+      - 'ai-agents.md'   # Triggers when ai-agents.md is modified
 
 jobs:
   update-stars:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-      
+
       - name: Install dependencies
         run: |
           pip install requests beautifulsoup4
-      
-      - name: Update GitHub stars
+
+      - name: Run update script
         run: |
           chmod +x scripts/update_stars.py
           python scripts/update_stars.py
-      
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
@@ -42,4 +42,3 @@ jobs:
           else
             git commit -m "🔄 Auto-update GitHub stars - $(date '+%Y-%m-%d %H:%M:%S')"
             git push
-          fi
