@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 GitHub Stars Auto-Updater
-Bu script README.md va ai-agents.md fayllaridagi GitHub stars raqamlarini avtomatik yangilaydi.
+This script automatically updates GitHub star counts in README.md and ai-agents.md files.
 """
 
 import re
@@ -10,27 +10,26 @@ import time
 import os
 from datetime import datetime
 
-# GitHub API rate limiting uchun
-RATE_LIMIT_DELAY = 1  # sekund
+# GitHub API rate limiting
+RATE_LIMIT_DELAY = 1  # seconds
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN', '')
 
 def get_github_stars(repo_url):
-    """GitHub repository dan stars raqamini olish"""
+    """Fetch the star count from a GitHub repository"""
     try:
-        # "https://github.com/user/repo" -> "user/repo"
+        # Convert "https://github.com/user/repo" → "user/repo"
         if 'github.com' in repo_url:
             repo_path = repo_url.split('github.com/')[-1].rstrip('/')
         else:
             return None
-            
+
         api_url = f"https://api.github.com/repos/{repo_path}"
-        
         headers = {}
         if GITHUB_TOKEN:
             headers['Authorization'] = f'token {GITHUB_TOKEN}'
-        
+
         response = requests.get(api_url, headers=headers)
-        
+
         if response.status_code == 200:
             data = response.json()
             return data.get('stargazers_count', 0)
@@ -43,64 +42,57 @@ def get_github_stars(repo_url):
         else:
             print(f"⚠️ Error {response.status_code} for: {repo_path}")
             return None
-            
+
     except Exception as e:
         print(f"❌ Error fetching stars for {repo_url}: {e}")
         return None
 
 def update_file_stars(file_path):
-    """Fayldagi GitHub stars raqamlarini yangilash"""
+    """Update GitHub star counts in the specified file"""
     if not os.path.exists(file_path):
         print(f"❌ File not found: {file_path}")
         return False
-    
+
     print(f"🔄 Updating {file_path}...")
-    
+
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
-    
+
     original_content = content
-    
-    # GitHub repo URL larni topish
-    # Pattern: [Repo](https://github.com/user/repo) yoki [Website](https://github.com/user/repo)
-    repo_pattern = r'\[(?:Repo|Website)\]\((https://github\.com/[^/]+/[^/]+)\)'
+
+    # Find GitHub repo URLs in markdown links like [Repo](https://github.com/user/repo)
+    repo_pattern = r'
+
+\[(?:Repo|Website)\]
+
+\((https://github\.com/[^/]+/[^/]+)\)'
     repos = re.findall(repo_pattern, content)
-    
+
     updated_count = 0
-    
+
     for repo_url in repos:
         print(f"🔍 Checking: {repo_url}")
-        
+
         stars = get_github_stars(repo_url)
         if stars is not None:
-            # Repository nomini olish
             repo_name = repo_url.split('/')[-1]
-            
-            # Eski stars raqamini topish va yangilash
-            # Pattern: | **RepoName** | 123,456 | yoki | RepoName | 123,456 |
-            old_pattern = rf'\|.*\*\*?{re.escape(repo_name)}\*\*?.*\|.*\d+[,\d]*.*\|'
-            
-            # Yangi format: | **RepoName** | 123,456 |
             new_stars = f"{stars:,}"
-            
-            # Jadval qatorini topish va yangilash
+
+            # Match table rows like | **RepoName** | 123,456 |
             lines = content.split('\n')
             for i, line in enumerate(lines):
                 if repo_name in line and '|' in line and any(char.isdigit() for char in line):
-                    # Stars raqamini yangilash
                     new_line = re.sub(r'\d+[,\d]*', new_stars, line)
                     if new_line != line:
                         lines[i] = new_line
                         updated_count += 1
                         print(f"✅ Updated {repo_name}: {new_stars} stars")
                         break
-            
+
             content = '\n'.join(lines)
-        
-        # Rate limiting
+
         time.sleep(RATE_LIMIT_DELAY)
-    
-    # Agar o'zgarishlar bo'lsa, faylni saqlash
+
     if content != original_content:
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(content)
@@ -111,27 +103,26 @@ def update_file_stars(file_path):
         return False
 
 def main():
-    """Asosiy funksiya"""
+    """Main function"""
     print("🚀 Starting GitHub Stars Auto-Updater")
     print(f"⏰ Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    
-    # Yangilanish kerak bo'lgan fayllar
+
     files_to_update = [
         'README.md',
         'ai-agents.md'
     ]
-    
+
     updated_files = []
-    
+
     for file_path in files_to_update:
         if update_file_stars(file_path):
             updated_files.append(file_path)
-    
+
     if updated_files:
         print(f"🎉 Successfully updated {len(updated_files)} files: {', '.join(updated_files)}")
     else:
         print("ℹ️ No files were updated")
-    
+
     print("✅ GitHub Stars Auto-Updater completed")
 
 if __name__ == "__main__":
