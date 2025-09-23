@@ -59,6 +59,12 @@ This is a **curated and organized collection** of state-of-the-art Generative AI
 | [Voice Cloning](./voice-cloning.md) | | | [Emotion Recognition](./emotion-recognition.md) | |
 | [Emotion Recognition](./emotion-recognition.md) | | | | |
 
+## 🤖 **AI Agents & Frameworks**
+
+| Category | Description | Links |
+|:---:|:---:|:---:|
+| **🦾 Super Agents** | 200+ AI agent projects with 🔄 auto-updated GitHub stars | [AI Agents](./ai-agents.md) |
+
 </div>
 
 ---
@@ -115,16 +121,6 @@ This is a **curated and organized collection** of state-of-the-art Generative AI
 
 ---
 
-## 🦾 **Super Agents**
-
-| Agent | Organization | Description | Links |
-|:---|:---|:---|:---|
-| **DeepResearchAgent** | Skywork AI | Hierarchical multi-agent framework | [Repo](https://github.com/SkyworkAI/DeepResearchAgent) • [Paper](https://arxiv.org/abs/2025.06.14) |
-| **OWL** | CAMEL-AI.org | Optimized Workforce Learning | [Repo](https://github.com/camel-ai/owl) • [Paper](https://arxiv.org/abs/2025.05.29) |
-| **Suna** | Kortix | Open-source generalist AI agent | [Repo](https://github.com/kortix/suna) • [Release](https://kortix.ai/suna) |
-| **OpenManus** | MetaGPT | Open alternative to Manus | [Repo](https://github.com/metagpt/openmanus) • [Release](https://metagpt.ai/openmanus) |
-| **Agent S²** | Simular | Compositional generalist-specialist framework | [Repo](https://github.com/simular/agent-s2) • [Paper](https://arxiv.org/abs/2025.04.01) |
-| **UI-TARS** | ByteDance | All-in-one multimodal AI agent stack | [Repo](https://github.com/bytedance/ui-tars) • [Paper](https://arxiv.org/abs/2025.01.21) |
 
 ---
 
