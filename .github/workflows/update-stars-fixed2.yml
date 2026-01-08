@@ -1,0 +1,41 @@
+name: Update GitHub Stars (fixed v2)
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run fixed update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          chmod +x scripts/update_stars_fixed.py
+          python scripts/update_stars_fixed.py
+
+      - name: Commit and push changes (safe)
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Action
+          author_email: action@github.com
+          message: "🔄 Auto-update GitHub stars - ${{ github.event.workflow_run.created_at || github.run_id }}"
+          add: |
+            README.md
+            ai-agents.md
+          push: true
