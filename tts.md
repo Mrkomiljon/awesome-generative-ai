@@ -168,7 +168,7 @@
 ### 🔷 **Extension Models**
 - **[XTTSv2](https://github.com/coqui-ai/TTS)** - Enhanced XTTS implementation
 - **[MARS5](https://github.com/camb-ai/mars5-tts)** - Multilingual TTS system
-- **[F5-TTS](https://github.com/SWivid/F5-TTS)** - Fast and efficient TTS
+- **[F5-TTS](https://github.com/SWivid/F5-TTS)** - High-quality diffusion/flow TTS (see detailed curated entry below)
 - **[Parler TTS](https://github.com/huggingface/parler-tts)** - Hugging Face TTS
 - **[OpenVoice](https://github.com/myshell-ai/OpenVoice)** - Open-source voice cloning
 - **[OpenVoice V2](https://github.com/myshell-ai/OpenVoice)** - Enhanced OpenVoice
@@ -178,6 +178,47 @@
 - **[Piper TTS](https://github.com/rhasspy/piper)** - Lightweight TTS engine
 - **[Kimi Audio 7B Instruct](https://github.com/Dao-AILab/Kimi-Audio)** - Large-scale audio model
 - **[ACE-Step](https://github.com/ACE-Step/ACE-Step)** - Advanced TTS framework
+
+---
+
+## ✨ **New Additions (Curated)**
+
+### 🔷 [E2-TTS (e2-tts-pytorch)](https://github.com/lucidrains/e2-tts-pytorch)
+- **Type**: Fully non-autoregressive end-to-end TTS (PyTorch)
+- **Features**: Zero-shot style-capable synthesis, multistream transformer conditioning, simple training and inference API, pip-installable
+- **Requirements**: PyTorch (see repo for CUDA/CPU options)
+- **Best for**: Research experiments and fast end-to-end TTS prototyping
+
+### 🔷 [F5-TTS](https://github.com/SWivid/F5-TTS)
+- **Type**: Diffusion/flow-based TTS mixing ConvNeXt V2 + Flow Matching
+- **Features**: High-quality, faster training/inference, Gradio/CLI apps, Triton/TensorRT runtime guides
+- **Requirements**: GPU recommended for best performance
+- **Best for**: High-quality synthesis and production benchmarks
+
+### 🔷 [Delayed Streams Modeling / Kyutai](https://github.com/kyutai-labs/delayed-streams-modeling)
+- **Type**: Collection for streaming STT & TTS (Kyutai models)
+- **Features**: Streaming/low-latency TTS examples, PyTorch + Rust + MLX implementations, Colab demos
+- **Requirements**: Varies by implementation (PyTorch, Rust, or Apple MLX)
+- **Best for**: Real-time/streaming TTS systems and production servers
+
+### 🔷 [Chatterbox — Fine-Tuning Kit](https://github.com/gokhaneraslan/chatterbox-finetuning)
+- **Type**: Fine-tuning / inference kit for Chatterbox TTS (Standard & Turbo modes)
+- **Features**: Automated tokenizer merging, preprocessing pipeline, Turbo mode (GPT-2 style) for faster adaptation, inference scripts with VAD
+- **Requirements**: Python 3.8+, GPU recommended; run `setup.py` to download base models
+- **Best for**: Fine-tuning voice cloning and multi-language adaptation
+
+### 🔷 [Emotional VITS](https://github.com/innnky/emotional-vits)
+- **Type**: VITS variant with emotion conditioning
+- **Features**: Emotion embedding extraction from reference audio, emotion-controllable synthesis without manual emotion labels, clustering utilities
+- **Requirements**: Python >=3.6, preprocessing and monotonic alignment build steps
+- **Best for**: Emotion-aware TTS and expressive voice synthesis research
+
+### 🔷 [Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS)
+- **Type**: Fast non-autoregressive TTS using conditional flow matching
+- **Features**: ICASSP implementation, fast synthesis, ONNX export and runtime support, CLI and Gradio app
+- **Requirements**: PyTorch 2.0+, optional ONNX runtime for export/inference
+- **Best for**: Low-latency, exportable TTS pipelines and production-friendly deployment
+
 
 ---
 
