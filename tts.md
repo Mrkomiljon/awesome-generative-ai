@@ -161,6 +161,31 @@
 - **Architecture**: Fast and modular
 - **Synthesis**: Phoneme-based via `espeak-ng`
 
+### 🎙️ [Index-TTS](https://github.com/index-tts/index-tts)
+- **Type**: Neural text-to-speech system
+- **Features**: Training and inference pipeline
+- **Best for**: Research and experimentation
+
+### 🎙️ [Chatterbox](https://github.com/resemble-ai/chatterbox)
+- **Type**: Neural text-to-speech model
+- **Features**: Open-source TTS model and demos
+- **Best for**: Prototyping expressive speech
+
+### 🎙️ [FireRedTTS2](https://github.com/FireRedTeam/FireRedTTS2)
+- **Type**: Neural text-to-speech system
+- **Features**: Training and inference codebase
+- **Best for**: Model exploration and benchmarks
+
+### 🎙️ [Genie-TTS](https://github.com/High-Logic/Genie-TTS)
+- **Type**: Text-to-speech toolkit
+- **Features**: Inference tooling and model assets
+- **Best for**: Quick demos and experiments
+
+### 🎙️ [Supertonic](https://github.com/supertone-inc/supertonic)
+- **Type**: Text-to-speech model and toolkit
+- **Features**: Repository with model and utilities
+- **Best for**: Research and evaluation
+
 ---
 
 ## 🔧 **Additional TTS Models**
@@ -207,7 +232,7 @@
 - **Requirements**: Python 3.8+, GPU recommended; run `setup.py` to download base models
 - **Best for**: Fine-tuning voice cloning and multi-language adaptation
 
-### 🔷 [Emotional VITS](https://github.com/innnky/emotional-vits)
+git push orig### 🔷 [Emotional VITS](https://github.com/innnky/emotional-vits)
 - **Type**: VITS variant with emotion conditioning
 - **Features**: Emotion embedding extraction from reference audio, emotion-controllable synthesis without manual emotion labels, clustering utilities
 - **Requirements**: Python >=3.6, preprocessing and monotonic alignment build steps

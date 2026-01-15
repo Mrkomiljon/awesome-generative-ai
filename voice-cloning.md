@@ -60,6 +60,11 @@
 - **Performance**: Fast inference
 - **Best for**: Real-time applications
 
+### 🔷 [Applio](https://github.com/IAHispano/Applio)
+- **Type**: Voice conversion toolkit
+- **Features**: Web UI, training and inference workflows
+- **Best for**: Accessible voice conversion pipelines
+
 ---
 
 ## 📚 **Research Papers**
