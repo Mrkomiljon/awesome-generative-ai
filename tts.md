@@ -1,281 +1,283 @@
-# 🔊 Text-to-Speech (TTS) Models
+# Text-to-Speech (TTS) Models
 
-> **Curated collection of high-quality open-source TTS models and toolkits for research, production, and multi-language synthesis.**
-
----
-
-## 📋 **Table of Contents**
-- [🐢 High-Fidelity Models](#-high-fidelity-models)
-- [⚡ Fast & Efficient Models](#-fast--efficient-models)
-- [🔊 Vocoders](#-vocoders)
-- [🗣️ Notable TTS Projects](#️-notable-tts-projects)
-- [🔧 Additional TTS Models](#-additional-tts-models)
-- [💡 Selection Guide](#-selection-guide)
+> Curated collection of high-quality open-source TTS models and toolkits for research, production, and multi-language synthesis.
 
 ---
 
-## 🐢 **High-Fidelity Models**
-
-### 🔷 [Tortoise-TTS](https://github.com/neonbjb/tortoise-tts)
-- **Type**: High-fidelity voice cloning and generation
-- **Features**: Prompt tuning, long-form speech
-- **Requirements**: GPU, ≥16GB memory recommended
-- **Best for**: High-quality voice synthesis
-
-### 🔷 [VITS (Variational Inference TTS)](https://github.com/jaywalnut310/vits)
-- **Type**: End-to-end model combining Tacotron2 + HiFi-GAN
-- **Features**: High-quality synthesis, fewer artifacts
-- **Performance**: Fast training and inference
-- **Best for**: Research and production
-
-### 🔷 [Coqui TTS](https://github.com/coqui-ai/TTS)
-- **Type**: Modular, multilingual toolkit
-- **Features**: Easy training, fine-tuning, pretrained models
-- **Languages**: English, German, French, and more
-- **Best for**: Production-ready applications
-
-### 🔷 [Bark](https://github.com/suno-ai/bark)
-- **Type**: Multilingual text-to-audio model
-- **Features**: High-quality speech synthesis
-- **Languages**: Multiple languages support
-- **Best for**: Creative audio generation
-
-### 🔷 [Maha TTS](https://github.com/dubverse-ai/MahaTTS)
-- **Type**: Multilingual TTS system
-- **Features**: Indian languages support
-- **Languages**: Hindi, English, and regional languages
-- **Best for**: Indian language applications
-
-### 🔷 [MMS (Massively Multilingual Speech)](https://github.com/facebookresearch/fairseq/blob/main/examples/mms/README.md)
-- **Type**: Multilingual speech recognition and synthesis
-- **Features**: 1000+ languages support
-- **Languages**: Extensive language coverage
-- **Best for**: Global applications
-
-### 🔷 [Vall-E X](https://github.com/Plachtaa/VALL-E-X)
-- **Type**: Multilingual TTS with voice cloning
-- **Features**: Cross-lingual voice cloning
-- **Languages**: Multiple languages
-- **Best for**: Multilingual voice synthesis
-
-### 🔷 [StyleTTS2](https://github.com/sidharthrajaram/StyleTTS2)
-- **Type**: Style-aware TTS system
-- **Features**: Style control and transfer
-- **Performance**: High-quality synthesis
-- **Best for**: Expressive speech generation
-
-### 🔷 [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)
-- **Type**: Multimodal multilingual model
-- **Features**: Speech-to-speech translation
-- **Languages**: 100+ languages
-- **Best for**: Real-time translation
+## Table of Contents
+- [High-Fidelity Models](#high-fidelity-models)
+- [Fast and Efficient Models](#fast-and-efficient-models)
+- [Vocoders](#vocoders)
+- [Notable TTS Projects](#notable-tts-projects)
+- [Additional TTS Models](#additional-tts-models)
+- [New Additions (Curated)](#new-additions-curated)
+- [Selection Guide](#selection-guide)
+- [Additional Resources](#additional-resources)
+- [Quick Start Examples](#quick-start-examples)
 
 ---
 
-## ⚡ **Fast & Efficient Models**
+## High-Fidelity Models
 
-### 🔷 [Tacotron 2](https://github.com/Rayhane-mamah/Tacotron-2)
-- **Type**: Two-stage pipeline (spectrogram + vocoder)
-- **Features**: Realistic prosody and intonation
-- **Framework**: TensorFlow
-- **Best for**: Research and learning
+### [Tortoise-TTS](https://github.com/neonbjb/tortoise-tts)
+- Type: High-fidelity voice cloning and generation
+- Features: Prompt tuning, long-form speech
+- Requirements: GPU, ~6GB memory recommended
+- Best for: High-quality voice synthesis
 
-### 🔷 [FastSpeech 2](https://github.com/ming024/FastSpeech2)
-- **Type**: Non-autoregressive TTS
-- **Features**: High speed and stability
-- **Vocoders**: HiFi-GAN, WaveGlow compatible
-- **Best for**: Real-time applications
+### [VITS (Variational Inference TTS)](https://github.com/jaywalnut310/vits)
+- Type: End-to-end model combining Tacotron2 + HiFi-GAN
+- Features: High-quality synthesis, fewer artifacts
+- Performance: Fast training and inference
+- Best for: Research and production
 
-### 🔷 [Glow-TTS](https://github.com/jaywalnut310/glow-tts)
-- **Type**: Flow-based TTS architecture
-- **Features**: High-performance, parallelizable
-- **Best for**: Fast inference scenarios
+### [Coqui TTS](https://github.com/coqui-ai/TTS)
+- Type: Modular, multilingual toolkit
+- Features: Easy training, fine-tuning, pretrained models
+- Languages: English, German, French, and more
+- Best for: Production-ready applications
 
-### 🔷 [KittenTTS](https://github.com/KittenML/KittenTTS) 😻
-- **Type**: Ultra-lightweight neural TTS
-- **Features**: Only 15M parameters, <25MB model size
-- **Performance**: CPU-optimized, no GPU required
-- **Voices**: 8 premium voice options (male/female variants)
-- **Best for**: Edge deployment, mobile applications
+### [Bark](https://github.com/suno-ai/bark)
+- Type: Multilingual text-to-audio model
+- Features: High-quality speech synthesis
+- Languages: Multiple languages
+- Best for: Creative audio generation
 
-### 🔷 [Piper](https://github.com/rhasspy/piper)
-- **Type**: Fast, local neural text-to-speech system
-- **Features**: Lightweight deployment, high-quality synthesis
-- **Performance**: Optimized for real-time applications
-- **Languages**: Multiple language support
-- **Note**: Development moved to [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)
-- **Best for**: Local deployment, privacy-focused applications
+### [Maha TTS](https://github.com/dubverse-ai/MahaTTS)
+- Type: Multilingual TTS system
+- Features: Indian languages support
+- Languages: Hindi, English, and regional languages
+- Best for: Indian language applications
 
----
+### [MMS (Massively Multilingual Speech)](https://github.com/facebookresearch/fairseq/blob/main/examples/mms/README.md)
+- Type: Multilingual speech recognition and synthesis
+- Features: 1000+ languages support
+- Languages: Extensive language coverage
+- Best for: Global applications
 
-## 🔊 **Vocoders**
+### [Vall-E X](https://github.com/Plachtaa/VALL-E-X)
+- Type: Multilingual TTS with voice cloning
+- Features: Cross-lingual voice cloning
+- Languages: Multiple languages
+- Best for: Multilingual voice synthesis
 
-> **Vocoders convert spectrograms to audio waveforms**
+### [StyleTTS2](https://github.com/sidharthrajaram/StyleTTS2)
+- Type: Style-aware TTS system
+- Features: Style control and transfer
+- Performance: High-quality synthesis
+- Best for: Expressive speech generation
 
-### 🔷 [HiFi-GAN](https://github.com/jik876/hifi-gan)
-- **Type**: Fast, high-quality vocoder
-- **Features**: Efficient waveform generation
-- **Best for**: Production TTS systems
-
-### 🔷 [WaveGlow](https://github.com/NVIDIA/waveglow)
-- **Type**: Real-time waveform generator
-- **Features**: NVIDIA-optimized
-- **Best for**: GPU-accelerated synthesis
-
-### 🔷 [MelGAN](https://github.com/descriptinc/melgan-neurips)
-- **Type**: GAN-based vocoder
-- **Features**: Adversarial training
-- **Best for**: High-quality audio generation
-
----
-
-## 🗣️ **Notable TTS Projects**
-
-### 🐟 [Fish-Speech](https://github.com/fishaudio/fish-speech)
-- **Type**: Real-time streaming TTS system
-- **Features**: High-fidelity, low-latency synthesis
-- **Demo**: [https://speech.fish.audio/samples/](https://speech.fish.audio/samples/)
-- **Website**: [https://speech.fish.audio/](https://speech.fish.audio/)
-
-### 💞 [Kokoro](https://github.com/hexgrad/kokoro)
-- **Type**: Multilingual expressive TTS
-- **Features**: Multi-speaker, style control
-- **Languages**: Japanese/English
-- **PyPI**: [kokoro](https://pypi.org/project/kokoro/)
-- **Model**: [Hugging Face](https://huggingface.co/hexgrad/Kokoro)
-- **Demo**: [Space](https://huggingface.co/spaces/hexgrad/kokoro-tts)
-
-### 🏔️ [Llasa-TTS](https://llasatts.com/)
-- **Type**: Ultra-fast multilingual TTS engine
-- **Features**: Streaming, natural prosody
-- **Demo**: [Space](https://huggingface.co/spaces/srinivasanbalasubramani/llasa-tts)
-
-### 🔥 [Spark-TTS](https://github.com/sparkaudio/spark-tts)
-- **Type**: Modular, real-time neural TTS
-- **Features**: Latency-optimized
-- **Demo**: [https://sparkaudio.github.io/spark-tts/](https://sparkaudio.github.io/spark-tts/)
-
-### 🗣️ [VITS2](https://github.com/daniilrobnikov/vits2)
-- **Type**: Tacotron-style neural TTS
-- **Features**: Real-time performance, lightweight
-- **Architecture**: Fast and modular
-- **Synthesis**: Phoneme-based via `espeak-ng`
-
-### 🎙️ [Index-TTS](https://github.com/index-tts/index-tts)
-- **Type**: Neural text-to-speech system
-- **Features**: Training and inference pipeline
-- **Best for**: Research and experimentation
-
-### 🎙️ [Chatterbox](https://github.com/resemble-ai/chatterbox)
-- **Type**: Neural text-to-speech model
-- **Features**: Open-source TTS model and demos
-- **Best for**: Prototyping expressive speech
-
-### 🎙️ [FireRedTTS2](https://github.com/FireRedTeam/FireRedTTS2)
-- **Type**: Neural text-to-speech system
-- **Features**: Training and inference codebase
-- **Best for**: Model exploration and benchmarks
-
-### 🎙️ [Genie-TTS](https://github.com/High-Logic/Genie-TTS)
-- **Type**: Text-to-speech toolkit
-- **Features**: Inference tooling and model assets
-- **Best for**: Quick demos and experiments
-
-### 🎙️ [Supertonic](https://github.com/supertone-inc/supertonic)
-- **Type**: Text-to-speech model and toolkit
-- **Features**: Repository with model and utilities
-- **Best for**: Research and evaluation
+### [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)
+- Type: Multimodal multilingual model
+- Features: Speech-to-speech translation
+- Languages: 100+ languages
+- Best for: Real-time translation
 
 ---
 
-## 🔧 **Additional TTS Models**
+## Fast and Efficient Models
 
-### 🔷 **Extension Models**
-- **[XTTSv2](https://github.com/coqui-ai/TTS)** - Enhanced XTTS implementation
-- **[MARS5](https://github.com/camb-ai/mars5-tts)** - Multilingual TTS system
-- **[F5-TTS](https://github.com/SWivid/F5-TTS)** - High-quality diffusion/flow TTS (see detailed curated entry below)
-- **[Parler TTS](https://github.com/huggingface/parler-tts)** - Hugging Face TTS
-- **[OpenVoice](https://github.com/myshell-ai/OpenVoice)** - Open-source voice cloning
-- **[OpenVoice V2](https://github.com/myshell-ai/OpenVoice)** - Enhanced OpenVoice
-- **[DIA](https://github.com/nari-labs/dia)** - Neural TTS framework
-- **[Higgs Audio](https://github.com/boson-ai/higgs-audio)** - Open-source TTS model and toolkit
-- **[Soprano](https://github.com/ekwek1/soprano)** - TTS model and training toolkit
-- **[CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** - Conversational TTS
-- **[GPT-SoVITS](https://github.com/X-T-E-R/GPT-SoVITS-Inference)** - GPT-based voice synthesis
-- **[Piper TTS](https://github.com/rhasspy/piper)** - Lightweight TTS engine
-- **[Kimi Audio 7B Instruct](https://github.com/Dao-AILab/Kimi-Audio)** - Large-scale audio model
-- **[ACE-Step](https://github.com/ACE-Step/ACE-Step)** - Advanced TTS framework
+### [Tacotron 2](https://github.com/Rayhane-mamah/Tacotron-2)
+- Type: Two-stage pipeline (spectrogram + vocoder)
+- Features: Realistic prosody and intonation
+- Framework: TensorFlow
+- Best for: Research and learning
 
----
+### [FastSpeech 2](https://github.com/ming024/FastSpeech2)
+- Type: Non-autoregressive TTS
+- Features: High speed and stability
+- Vocoders: HiFi-GAN, WaveGlow compatible
+- Best for: Real-time applications
 
-## ✨ **New Additions (Curated)**
+### [Glow-TTS](https://github.com/jaywalnut310/glow-tts)
+- Type: Flow-based TTS architecture
+- Features: High-performance, parallelizable
+- Best for: Fast inference scenarios
 
-### 🔷 [E2-TTS (e2-tts-pytorch)](https://github.com/lucidrains/e2-tts-pytorch)
-- **Type**: Fully non-autoregressive end-to-end TTS (PyTorch)
-- **Features**: Zero-shot style-capable synthesis, multistream transformer conditioning, simple training and inference API, pip-installable
-- **Requirements**: PyTorch (see repo for CUDA/CPU options)
-- **Best for**: Research experiments and fast end-to-end TTS prototyping
+### [KittenTTS](https://github.com/KittenML/KittenTTS)
+- Type: Ultra-lightweight neural TTS
+- Features: 15M parameters, <25MB model size
+- Performance: CPU-optimized, no GPU required
+- Voices: 8 premium voice options (male/female variants)
+- Best for: Edge deployment, mobile applications
 
-### 🔷 [F5-TTS](https://github.com/SWivid/F5-TTS)
-- **Type**: Diffusion/flow-based TTS mixing ConvNeXt V2 + Flow Matching
-- **Features**: High-quality, faster training/inference, Gradio/CLI apps, Triton/TensorRT runtime guides
-- **Requirements**: GPU recommended for best performance
-- **Best for**: High-quality synthesis and production benchmarks
-
-### 🔷 [Delayed Streams Modeling / Kyutai](https://github.com/kyutai-labs/delayed-streams-modeling)
-- **Type**: Collection for streaming STT & TTS (Kyutai models)
-- **Features**: Streaming/low-latency TTS examples, PyTorch + Rust + MLX implementations, Colab demos
-- **Requirements**: Varies by implementation (PyTorch, Rust, or Apple MLX)
-- **Best for**: Real-time/streaming TTS systems and production servers
-
-### 🔷 [Chatterbox — Fine-Tuning Kit](https://github.com/gokhaneraslan/chatterbox-finetuning)
-- **Type**: Fine-tuning / inference kit for Chatterbox TTS (Standard & Turbo modes)
-- **Features**: Automated tokenizer merging, preprocessing pipeline, Turbo mode (GPT-2 style) for faster adaptation, inference scripts with VAD
-- **Requirements**: Python 3.8+, GPU recommended; run `setup.py` to download base models
-- **Best for**: Fine-tuning voice cloning and multi-language adaptation
-
-git push orig### 🔷 [Emotional VITS](https://github.com/innnky/emotional-vits)
-- **Type**: VITS variant with emotion conditioning
-- **Features**: Emotion embedding extraction from reference audio, emotion-controllable synthesis without manual emotion labels, clustering utilities
-- **Requirements**: Python >=3.6, preprocessing and monotonic alignment build steps
-- **Best for**: Emotion-aware TTS and expressive voice synthesis research
-
-### 🔷 [Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS)
-- **Type**: Fast non-autoregressive TTS using conditional flow matching
-- **Features**: ICASSP implementation, fast synthesis, ONNX export and runtime support, CLI and Gradio app
-- **Requirements**: PyTorch 2.0+, optional ONNX runtime for export/inference
-- **Best for**: Low-latency, exportable TTS pipelines and production-friendly deployment
-
+### [Piper](https://github.com/rhasspy/piper)
+- Type: Fast, local neural text-to-speech system
+- Features: Lightweight deployment, high-quality synthesis
+- Performance: Optimized for real-time applications
+- Languages: Multiple language support
+- Note: Development moved to [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)
+- Best for: Local deployment, privacy-focused applications
 
 ---
 
-## 💡 **Selection Guide**
+## Vocoders
+
+> Vocoders convert spectrograms to audio waveforms.
+
+### [HiFi-GAN](https://github.com/jik876/hifi-gan)
+- Type: Fast, high-quality vocoder
+- Features: Efficient waveform generation
+- Best for: Production TTS systems
+
+### [WaveGlow](https://github.com/NVIDIA/waveglow)
+- Type: Real-time waveform generator
+- Features: NVIDIA-optimized
+- Best for: GPU-accelerated synthesis
+
+### [MelGAN](https://github.com/descriptinc/melgan-neurips)
+- Type: GAN-based vocoder
+- Features: Adversarial training
+- Best for: High-quality audio generation
+
+---
+
+## Notable TTS Projects
+
+### [Fish-Speech](https://github.com/fishaudio/fish-speech)
+- Type: Real-time streaming TTS system
+- Features: High-fidelity, low-latency synthesis
+- Demo: https://speech.fish.audio/samples/
+- Website: https://speech.fish.audio/
+
+### [Kokoro](https://github.com/hexgrad/kokoro)
+- Type: Multilingual expressive TTS
+- Features: Multi-speaker, style control
+- Languages: Japanese and English
+- PyPI: https://pypi.org/project/kokoro/
+- Model: https://huggingface.co/hexgrad/Kokoro
+- Demo: https://huggingface.co/spaces/hexgrad/kokoro-tts
+
+### [Llasa-TTS](https://llasatts.com/)
+- Type: Ultra-fast multilingual TTS engine
+- Features: Streaming, natural prosody
+- Demo: https://huggingface.co/spaces/srinivasanbalasubramani/llasa-tts
+
+### [Spark-TTS](https://github.com/sparkaudio/spark-tts)
+- Type: Modular, real-time neural TTS
+- Features: Latency-optimized
+- Demo: https://sparkaudio.github.io/spark-tts/
+
+### [VITS2](https://github.com/daniilrobnikov/vits2)
+- Type: Tacotron-style neural TTS
+- Features: Real-time performance, lightweight
+- Architecture: Fast and modular
+- Synthesis: Phoneme-based via espeak-ng
+
+### [Index-TTS](https://github.com/index-tts/index-tts)
+- Type: Neural text-to-speech system
+- Features: Training and inference pipeline
+- Best for: Research and experimentation
+
+### [Chatterbox](https://github.com/resemble-ai/chatterbox)
+- Type: Neural text-to-speech model
+- Features: Open-source TTS model and demos
+- Best for: Prototyping expressive speech
+
+### [FireRedTTS2](https://github.com/FireRedTeam/FireRedTTS2)
+- Type: Neural text-to-speech system
+- Features: Training and inference codebase
+- Best for: Model exploration and benchmarks
+
+### [Genie-TTS](https://github.com/High-Logic/Genie-TTS)
+- Type: Text-to-speech toolkit
+- Features: Inference tooling and model assets
+- Best for: Quick demos and experiments
+
+### [Supertonic](https://github.com/supertone-inc/supertonic)
+- Type: Text-to-speech model and toolkit
+- Features: Repository with model and utilities
+- Best for: Research and evaluation
+
+---
+
+## Additional TTS Models
+
+### Extension Models
+- [XTTSv2](https://github.com/coqui-ai/TTS) - Enhanced XTTS implementation
+- [MARS5](https://github.com/camb-ai/mars5-tts) - Multilingual TTS system
+- [F5-TTS](https://github.com/SWivid/F5-TTS) - High-quality diffusion/flow TTS (see curated entry below)
+- [Parler TTS](https://github.com/huggingface/parler-tts) - Hugging Face TTS
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Open-source voice cloning
+- [OpenVoice V2](https://github.com/myshell-ai/OpenVoice) - Enhanced OpenVoice
+- [DIA](https://github.com/nari-labs/dia) - Neural TTS framework
+- [Higgs Audio](https://github.com/boson-ai/higgs-audio) - Open-source TTS model and toolkit
+- [Soprano](https://github.com/ekwek1/soprano) - TTS model and training toolkit
+- [CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Conversational TTS
+- [GPT-SoVITS](https://github.com/X-T-E-R/GPT-SoVITS-Inference) - GPT-based voice synthesis
+- [Piper TTS](https://github.com/rhasspy/piper) - Lightweight TTS engine
+- [Kimi Audio 7B Instruct](https://github.com/Dao-AILab/Kimi-Audio) - Large-scale audio model
+- [ACE-Step](https://github.com/ACE-Step/ACE-Step) - Advanced TTS framework
+
+---
+
+## New Additions (Curated)
+
+### [E2-TTS (e2-tts-pytorch)](https://github.com/lucidrains/e2-tts-pytorch)
+- Type: Fully non-autoregressive end-to-end TTS (PyTorch)
+- Features: Zero-shot style-capable synthesis, multistream transformer conditioning, simple training and inference API
+- Requirements: PyTorch (see repo for CUDA/CPU options)
+- Best for: Research experiments and fast end-to-end TTS prototyping
+
+### [F5-TTS](https://github.com/SWivid/F5-TTS)
+- Type: Diffusion/flow-based TTS mixing ConvNeXt V2 + Flow Matching
+- Features: High-quality, faster training/inference, Gradio/CLI apps, Triton/TensorRT runtime guides
+- Requirements: GPU recommended for best performance
+- Best for: High-quality synthesis and production benchmarks
+
+### [Delayed Streams Modeling / Kyutai](https://github.com/kyutai-labs/delayed-streams-modeling)
+- Type: Collection for streaming STT and TTS (Kyutai models)
+- Features: Streaming/low-latency TTS examples, PyTorch + Rust + MLX implementations, Colab demos
+- Requirements: Varies by implementation (PyTorch, Rust, or Apple MLX)
+- Best for: Real-time/streaming TTS systems and production servers
+
+### [Chatterbox Fine-Tuning Kit](https://github.com/gokhaneraslan/chatterbox-finetuning)
+- Type: Fine-tuning and inference kit for Chatterbox TTS (Standard and Turbo modes)
+- Features: Automated tokenizer merging, preprocessing pipeline, Turbo mode for faster adaptation, inference scripts with VAD
+- Requirements: Python 3.8+, GPU recommended; run setup.py to download base models
+- Best for: Fine-tuning voice cloning and multi-language adaptation
+
+### [Emotional VITS](https://github.com/innnky/emotional-vits)
+- Type: VITS variant with emotion conditioning
+- Features: Emotion embedding extraction from reference audio, emotion-controllable synthesis
+- Requirements: Python 3.6+, preprocessing and monotonic alignment build steps
+- Best for: Emotion-aware TTS and expressive voice synthesis research
+
+### [Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS)
+- Type: Fast non-autoregressive TTS using conditional flow matching
+- Features: ICASSP implementation, fast synthesis, ONNX export and runtime support, CLI and Gradio app
+- Requirements: PyTorch 2.0+, optional ONNX runtime for export/inference
+- Best for: Low-latency, exportable TTS pipelines and production-friendly deployment
+
+---
+
+## Selection Guide
 
 | Use Case | Recommended Model | Why |
 |:---|:---|:---|
-| **High-quality synthesis** | Tortoise-TTS | Best audio quality |
-| **Production deployment** | Coqui TTS | Modular, well-documented |
-| **Real-time applications** | FastSpeech 2 | Fast inference |
-| **Research projects** | VITS | End-to-end, efficient |
-| **Multilingual support** | MMS, Vall-E X | Extensive language coverage |
-| **Streaming applications** | Llasa-TTS | Ultra-fast, streaming |
-| **Lightweight deployment** | VITS2 | Small footprint |
-| **Ultra-lightweight/Edge** | KittenTTS | <25MB, CPU-only |
-| **Local/Privacy-focused** | Piper | Fast local synthesis |
-| **Voice cloning** | OpenVoice, Bark | High-fidelity cloning |
+| High-quality synthesis | Tortoise-TTS | Best audio quality |
+| Production deployment | Coqui TTS | Modular and well-documented |
+| Real-time applications | FastSpeech 2 | Fast inference |
+| Research projects | VITS | End-to-end and efficient |
+| Multilingual support | MMS, Vall-E X | Extensive language coverage |
+| Streaming applications | Llasa-TTS | Ultra-fast, streaming |
+| Lightweight deployment | VITS2 | Small footprint |
+| Ultra-lightweight/Edge | KittenTTS | <25MB, CPU-only |
+| Local/Privacy-focused | Piper | Fast local synthesis |
+| Voice cloning | OpenVoice, Bark | High-fidelity cloning |
 
 ---
 
-## 🔗 **Additional Resources**
+## Additional Resources
 
-- **[Voice Cloning](./voice-cloning.md)** - Voice synthesis and cloning techniques
-- **[STT Models](./stt-models.md)** - Speech-to-text recognition
-- **[Emotion Recognition](./emotion-recognition.md)** - Audio emotion analysis
-- **[Talking Head](./talking-head.md)** - Visual speech synthesis
+- [Voice Cloning](./voice-cloning.md) - Voice synthesis and cloning techniques
+- [STT Models](./stt-models.md) - Speech-to-text recognition
+- [Emotion Recognition](./emotion-recognition.md) - Audio emotion analysis
+- [Talking Head](./talking-head.md) - Visual speech synthesis
 
 ---
 
-## 🚀 **Quick Start Examples**
+## Quick Start Examples
 
 ### Python - Coqui TTS
 ```python
@@ -303,35 +305,37 @@ m = KittenTTS("KittenML/kitten-tts-nano-0.1")
 
 # Generate audio with voice selection
 audio = m.generate(
-    "This high quality TTS model works without a GPU", 
-    voice='expr-voice-2-f'
+    "This high quality TTS model works without a GPU",
+    voice="expr-voice-2-f"
 )
 
 # Save the audio
-sf.write('output.wav', audio, 24000)
+sf.write("output.wav", audio, 24000)
 
-# Available voices: expr-voice-2-m, expr-voice-2-f, 
-# expr-voice-3-m, expr-voice-3-f, expr-voice-4-m, 
+# Available voices: expr-voice-2-m, expr-voice-2-f,
+# expr-voice-3-m, expr-voice-3-f, expr-voice-4-m,
 # expr-voice-4-f, expr-voice-5-m, expr-voice-5-f
 ```
 
 ### Python - Piper
 ```python
 import subprocess
-import wave
 
 # Using Piper command line (install via releases)
-subprocess.run([
-    "piper", 
-    "--model", "path/to/model.onnx",
-    "--config", "path/to/config.json",
-    "--output_file", "output.wav"
-], input="Hello, this is Piper TTS!", text=True)
+subprocess.run(
+    [
+        "piper",
+        "--model", "path/to/model.onnx",
+        "--config", "path/to/config.json",
+        "--output_file", "output.wav"
+    ],
+    input="Hello, this is Piper TTS!",
+    text=True
+)
 
 # Note: Development moved to OHF-Voice/piper1-gpl
 ```
 
 ---
 
-> **💡 Tip**: Consider your use case (quality vs speed) and target platform when choosing a TTS model.
-
+> Tip: Consider your use case (quality vs speed) and target platform when choosing a TTS model.

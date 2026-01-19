@@ -188,6 +188,8 @@ Found something amazing that should be here? We would love to include it.
 - Provide brief but informative descriptions
 - Maintain consistent formatting
 
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
+
 ---
 
 ## Disclaimer
