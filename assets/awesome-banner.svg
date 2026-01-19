@@ -36,27 +36,27 @@
         fill="none" stroke="#38bdf8" stroke-opacity="0.2" stroke-width="2"/>
 
   <g font-family="Space Grotesk, Sora, system-ui, sans-serif" fill="#e2e8f0">
-    <text x="140" y="230" font-size="66" font-weight="700">Awesome Generative AI Resources</text>
-    <text x="140" y="275" font-size="26" fill="#cbd5f5">Speech | Vision | Agents | MCP</text>
-    <text x="140" y="320" font-size="20" fill="#9fb3c8">Curated models, tools, datasets, and frameworks for builders</text>
+    <text x="140" y="240" font-size="84" font-weight="700">Awesome Generative AI Resources</text>
+    <text x="140" y="292" font-size="34" fill="#cbd5f5">Speech | Vision | Agents | MCP</text>
+    <text x="140" y="340" font-size="24" fill="#9fb3c8">Curated models, tools, datasets, and frameworks for builders</text>
   </g>
 
-  <g font-family="Space Grotesk, Sora, system-ui, sans-serif" font-size="16" fill="#e2e8f0">
-    <rect x="140" y="350" width="130" height="34" rx="17" fill="#0f172a" fill-opacity="0.7" stroke="#38bdf8" stroke-opacity="0.35"/>
-    <text x="168" y="372">Models</text>
+  <g font-family="Space Grotesk, Sora, system-ui, sans-serif" font-size="18" fill="#e2e8f0">
+    <rect x="140" y="370" width="150" height="38" rx="19" fill="#0f172a" fill-opacity="0.7" stroke="#38bdf8" stroke-opacity="0.35"/>
+    <text x="175" y="395">Models</text>
 
-    <rect x="290" y="350" width="140" height="34" rx="17" fill="#0f172a" fill-opacity="0.7" stroke="#2dd4bf" stroke-opacity="0.35"/>
-    <text x="320" y="372">Datasets</text>
+    <rect x="310" y="370" width="160" height="38" rx="19" fill="#0f172a" fill-opacity="0.7" stroke="#2dd4bf" stroke-opacity="0.35"/>
+    <text x="344" y="395">Datasets</text>
 
-    <rect x="450" y="350" width="120" height="34" rx="17" fill="#0f172a" fill-opacity="0.7" stroke="#60a5fa" stroke-opacity="0.35"/>
-    <text x="478" y="372">Agents</text>
+    <rect x="490" y="370" width="135" height="38" rx="19" fill="#0f172a" fill-opacity="0.7" stroke="#60a5fa" stroke-opacity="0.35"/>
+    <text x="523" y="395">Agents</text>
 
-    <rect x="590" y="350" width="110" height="34" rx="17" fill="#0f172a" fill-opacity="0.7" stroke="#67e8f9" stroke-opacity="0.35"/>
-    <text x="620" y="372">MCP</text>
+    <rect x="645" y="370" width="120" height="38" rx="19" fill="#0f172a" fill-opacity="0.7" stroke="#67e8f9" stroke-opacity="0.35"/>
+    <text x="678" y="395">MCP</text>
   </g>
 
   <g stroke="#2dd4bf" stroke-opacity="0.45" stroke-width="2">
-    <line x1="140" y1="340" x2="250" y2="340"/>
-    <line x1="262" y1="340" x2="320" y2="340"/>
+    <line x1="140" y1="355" x2="260" y2="355"/>
+    <line x1="272" y1="355" x2="340" y2="355"/>
   </g>
 </svg>

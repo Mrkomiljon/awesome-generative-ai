@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/awesome-banner.svg" alt="Awesome Generative AI Banner" width="900"/>
+  <img src="assets/awesome-banner.svg" alt="Awesome Generative AI Banner" width="1000"/>
 </p>
 
 <h1 align="center">🚀 Awesome Generative AI Resources</h1>
