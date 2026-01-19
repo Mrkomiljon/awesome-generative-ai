@@ -198,6 +198,7 @@
 - **[OpenVoice](https://github.com/myshell-ai/OpenVoice)** - Open-source voice cloning
 - **[OpenVoice V2](https://github.com/myshell-ai/OpenVoice)** - Enhanced OpenVoice
 - **[DIA](https://github.com/nari-labs/dia)** - Neural TTS framework
+- **[Higgs Audio](https://github.com/boson-ai/higgs-audio)** - Open-source TTS model and toolkit
 - **[CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** - Conversational TTS
 - **[GPT-SoVITS](https://github.com/X-T-E-R/GPT-SoVITS-Inference)** - GPT-based voice synthesis
 - **[Piper TTS](https://github.com/rhasspy/piper)** - Lightweight TTS engine
