@@ -119,6 +119,15 @@
 | **LoopGPT** | 1,459 | Modular auto-GPT framework with plug-and-play API | [Repo](https://github.com/farizrahman1,459u/loopgpt) |
 | **OpenRecall** | - | Open-source, privacy-focused digital memory tool | [Repo](https://github.com/openrecall/openrecall) |
 | **LiveRecall** | - | Open-source alternative to Microsoft's Recall | [Repo](https://github.com/VedankPurohit/LiveRecall) |
+| **MemMachine** | - | Memory engine for long-term agent context | [Repo](https://github.com/MemMachine/MemMachine) |
+| **LightRAG** | - | Lightweight RAG framework for retrieval pipelines | [Repo](https://github.com/HKUDS/LightRAG) |
+| **Engram** | - | Long-term memory store for LLM agents | [Repo](https://github.com/deepseek-ai/Engram) |
+| **mem0** | - | Open-source memory layer for LLM apps | [Repo](https://github.com/mem0ai/mem0) |
+| **RAGFlow** | - | RAG workflow engine for document retrieval | [Repo](https://github.com/infiniflow/ragflow) |
+| **Anything-LLM** | - | All-in-one LLM app for private docs and chat | [Repo](https://github.com/Mintplex-Labs/anything-llm) |
+| **memvid** | - | Memory system using video-focused retrieval | [Repo](https://github.com/memvid/memvid) |
+| **Acontext** | - | Context store for agent memory and recall | [Repo](https://github.com/memodb-io/Acontext) |
+| **Trilium** | - | Personal knowledge base for long-term notes | [Repo](https://github.com/TriliumNext/Trilium) |
 
 ---
 
@@ -145,6 +154,8 @@
 | **Cody** | 3,793 | AI coding assistant with enterprise features | [Repo](https://github.com/sourcegraph/cody) |
 | **vimGPT** | 2,671 | GPT-2,671V integration with Vimium for web browsing | [Repo](https://github.com/ishan2,671/vimGPT) |
 | **GPT Computer Assistant** | 7,744 | Unofficial app bringing ChatGPT functionality to Windows/Linux | [Repo](https://github.com/onuratakan/gpt-computer-assistant) |
+| **OpenHands** | - | Open-source AI software development agent | [Repo](https://github.com/OpenHands/OpenHands) |
+| **Agent-S** | - | Autonomous agent for multi-step software tasks | [Repo](https://github.com/simular-ai/Agent-S) |
 
 ---
 
@@ -158,6 +169,8 @@
 | **AppAgent** | 6,458 | Mobile-friendly LLM-based multimodal agent | [Repo](https://github.com/mnotgod96/AppAgent) |
 | **NavAIGuide** | 115 | Extensible, mobile-friendly, multi-modal agentic framework | [Repo](https://github.com/francedot/NavAIGuide-TS) |
 | **Tarsier** | 1,750 | Utility library for enhancing web interaction for AI agents | [Repo](https://github.com/reworkd/tarsier) |
+| **browser-use** | - | LLM-driven browser automation toolkit | [Repo](https://github.com/browser-use/browser-use) |
+| **crawl4ai** | - | AI-first web crawler and scraper | [Repo](https://github.com/unclecode/crawl4ai) |
 
 ---
 
@@ -172,6 +185,7 @@
 | **LangFuse** | 20,710 | Open-source LLM engineering platform | [Repo](https://github.com/langfuse/langfuse) |
 | **Context** | - | Tool for evaluating and analyzing products with LLMs | [Website](https://context.ai/) |
 | **Traces** | - | W&B Traces for AI agent observability | [Website](https://wandb.ai/site/traces) |
+| **Agent Harness** | - | Agent evaluation harness and test runner | [Repo](https://github.com/tripleyak/agent-harness) |
 
 ---
 
@@ -185,6 +199,7 @@
 | **TypeChat** | 8,606 | Library for building natural language interfaces | [Repo](https://github.com/microsoft/TypeChat) |
 | **NPI** | 229 | Open-source platform providing tool-use APIs for AI agents | [Repo](https://github.com/npi-ai/npi) |
 | **Tools by Taskade** | - | Custom AI agents with web search and computational tools | [Docs](https://help.taskade.com/en/articles/8958457-custom-ai-agents) |
+| **LiteLLM** | - | LLM gateway/proxy for multi-provider access | [Repo](https://github.com/BerriAI/litellm) |
 
 ### 🏗️ **Structured Outputs**
 
