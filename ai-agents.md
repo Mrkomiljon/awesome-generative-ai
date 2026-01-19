@@ -150,6 +150,7 @@
 | **Devin** | - | Fully autonomous AI software engineer | [Website](https://www.cognition-labs.com/introducing-devin) |
 | **Devika** | 19,480 | Open-source AI software engineer alternative | [Repo](https://github.com/stitionai/devika) |
 | **Devon** | 3,465 | AI agent for code correction and completion | [Repo](https://github.com/entropy-research/Devon) |
+| **Dexter** | - | Open-source AI agent for software tasks | [Repo](https://github.com/virattt/dexter) |
 | **Cody** | 3,793 | AI coding assistant with enterprise features | [Repo](https://github.com/sourcegraph/cody) |
 | **vimGPT** | 2,671 | GPT-2,671V integration with Vimium for web browsing | [Repo](https://github.com/ishan2,671/vimGPT) |
 | **GPT Computer Assistant** | 7,744 | Unofficial app bringing ChatGPT functionality to Windows/Linux | [Repo](https://github.com/onuratakan/gpt-computer-assistant) |
