@@ -40,7 +40,6 @@
 |:---|:---|:---|:---|:---|
 | **Flowise** | 48,277 | FlowiseAI | Drag-and-drop interface for AI workflows | [Repo](https://github.com/FlowiseAI/Flowise) |
 | **FastChat** | 39,364 | LM-SYS | Platform for training, serving, and evaluating LLM chatbots | [Repo](https://github.com/lm-sys/FastChat) |
-| **mem40,343** | 40,343 | Mem40,343 AI | Intelligent memory layer for Large Language Models | [Repo](https://github.com/mem40,343ai/mem40,343) |
 | **Cal.ai** | 39,753 | Cal.com | Open-source AI scheduling assistant | [Repo](https://github.com/calcom/cal.com/tree/main/apps/ai) |
 | **Aider** | 39,857 | Paul Gauthier | Command-line tool for AI-assisted pair programming | [Repo](https://github.com/paul-gauthier/aider) |
 | **Jan** | 40,087 | JanHQ | Open-source ChatGPT alternative that operates offline | [Repo](https://github.com/janhq/jan) |
