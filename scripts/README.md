@@ -48,6 +48,7 @@ The script updates the following files:
 - `emotion-recognition.md` - Emotion recognition models
 - `mcp.md` - Model Context Protocol servers
 - `more_detailed.md` - Extended collection
+- `context-engineering.md` - Context engineering resources
 
 **All GitHub star counts are updated in real-time across all files!**
 

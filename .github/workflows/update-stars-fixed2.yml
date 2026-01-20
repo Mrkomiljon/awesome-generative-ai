@@ -38,4 +38,5 @@ jobs:
           add: |
             README.md
             ai-agents.md
+            context-engineering.md
           push: true

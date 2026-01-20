@@ -33,7 +33,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md ai-agents.md
+          git add README.md ai-agents.md context-engineering.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else

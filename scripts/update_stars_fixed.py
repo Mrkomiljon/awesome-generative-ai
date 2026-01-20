@@ -109,10 +109,10 @@ def update_file_stars(path):
 
 
 def main():
-    print("🚀 GitHub Stars Auto-Updater (fixed)")
-    print("⏰", datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC"))
+    print("GitHub Stars Auto-Updater (fixed)")
+    print(f"Time: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}")
 
-    files = ["README.md", "ai-agents.md"]
+    files = ["README.md", "ai-agents.md", "context-engineering.md"]
     updated_any = False
     for p in files:
         if update_file_stars(p):
