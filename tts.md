@@ -203,7 +203,9 @@
 - [Higgs Audio](https://github.com/boson-ai/higgs-audio) - Open-source TTS model and toolkit
 - [Soprano](https://github.com/ekwek1/soprano) - TTS model and training toolkit
 - [CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Conversational TTS
-- [GPT-SoVITS](https://github.com/X-T-E-R/GPT-SoVITS-Inference) - GPT-based voice synthesis
+- [VoxCPM](https://github.com/OpenBMB/VoxCPM) - Open-source TTS model
+- [GLM-TTS](https://github.com/zai-org/GLM-TTS) - GLM-based text-to-speech model
+- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - GPT-based voice synthesis
 - [Piper TTS](https://github.com/rhasspy/piper) - Lightweight TTS engine
 - [Kimi Audio 7B Instruct](https://github.com/Dao-AILab/Kimi-Audio) - Large-scale audio model
 - [ACE-Step](https://github.com/ACE-Step/ACE-Step) - Advanced TTS framework
