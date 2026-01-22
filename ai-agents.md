@@ -105,6 +105,8 @@
 | **Swarms** | 5,629 | Multi-agent collaboration for production applications | [Repo](https://github.com/kyegomez/swarms) |
 | **PraisonAI** | 5,562 | Low-code framework leveraging AutoGen and CrewAI | [Repo](https://github.com/MervinPraison/PraisonAI) |
 | **TaskingAI** | 5,360 | Platform for AI-native app development | [Repo](https://github.com/TaskingAI/TaskingAI) |
+| **Deer-Flow** | - | Flow-based orchestration framework for agent workflows | [Repo](https://github.com/bytedance/deer-flow) |
+| **Daytona** | - | Development environment manager for agentic coding workflows | [Repo](https://github.com/daytonaio/daytona) |
 
 ---
 
@@ -119,9 +121,11 @@
 | **OpenRecall** | - | Open-source, privacy-focused digital memory tool | [Repo](https://github.com/openrecall/openrecall) |
 | **LiveRecall** | - | Open-source alternative to Microsoft's Recall | [Repo](https://github.com/VedankPurohit/LiveRecall) |
 | **MemMachine** | - | Memory engine for long-term agent context | [Repo](https://github.com/MemMachine/MemMachine) |
+| **Cognee** | - | Memory and retrieval system for LLM apps | [Repo](https://github.com/topoteretes/cognee) |
+| **Graphiti** | - | Knowledge graph memory engine for agent context | [Repo](https://github.com/getzep/graphiti) |
 | **LightRAG** | - | Lightweight RAG framework for retrieval pipelines | [Repo](https://github.com/HKUDS/LightRAG) |
 | **Engram** | - | Long-term memory store for LLM agents | [Repo](https://github.com/deepseek-ai/Engram) |
-| **mem45,753** | - | Open-source memory layer for LLM apps | [Repo](https://github.com/mem0ai/mem0) |
+| **mem0** | - | Open-source memory layer for LLM apps | [Repo](https://github.com/mem0ai/mem0) |
 | **RAGFlow** | - | RAG workflow engine for document retrieval | [Repo](https://github.com/infiniflow/ragflow) |
 | **Anything-LLM** | - | All-in-one LLM app for private docs and chat | [Repo](https://github.com/Mintplex-Labs/anything-llm) |
 | **memvid** | - | Memory system using video-focused retrieval | [Repo](https://github.com/memvid/memvid) |
