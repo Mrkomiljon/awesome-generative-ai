@@ -128,7 +128,7 @@
 | **LightRAG** | - | Lightweight RAG framework for retrieval pipelines | [Repo](https://github.com/HKUDS/LightRAG) |
 | **UltraRAG** | - | RAG framework focused on long-context retrieval and reranking | [Repo](https://github.com/OpenBMB/UltraRAG) |
 | **Engram** | - | Long-term memory store for LLM agents | [Repo](https://github.com/deepseek-ai/Engram) |
-| **mem45,843** | - | Open-source memory layer for LLM apps | [Repo](https://github.com/mem0ai/mem0) |
+| **mem0** | - | Open-source memory layer for LLM apps | [Repo](https://github.com/mem0ai/mem0) |
 | **RAGFlow** | - | RAG workflow engine for document retrieval | [Repo](https://github.com/infiniflow/ragflow) |
 | **Anything-LLM** | - | All-in-one LLM app for private docs and chat | [Repo](https://github.com/Mintplex-Labs/anything-llm) |
 | **memvid** | - | Memory system using video-focused retrieval | [Repo](https://github.com/memvid/memvid) |
