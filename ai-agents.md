@@ -102,11 +102,13 @@
 | **ChatDev** | 28,971 | Virtual software company with intelligent agents | [Repo](https://github.com/OpenBMB/ChatDev) |
 | **CAMEL** | 15,725 | Communicative agents for mind exploration | [Repo](https://github.com/camel-ai/camel) |
 | **AgentVerse** | 4,918 | Multi-LLM agent framework for various applications | [Repo](https://github.com/OpenBMB/AgentVerse) |
+| **AgentCPM** | - | OpenBMB multi-agent framework built around CPM models and tooling | [Repo](https://github.com/OpenBMB/AgentCPM) |
 | **Swarms** | 5,633 | Multi-agent collaboration for production applications | [Repo](https://github.com/kyegomez/swarms) |
 | **PraisonAI** | 5,565 | Low-code framework leveraging AutoGen and CrewAI | [Repo](https://github.com/MervinPraison/PraisonAI) |
 | **TaskingAI** | 5,362 | Platform for AI-native app development | [Repo](https://github.com/TaskingAI/TaskingAI) |
 | **Deer-Flow** | - | Flow-based orchestration framework for agent workflows | [Repo](https://github.com/bytedance/deer-flow) |
 | **Daytona** | - | Development environment manager for agentic coding workflows | [Repo](https://github.com/daytonaio/daytona) |
+| **XState** | - | State machines and actor model for orchestrating agent flows | [Repo](https://github.com/statelyai/xstate) |
 
 ---
 
@@ -124,6 +126,7 @@
 | **Cognee** | - | Memory and retrieval system for LLM apps | [Repo](https://github.com/topoteretes/cognee) |
 | **Graphiti** | - | Knowledge graph memory engine for agent context | [Repo](https://github.com/getzep/graphiti) |
 | **LightRAG** | - | Lightweight RAG framework for retrieval pipelines | [Repo](https://github.com/HKUDS/LightRAG) |
+| **UltraRAG** | - | RAG framework focused on long-context retrieval and reranking | [Repo](https://github.com/OpenBMB/UltraRAG) |
 | **Engram** | - | Long-term memory store for LLM agents | [Repo](https://github.com/deepseek-ai/Engram) |
 | **mem45,843** | - | Open-source memory layer for LLM apps | [Repo](https://github.com/mem0ai/mem0) |
 | **RAGFlow** | - | RAG workflow engine for document retrieval | [Repo](https://github.com/infiniflow/ragflow) |
@@ -156,6 +159,7 @@
 | **Devon** | 3,463 | AI agent for code correction and completion | [Repo](https://github.com/entropy-research/Devon) |
 | **Dexter** | - | Open-source AI agent for software tasks | [Repo](https://github.com/virattt/dexter) |
 | **Cody** | 3,793 | AI coding assistant with enterprise features | [Repo](https://github.com/sourcegraph/cody) |
+| **agents** | - | Collection of agent patterns, prompts, and workflow examples | [Repo](https://github.com/wshobson/agents) |
 | **vimGPT** | 2,671 | GPT-2,671V integration with Vimium for web browsing | [Repo](https://github.com/ishan2,671/vimGPT) |
 | **GPT Computer Assistant** | 7,747 | Unofficial app bringing ChatGPT functionality to Windows/Linux | [Repo](https://github.com/onuratakan/gpt-computer-assistant) |
 | **OpenHands** | - | Open-source AI software development agent | [Repo](https://github.com/OpenHands/OpenHands) |
