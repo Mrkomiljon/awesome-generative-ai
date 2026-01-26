@@ -78,6 +78,13 @@
 | [LivePortrait](https://github.com/KwaiVGI/LivePortrait) | Real-time portrait animation | Efficient stitching and retargeting | Real-time | Live streaming |
 | [Animate Anyone](https://github.com/HumanAIGC/AnimateAnyone) | Character animation | Consistent and controllable | High-quality | Character animation |
 | [FaceFusion](https://github.com/facefusion/facefusion) | Face swapping and animation | High-quality face replacement | GPU-accelerated | Video production |
+| [StableAvatar](https://github.com/Francis-Rings/StableAvatar) | Diffusion-based avatar generation | Stable diffusion avatar synthesis | High-quality | Image-based avatars |
+| [aiavatarkit](https://github.com/uezo/aiavatarkit) | Avatar toolkit | SDK-style avatar pipeline | Real-time | App integrations |
+| [Duix-Avatar](https://github.com/duixcom/Duix-Avatar) | Talking avatar system | Real-time avatar driving | Real-time | Interactive avatars |
+| [OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat) | Avatar chat framework | Multimodal avatar + chat pipeline | Research-ready | Conversational avatars |
+| [HunyuanVideo-Avatar](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) | Video avatar generation | Avatar video synthesis | High-quality | Video avatar creation |
+| [OmniAvatar](https://github.com/Omni-Avatar/OmniAvatar) | Avatar generation | Multimodal avatar synthesis | High-quality | General avatar creation |
+| [fantasy-talking](https://github.com/Fantasy-AMAP/fantasy-talking) | Talking head toolkit | Audio-driven portrait animation | Real-time | Talking head demos |
 
 ### 🔷 **Commercial Platforms**
 

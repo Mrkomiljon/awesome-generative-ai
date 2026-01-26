@@ -157,6 +157,11 @@
 - Features: Latency-optimized
 - Demo: https://sparkaudio.github.io/spark-tts/
 
+### [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
+- Type: Large-scale multilingual TTS model
+- Features: High-quality synthesis, controllable voices
+- Best for: Research and production TTS
+
 ### [VITS2](https://github.com/daniilrobnikov/vits2)
 - Type: Tacotron-style neural TTS
 - Features: Real-time performance, lightweight
