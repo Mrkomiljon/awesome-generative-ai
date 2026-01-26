@@ -140,6 +140,7 @@
 | 2025 | [3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting](http://arxiv.org/abs/2312.09228v2) | Arxiv 2024 | [Code](https://github.com/mikeqzy/3dgs-avatar-release) | [Project](https://neuralbodies.github.io/3DGS-Avatar) | 🔥Gaussian Splatting |
 | 2025 | [GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians](http://arxiv.org/abs/2312.02069v1) | CVPR 2024 | [Code](https://github.com/ShenhanQian/GaussianAvatars) | [Project](https://shenhanqian.github.io/gaussian-avatars) | 🔥Gaussian Splatting |
 | 2024 | [RAD-NeRF: Real-time Neural Talking Portrait Synthesis](https://arxiv.org/pdf/2211.12368.pdf) | Arxiv 2022 | [Code](https://github.com/ashawkey/RAD-NeRF) | [Project](https://ashawkey.github.io/radnerf/) | InstantNGP |
+| 2024 | [ER-NeRF: Expressive NeRF for Talking Head Synthesis](https://github.com/Fictionarry/ER-NeRF) | Arxiv | [Code](https://github.com/Fictionarry/ER-NeRF) | | NeRF |
 | 2024 | [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://arxiv.org/abs/2103.11078) | ICCV 2021 | [Code](https://github.com/YudongGuo/AD-NeRF) | [Project](https://yudongguo.github.io/ADNeRF/) | NeRF |
 
 ### 🔷 **3D Avatar Creation**
