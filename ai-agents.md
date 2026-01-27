@@ -182,14 +182,14 @@
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
-| **BrowserGPT** | 422 | GPT-421 + Playwright for browser control | [Repo](https://github.com/mayt/BrowserGPT) |
+| **BrowserGPT** | 422 | GPT-4 + Playwright for browser control | [Repo](https://github.com/mayt/BrowserGPT) |
 | **ScrapeGraphAI** | 22,390 | AI agents for automated web scraping | [Repo](https://github.com/VinciGit00/Scrapegraph-ai) |
 | **Self Operating Computer** | 10,116 | Multimodal models for computer interaction | [Repo](https://github.com/OthersideAI/self-operating-computer) |
 | **AppAgent** | 6,482 | Mobile-friendly LLM-based multimodal agent | [Repo](https://github.com/mnotgod96/AppAgent) |
 | **NavAIGuide** | 115 | Extensible, mobile-friendly, multi-modal agentic framework | [Repo](https://github.com/francedot/NavAIGuide-TS) |
 | **Tarsier** | 1,749 | Utility library for enhancing web interaction for AI agents | [Repo](https://github.com/reworkd/tarsier) |
 | **browser-use** | - | LLM-driven browser automation toolkit | [Repo](https://github.com/browser-use/browser-use) |
-| **crawl59,059ai** | - | AI-first web crawler and scraper | [Repo](https://github.com/unclecode/crawl4ai) |
+| **crawl4ai** | - | AI-first web crawler and scraper | [Repo](https://github.com/unclecode/crawl4ai) |
 
 ---
 
