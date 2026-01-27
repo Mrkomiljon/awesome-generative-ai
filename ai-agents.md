@@ -71,6 +71,13 @@
 | **Tavily** | - | Comprehensive research assistant with Search API for LLMs | [Website](https://tavily.com/) |
 | **Aomni** | - | AI agent for researching prospective customers | [Website](https://www.aomni.com/) |
 
+### ?? **Finance Agents**
+
+| Agent | Stars | Description | Links |
+|:---|:---|:---|:---|
+| **Dexter** | - | Open-source financial research agent for data-backed analysis | [Repo](https://github.com/virattt/dexter) |
+| **FinRobot** | - | Open-source agent platform for financial analysis with LLMs | [Repo](https://github.com/AI4Finance-Foundation/FinRobot) |
+
 ### 📝 **Content Agents**
 
 | Agent | Stars | Description | Links |
@@ -106,6 +113,7 @@
 | **Swarms** | 5,652 | Multi-agent collaboration for production applications | [Repo](https://github.com/kyegomez/swarms) |
 | **PraisonAI** | 5,567 | Low-code framework leveraging AutoGen and CrewAI | [Repo](https://github.com/MervinPraison/PraisonAI) |
 | **TaskingAI** | 5,363 | Platform for AI-native app development | [Repo](https://github.com/TaskingAI/TaskingAI) |
+| **Superpowers** | - | Open-source skills library and workflow system for coding agents | [Repo](https://github.com/obra/superpowers) |
 | **Deer-Flow** | - | Flow-based orchestration framework for agent workflows | [Repo](https://github.com/bytedance/deer-flow) |
 | **Daytona** | - | Development environment manager for agentic coding workflows | [Repo](https://github.com/daytonaio/daytona) |
 | **XState** | - | State machines and actor model for orchestrating agent flows | [Repo](https://github.com/statelyai/xstate) |
@@ -134,6 +142,9 @@
 | **memvid** | - | Memory system using video-focused retrieval | [Repo](https://github.com/memvid/memvid) |
 | **Acontext** | - | Context store for agent memory and recall | [Repo](https://github.com/memodb-io/Acontext) |
 | **Trilium** | - | Personal knowledge base for long-term notes | [Repo](https://github.com/TriliumNext/Trilium) |
+| **Memos** | - | Open-source, self-hosted knowledge management and note-taking platform | [Repo](https://github.com/usememos/memos) |
+| **Supermemory** | - | Open-source memory engine and API for long-term AI context | [Repo](https://github.com/supermemoryai/supermemory) |
+| **Beads** | - | Open-source, git-backed, dependency-aware issue tracker for project memory | [Repo](https://github.com/steveyegge/beads) |
 
 ---
 
@@ -157,13 +168,13 @@
 | **Devin** | - | Fully autonomous AI software engineer | [Website](https://www.cognition-labs.com/introducing-devin) |
 | **Devika** | 19,493 | Open-source AI software engineer alternative | [Repo](https://github.com/stitionai/devika) |
 | **Devon** | 3,462 | AI agent for code correction and completion | [Repo](https://github.com/entropy-research/Devon) |
-| **Dexter** | - | Open-source AI agent for software tasks | [Repo](https://github.com/virattt/dexter) |
 | **Cody** | 3,793 | AI coding assistant with enterprise features | [Repo](https://github.com/sourcegraph/cody) |
 | **agents** | - | Collection of agent patterns, prompts, and workflow examples | [Repo](https://github.com/wshobson/agents) |
 | **vimGPT** | 2,671 | GPT-2,671V integration with Vimium for web browsing | [Repo](https://github.com/ishan2,671/vimGPT) |
 | **GPT Computer Assistant** | 7,752 | Unofficial app bringing ChatGPT functionality to Windows/Linux | [Repo](https://github.com/onuratakan/gpt-computer-assistant) |
 | **OpenHands** | - | Open-source AI software development agent | [Repo](https://github.com/OpenHands/OpenHands) |
 | **Agent-S** | - | Autonomous agent for multi-step software tasks | [Repo](https://github.com/simular-ai/Agent-S) |
+| **Goose** | - | Open-source, local, extensible AI agent for automating engineering tasks | [Repo](https://github.com/block/goose) |
 
 ---
 
