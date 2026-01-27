@@ -74,7 +74,7 @@ Full list: [Talking Head](./talking-head.md)
 | [STT Datasets](./stt-datasets.md) | [Text-to-Image](./text-to-image.md) | [GenAI APIs](./genai-apis.md) | [STT Models](./stt-models.md) | [MCP Servers](./mcp.md) |
 | [STT Models](./stt-models.md) | [Talking Head](./talking-head.md) | [Transformers](./transformers.md) | [TTS Models](./tts.md) | |
 | [TTS Models](./tts.md) | | [Context Engineering](./context-engineering.md) | [Voice Cloning](./voice-cloning.md) | |
-| [Voice Cloning](./voice-cloning.md) | | | [Emotion Recognition](./emotion-recognition.md) | |
+| [Voice Cloning](./voice-cloning.md) | | [AI Agents](./ai-agents.md) | [Emotion Recognition](./emotion-recognition.md) | |
 | [Emotion Recognition](./emotion-recognition.md) | | | | |
 
 ---
