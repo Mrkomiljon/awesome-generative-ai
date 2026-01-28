@@ -68,6 +68,7 @@
 |:---|:---|:---|:---|
 | **GPT Researcher** | 25,081 | AI-powered autonomous agent for online research | [Repo](https://github.com/assafelovic/gpt-researcher) |
 | **AI Researcher** | 948 | AI agent leveraging Claude 937 for in-depth topic research | [Repo](https://github.com/mshumer/ai-researcher) |
+| **Perplexica** | - | Open-source search and research assistant | [Repo](https://github.com/ItzCrazyKns/Perplexica) |
 | **Tavily** | - | Comprehensive research assistant with Search API for LLMs | [Website](https://tavily.com/) |
 | **Aomni** | - | AI agent for researching prospective customers | [Website](https://www.aomni.com/) |
 
@@ -111,6 +112,7 @@
 | **AgentVerse** | 4,924 | Multi-LLM agent framework for various applications | [Repo](https://github.com/OpenBMB/AgentVerse) |
 | **AgentCPM** | - | OpenBMB multi-agent framework built around CPM models and tooling | [Repo](https://github.com/OpenBMB/AgentCPM) |
 | **Swarms** | 5,653 | Multi-agent collaboration for production applications | [Repo](https://github.com/kyegomez/swarms) |
+| **Agno** | - | Agent framework for building multi-agent systems and tools | [Repo](https://github.com/agno-agi/agno) |
 | **PraisonAI** | 5,569 | Low-code framework leveraging AutoGen and CrewAI | [Repo](https://github.com/MervinPraison/PraisonAI) |
 | **TaskingAI** | 5,363 | Platform for AI-native app development | [Repo](https://github.com/TaskingAI/TaskingAI) |
 | **Superpowers** | - | Open-source skills library and workflow system for coding agents | [Repo](https://github.com/obra/superpowers) |
@@ -125,6 +127,7 @@
 | System | Stars | Description | Links |
 |:---|:---|:---|:---|
 | **MemGPT** | 20,863 | Customizable AI chatbot with self-editing memory | [Repo](https://github.com/cpacker/MemGPT) |
+| **Letta** | - | Agent framework with long-term memory (MemGPT successor) | [Repo](https://github.com/letta-ai/letta) |
 | **Zep** | 4,008 | Long-term memory service for AI assistants | [Repo](https://github.com/getzep/zep) |
 | **LocalGPT** | 22,143 | Private document interactions with local LLMs | [Repo](https://github.com/PromtEngineer/localGPT) |
 | **LoopGPT** | 1,459 | Modular auto-GPT framework with plug-and-play API | [Repo](https://github.com/farizrahman1,459u/loopgpt) |
@@ -214,7 +217,8 @@
 
 | Tool | Stars | Description | Links |
 |:---|:---|:---|:---|
-| **Composio** | - | Quick integration of 90+ tools for developers and agents | [Website](https://www.composio.dev/) |
+| **Activepieces** | - | Open-source workflow automation for AI agents and apps | [Repo](https://github.com/activepieces/activepieces) |
+| **Composio** | - | Quick integration of 90+ tools for developers and agents | [Repo](https://github.com/ComposioHQ/composio) |
 | **TypeChat** | 8,606 | Library for building natural language interfaces | [Repo](https://github.com/microsoft/TypeChat) |
 | **NPI** | 229 | Open-source platform providing tool-use APIs for AI agents | [Repo](https://github.com/npi-ai/npi) |
 | **Tools by Taskade** | - | Custom AI agents with web search and computational tools | [Docs](https://help.taskade.com/en/articles/8958457-custom-ai-agents) |
