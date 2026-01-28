@@ -61,11 +61,7 @@ def update_file_stars(file_path):
     original_content = content
 
     # Find GitHub repo URLs in markdown links like [Repo](https://github.com/user/repo)
-    repo_pattern = r'
-
-\[(?:Repo|Website)\]
-
-\((https://github\.com/[^/]+/[^/]+)\)'
+    repo_pattern = r"\[(?:Repo|Website)\]\((https://github\.com/[^/\s]+/[^)\s]+)\)"
     repos = re.findall(repo_pattern, content)
 
     updated_count = 0
@@ -78,16 +74,25 @@ def update_file_stars(file_path):
             repo_name = repo_url.split('/')[-1]
             new_stars = f"{stars:,}"
 
-            # Match table rows like | **RepoName** | 123,456 |
+            # Match table rows and replace only the numeric stars cell (avoid touching names like crawl4ai)
             lines = content.split('\n')
             for i, line in enumerate(lines):
-                if repo_name in line and '|' in line and any(char.isdigit() for char in line):
-                    new_line = re.sub(r'\d+[,\d]*', new_stars, line)
-                    if new_line != line:
-                        lines[i] = new_line
-                        updated_count += 1
-                        print(f"✅ Updated {repo_name}: {new_stars} stars")
-                        break
+                if repo_name in line and '|' in line:
+                    parts = line.split('|')
+                    changed = False
+                    for idx, part in enumerate(parts):
+                        cell = part.strip()
+                        if re.fullmatch(r'\d{1,3}(?:,\d{3})*', cell):
+                            parts[idx] = f' {new_stars} '
+                            changed = True
+                            break
+                    if changed:
+                        new_line = '|'.join(parts)
+                        if new_line != line:
+                            lines[i] = new_line
+                            updated_count += 1
+                            print(f"??Updated {repo_name}: {new_stars} stars")
+                            break
 
             content = '\n'.join(lines)
 
