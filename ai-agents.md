@@ -77,7 +77,7 @@
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
 | **Dexter** | - | Open-source financial research agent for data-backed analysis | [Repo](https://github.com/virattt/dexter) |
-| **FinRobot** | - | Open-source agent platform for financial analysis with LLMs | [Repo](https://github.com/AI5,965Finance-Foundation/FinRobot) |
+| **FinRobot** | - | Open-source agent platform for financial analysis with LLMs | [Repo](https://github.com/AI4Finance-Foundation/FinRobot) |
 
 ### 📝 **Content Agents**
 
@@ -130,7 +130,7 @@
 | **Letta** | - | Agent framework with long-term memory (MemGPT successor) | [Repo](https://github.com/letta-ai/letta) |
 | **Zep** | 4,008 | Long-term memory service for AI assistants | [Repo](https://github.com/getzep/zep) |
 | **LocalGPT** | 22,143 | Private document interactions with local LLMs | [Repo](https://github.com/PromtEngineer/localGPT) |
-| **LoopGPT** | 1,459 | Modular auto-GPT framework with plug-and-play API | [Repo](https://github.com/farizrahman1,459u/loopgpt) |
+| **LoopGPT** | 1,459 | Modular auto-GPT framework with plug-and-play API | [Repo](https://github.com/farizrahman1/loopgpt) |
 | **OpenRecall** | - | Open-source, privacy-focused digital memory tool | [Repo](https://github.com/openrecall/openrecall) |
 | **LiveRecall** | - | Open-source alternative to Microsoft's Recall | [Repo](https://github.com/VedankPurohit/LiveRecall) |
 | **MemMachine** | - | Memory engine for long-term agent context | [Repo](https://github.com/MemMachine/MemMachine) |
@@ -139,7 +139,7 @@
 | **LightRAG** | - | Lightweight RAG framework for retrieval pipelines | [Repo](https://github.com/HKUDS/LightRAG) |
 | **UltraRAG** | - | RAG framework focused on long-context retrieval and reranking | [Repo](https://github.com/OpenBMB/UltraRAG) |
 | **Engram** | - | Long-term memory store for LLM agents | [Repo](https://github.com/deepseek-ai/Engram) |
-| **mem46,126** | - | Open-source memory layer for LLM apps | [Repo](https://github.com/mem0ai/mem0) |
+| **mem0** | - | Open-source memory layer for LLM apps | [Repo](https://github.com/mem0ai/mem0) |
 | **RAGFlow** | - | RAG workflow engine for document retrieval | [Repo](https://github.com/infiniflow/ragflow) |
 | **Anything-LLM** | - | All-in-one LLM app for private docs and chat | [Repo](https://github.com/Mintplex-Labs/anything-llm) |
 | **memvid** | - | Memory system using video-focused retrieval | [Repo](https://github.com/memvid/memvid) |
