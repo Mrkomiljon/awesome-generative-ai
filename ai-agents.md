@@ -192,7 +192,7 @@
 | **NavAIGuide** | 115 | Extensible, mobile-friendly, multi-modal agentic framework | [Repo](https://github.com/francedot/NavAIGuide-TS) |
 | **Tarsier** | 1,749 | Utility library for enhancing web interaction for AI agents | [Repo](https://github.com/reworkd/tarsier) |
 | **browser-use** | - | LLM-driven browser automation toolkit | [Repo](https://github.com/browser-use/browser-use) |
-| **crawl59,104ai** | - | AI-first web crawler and scraper | [Repo](https://github.com/unclecode/crawl4ai) |
+| **crawl4ai** | - | AI-first web crawler and scraper | [Repo](https://github.com/unclecode/crawl4ai) |
 
 ---
 
