@@ -224,6 +224,14 @@
 | **Tools by Taskade** | - | Custom AI agents with web search and computational tools | [Docs](https://help.taskade.com/en/articles/8958457-custom-ai-agents) |
 | **LiteLLM** | - | LLM gateway/proxy for multi-provider access | [Repo](https://github.com/BerriAI/litellm) |
 
+### **LLM Serving & Fine-tuning**
+
+| Tool | Stars | Description | Links |
+|:---|:---|:---|:---|
+| **LocalAI** | - | Open-source OpenAI-compatible server for running LLMs locally | [Repo](https://github.com/mudler/LocalAI) |
+| **new-api** | - | OpenAI-compatible API gateway for multiple LLM providers | [Repo](https://github.com/QuantumNous/new-api) |
+| **LlamaFactory** | - | LLM fine-tuning and training toolkit | [Repo](https://github.com/hiyouga/LlamaFactory) |
+
 ### 🏗️ **Structured Outputs**
 
 | Tool | Stars | Description | Links |
