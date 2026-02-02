@@ -88,6 +88,12 @@
 | **ShortX** | - | AI-powered video automation platform for social media | [Website](https://shortx.ai/) |
 | **ChartGPT** | - | AI-driven services for table summarization and charting | [Website](https://chartgpt.io) |
 
+### **Personal Assistant Agents**
+
+| Agent | Stars | Description | Links |
+|:---|:---|:---|:---|
+| **OpenClaw** | 144k | Personal AI assistant for any OS and platform | [Repo](https://github.com/openclaw/openclaw) |
+
 ### 🎙️ **Voice Agents**
 
 | Agent | Description | Links |
