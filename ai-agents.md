@@ -21,16 +21,16 @@
 
 | Rank | Agent | Stars | Organization | Description | Links |
 |:---|:---|:---|:---|:---|:---|
-| 27,507 | **AutoGPT** | 178,639 | Significant-Gravitas | Accessible AI tools for building and using AI agents | [Repo](https://github.com/Significant-Gravitas/AutoGPT) |
-| 161,381 | **Ollama** | 152,864 | Ollama | Tool for running large language models locally | [Repo](https://github.com/ollama/ollama) |
-| 125,655 | **LangChain** | 116,010 | LangChain AI | Framework enabling context-aware reasoning applications | [Repo](https://github.com/langchain-ai/langchain) |
-| 71,810 | **Lobe Chat** | 65,772 | LobeHub | Open-source UI framework for ChatGPT/LLM-based chat apps | [Repo](https://github.com/lobehub/lobe-chat) |
-| 67,378 | **OpenDevin** | 63,694 | OpenDevin | Open-source autonomous AI software engineer | [Repo](https://github.com/OpenDevin/OpenDevin) |
-| 61,962 | **Open Interpreter** | 60,543 | OpenInterpreter | Coding agent enabling language models to execute code locally | [Repo](https://github.com/OpenInterpreter/open-interpreter) |
-| 63,756 | **MetaGPT** | 58,552 | Geekan | Multi-agent framework enabling GPT collaboration | [Repo](https://github.com/geekan/MetaGPT) |
-| 57,097 | **PrivateGPT** | 56,605 | Zylon AI | Secure, offline-capable AI tool for querying documents | [Repo](https://github.com/zylon-ai/private-gpt) |
+| 27,603 | **AutoGPT** | 178,639 | Significant-Gravitas | Accessible AI tools for building and using AI agents | [Repo](https://github.com/Significant-Gravitas/AutoGPT) |
+| 161,479 | **Ollama** | 152,864 | Ollama | Tool for running large language models locally | [Repo](https://github.com/ollama/ollama) |
+| 125,748 | **LangChain** | 116,010 | LangChain AI | Framework enabling context-aware reasoning applications | [Repo](https://github.com/langchain-ai/langchain) |
+| 71,855 | **Lobe Chat** | 65,772 | LobeHub | Open-source UI framework for ChatGPT/LLM-based chat apps | [Repo](https://github.com/lobehub/lobe-chat) |
+| 67,416 | **OpenDevin** | 63,694 | OpenDevin | Open-source autonomous AI software engineer | [Repo](https://github.com/OpenDevin/OpenDevin) |
+| 61,969 | **Open Interpreter** | 60,543 | OpenInterpreter | Coding agent enabling language models to execute code locally | [Repo](https://github.com/OpenInterpreter/open-interpreter) |
+| 63,809 | **MetaGPT** | 58,552 | Geekan | Multi-agent framework enabling GPT collaboration | [Repo](https://github.com/geekan/MetaGPT) |
+| 57,096 | **PrivateGPT** | 56,605 | Zylon AI | Secure, offline-capable AI tool for querying documents | [Repo](https://github.com/zylon-ai/private-gpt) |
 | 55,212 | **GPT Engineer** | 54,883 | GPT Engineer Org | AI-powered tool for natural language software specification | [Repo](https://github.com/gpt-engineer-org/gpt-engineer) |
-| 54,135 | **AutoGen** | 50,058 | Microsoft | Multi-agent conversation framework for LLM applications | [Repo](https://github.com/microsoft/autogen) |
+| 54,194 | **AutoGen** | 50,058 | Microsoft | Multi-agent conversation framework for LLM applications | [Repo](https://github.com/microsoft/autogen) |
 
 ---
 
@@ -38,15 +38,15 @@
 
 | Agent | Stars | Organization | Description | Links |
 |:---|:---|:---|:---|:---|
-| **Flowise** | 48,731 | FlowiseAI | Drag-and-drop interface for AI workflows | [Repo](https://github.com/FlowiseAI/Flowise) |
-| **FastChat** | 39,389 | LM-SYS | Platform for training, serving, and evaluating LLM chatbots | [Repo](https://github.com/lm-sys/FastChat) |
-| **Cal.ai** | 39,986 | Cal.com | Open-source AI scheduling assistant | [Repo](https://github.com/calcom/cal.com/tree/main/apps/ai) |
-| **Aider** | 40,270 | Paul Gauthier | Command-line tool for AI-assisted pair programming | [Repo](https://github.com/paul-gauthier/aider) |
-| **Jan** | 40,280 | JanHQ | Open-source ChatGPT alternative that operates offline | [Repo](https://github.com/janhq/jan) |
-| **CrewAI** | 43,479 | João Moura | Framework for orchestrating role-playing AI agents | [Repo](https://github.com/joaomdmoura/crewai) |
-| **AgentGPT** | 35,645 | Reworkd | Configure and deploy autonomous AI agents | [Repo](https://github.com/reworkd/AgentGPT) |
-| **GPT Pilot** | 33,760 | Pythagora | Open-source AI developer tool | [Repo](https://github.com/Pythagora-io/gpt-pilot) |
-| **Tabby** | 32,820 | TabbyML | Self-hosted, open-source AI coding assistant | [Repo](https://github.com/TabbyML/tabby) |
+| **Flowise** | 48,767 | FlowiseAI | Drag-and-drop interface for AI workflows | [Repo](https://github.com/FlowiseAI/Flowise) |
+| **FastChat** | 39,390 | LM-SYS | Platform for training, serving, and evaluating LLM chatbots | [Repo](https://github.com/lm-sys/FastChat) |
+| **Cal.ai** | 40,008 | Cal.com | Open-source AI scheduling assistant | [Repo](https://github.com/calcom/cal.com/tree/main/apps/ai) |
+| **Aider** | 40,300 | Paul Gauthier | Command-line tool for AI-assisted pair programming | [Repo](https://github.com/paul-gauthier/aider) |
+| **Jan** | 40,291 | JanHQ | Open-source ChatGPT alternative that operates offline | [Repo](https://github.com/janhq/jan) |
+| **CrewAI** | 43,525 | João Moura | Framework for orchestrating role-playing AI agents | [Repo](https://github.com/joaomdmoura/crewai) |
+| **AgentGPT** | 35,647 | Reworkd | Configure and deploy autonomous AI agents | [Repo](https://github.com/reworkd/AgentGPT) |
+| **GPT Pilot** | 33,759 | Pythagora | Open-source AI developer tool | [Repo](https://github.com/Pythagora-io/gpt-pilot) |
+| **Tabby** | 32,827 | TabbyML | Self-hosted, open-source AI coding assistant | [Repo](https://github.com/TabbyML/tabby) |
 
 ---
 
@@ -56,9 +56,9 @@
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
-| **SWE-agent** | 18,371 | Software engineering agent for GitHub repositories | [Repo](https://github.com/princeton-nlp/SWE-agent) |
-| **Sweep** | 7,632 | AI tool that transforms GitHub issues into pull requests | [Repo](https://github.com/sweepai/sweep) |
-| **Continue** | 31,192 | Open-source autopilot plugin for VS Code and JetBrains | [Repo](https://github.com/continuedev/continue) |
+| **SWE-agent** | 18,380 | Software engineering agent for GitHub repositories | [Repo](https://github.com/princeton-nlp/SWE-agent) |
+| **Sweep** | 7,634 | AI tool that transforms GitHub issues into pull requests | [Repo](https://github.com/sweepai/sweep) |
+| **Continue** | 31,212 | Open-source autopilot plugin for VS Code and JetBrains | [Repo](https://github.com/continuedev/continue) |
 | **Bloop** | 9,516 | GPT-9,490-based coding assistant for codebase interactions | [Repo](https://github.com/BloopAI/bloop) |
 | **Cody** | 3,793 | AI coding assistant with enterprise features | [Repo](https://github.com/sourcegraph/cody) |
 
@@ -66,7 +66,7 @@
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
-| **GPT Researcher** | 25,153 | AI-powered autonomous agent for online research | [Repo](https://github.com/assafelovic/gpt-researcher) |
+| **GPT Researcher** | 25,169 | AI-powered autonomous agent for online research | [Repo](https://github.com/assafelovic/gpt-researcher) |
 | **AI Researcher** | 949 | AI agent leveraging Claude 937 for in-depth topic research | [Repo](https://github.com/mshumer/ai-researcher) |
 | **Perplexica** | - | Open-source search and research assistant | [Repo](https://github.com/ItzCrazyKns/Perplexica) |
 | **Tavily** | - | Comprehensive research assistant with Search API for LLMs | [Website](https://tavily.com/) |
@@ -83,7 +83,7 @@
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
-| **ShortGPT** | 7,063 | AI-powered framework for automating content creation | [Repo](https://github.com/RayVentura/ShortGPT) |
+| **ShortGPT** | 7,066 | AI-powered framework for automating content creation | [Repo](https://github.com/RayVentura/ShortGPT) |
 | **GPT Newspaper** | 1,374 | Autonomous agent for creating personalized newspapers | [Repo](https://github.com/rotemweiss1,374/gpt-newspaper) |
 | **ShortX** | - | AI-powered video automation platform for social media | [Website](https://shortx.ai/) |
 | **ChartGPT** | - | AI-driven services for table summarization and charting | [Website](https://chartgpt.io) |
@@ -92,7 +92,7 @@
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
-| **OpenClaw** | 144k | Personal AI assistant for any OS and platform | [Repo](https://github.com/openclaw/openclaw) |
+| **OpenClaw** | 152,745k | Personal AI assistant for any OS and platform | [Repo](https://github.com/openclaw/openclaw) |
 
 ### 🎙️ **Voice Agents**
 
@@ -109,17 +109,17 @@
 
 | Framework | Stars | Description | Links |
 |:---|:---|:---|:---|
-| **LangGraph** | 24,096 | Python library for stateful, multi-actor applications with LLMs | [Repo](https://github.com/langchain-ai/langgraph) |
-| **SuperAGI** | 17,143 | Open-source framework for autonomous AI agents | [Repo](https://github.com/TransformerOptimus/SuperAGI) |
-| **XAgent** | 8,491 | Open-source autonomous agent for complex task solving | [Repo](https://github.com/OpenBMB/XAgent) |
-| **BabyAGI** | 22,110 | AI-powered task management system with OpenAI | [Repo](https://github.com/yoheinakajima/babyagi) |
-| **ChatDev** | 29,162 | Virtual software company with intelligent agents | [Repo](https://github.com/OpenBMB/ChatDev) |
-| **CAMEL** | 15,903 | Communicative agents for mind exploration | [Repo](https://github.com/camel-ai/camel) |
-| **AgentVerse** | 4,929 | Multi-LLM agent framework for various applications | [Repo](https://github.com/OpenBMB/AgentVerse) |
+| **LangGraph** | 24,152 | Python library for stateful, multi-actor applications with LLMs | [Repo](https://github.com/langchain-ai/langgraph) |
+| **SuperAGI** | 17,150 | Open-source framework for autonomous AI agents | [Repo](https://github.com/TransformerOptimus/SuperAGI) |
+| **XAgent** | 8,493 | Open-source autonomous agent for complex task solving | [Repo](https://github.com/OpenBMB/XAgent) |
+| **BabyAGI** | 22,113 | AI-powered task management system with OpenAI | [Repo](https://github.com/yoheinakajima/babyagi) |
+| **ChatDev** | 29,489 | Virtual software company with intelligent agents | [Repo](https://github.com/OpenBMB/ChatDev) |
+| **CAMEL** | 15,926 | Communicative agents for mind exploration | [Repo](https://github.com/camel-ai/camel) |
+| **AgentVerse** | 4,931 | Multi-LLM agent framework for various applications | [Repo](https://github.com/OpenBMB/AgentVerse) |
 | **AgentCPM** | - | OpenBMB multi-agent framework built around CPM models and tooling | [Repo](https://github.com/OpenBMB/AgentCPM) |
-| **Swarms** | 5,675 | Multi-agent collaboration for production applications | [Repo](https://github.com/kyegomez/swarms) |
+| **Swarms** | 5,680 | Multi-agent collaboration for production applications | [Repo](https://github.com/kyegomez/swarms) |
 | **Agno** | - | Agent framework for building multi-agent systems and tools | [Repo](https://github.com/agno-agi/agno) |
-| **PraisonAI** | 5,582 | Low-code framework leveraging AutoGen and CrewAI | [Repo](https://github.com/MervinPraison/PraisonAI) |
+| **PraisonAI** | 5,586 | Low-code framework leveraging AutoGen and CrewAI | [Repo](https://github.com/MervinPraison/PraisonAI) |
 | **TaskingAI** | 5,365 | Platform for AI-native app development | [Repo](https://github.com/TaskingAI/TaskingAI) |
 | **Superpowers** | - | Open-source skills library and workflow system for coding agents | [Repo](https://github.com/obra/superpowers) |
 | **Deer-Flow** | - | Flow-based orchestration framework for agent workflows | [Repo](https://github.com/bytedance/deer-flow) |
@@ -132,9 +132,9 @@
 
 | System | Stars | Description | Links |
 |:---|:---|:---|:---|
-| **MemGPT** | 20,928 | Customizable AI chatbot with self-editing memory | [Repo](https://github.com/cpacker/MemGPT) |
+| **MemGPT** | 20,948 | Customizable AI chatbot with self-editing memory | [Repo](https://github.com/cpacker/MemGPT) |
 | **Letta** | - | Agent framework with long-term memory (MemGPT successor) | [Repo](https://github.com/letta-ai/letta) |
-| **Zep** | 4,030 | Long-term memory service for AI assistants | [Repo](https://github.com/getzep/zep) |
+| **Zep** | 4,034 | Long-term memory service for AI assistants | [Repo](https://github.com/getzep/zep) |
 | **LocalGPT** | 22,153 | Private document interactions with local LLMs | [Repo](https://github.com/PromtEngineer/localGPT) |
 | **LoopGPT** | 1,459 | Modular auto-GPT framework with plug-and-play API | [Repo](https://github.com/farizrahman1/loopgpt) |
 | **OpenRecall** | - | Open-source, privacy-focused digital memory tool | [Repo](https://github.com/openrecall/openrecall) |
@@ -145,7 +145,7 @@
 | **LightRAG** | - | Lightweight RAG framework for retrieval pipelines | [Repo](https://github.com/HKUDS/LightRAG) |
 | **UltraRAG** | - | RAG framework focused on long-context retrieval and reranking | [Repo](https://github.com/OpenBMB/UltraRAG) |
 | **Engram** | - | Long-term memory store for LLM agents | [Repo](https://github.com/deepseek-ai/Engram) |
-| **mem46,395** | - | Open-source memory layer for LLM apps | [Repo](https://github.com/mem0ai/mem0) |
+| **mem46,466** | - | Open-source memory layer for LLM apps | [Repo](https://github.com/mem0ai/mem0) |
 | **RAGFlow** | - | RAG workflow engine for document retrieval | [Repo](https://github.com/infiniflow/ragflow) |
 | **Anything-LLM** | - | All-in-one LLM app for private docs and chat | [Repo](https://github.com/Mintplex-Labs/anything-llm) |
 | **memvid** | - | Memory system using video-focused retrieval | [Repo](https://github.com/memvid/memvid) |
@@ -175,12 +175,12 @@
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
 | **Devin** | - | Fully autonomous AI software engineer | [Website](https://www.cognition-labs.com/introducing-devin) |
-| **Devika** | 19,488 | Open-source AI software engineer alternative | [Repo](https://github.com/stitionai/devika) |
-| **Devon** | 3,461 | AI agent for code correction and completion | [Repo](https://github.com/entropy-research/Devon) |
+| **Devika** | 19,489 | Open-source AI software engineer alternative | [Repo](https://github.com/stitionai/devika) |
+| **Devon** | 3,460 | AI agent for code correction and completion | [Repo](https://github.com/entropy-research/Devon) |
 | **Cody** | 3,793 | AI coding assistant with enterprise features | [Repo](https://github.com/sourcegraph/cody) |
 | **agents** | - | Collection of agent patterns, prompts, and workflow examples | [Repo](https://github.com/wshobson/agents) |
 | **vimGPT** | 2,671 | GPT-2,671V integration with Vimium for web browsing | [Repo](https://github.com/ishan2,671/vimGPT) |
-| **GPT Computer Assistant** | 7,763 | Unofficial app bringing ChatGPT functionality to Windows/Linux | [Repo](https://github.com/onuratakan/gpt-computer-assistant) |
+| **GPT Computer Assistant** | 7,767 | Unofficial app bringing ChatGPT functionality to Windows/Linux | [Repo](https://github.com/onuratakan/gpt-computer-assistant) |
 | **OpenHands** | - | Open-source AI software development agent | [Repo](https://github.com/OpenHands/OpenHands) |
 | **Agent-S** | - | Autonomous agent for multi-step software tasks | [Repo](https://github.com/simular-ai/Agent-S) |
 | **Goose** | - | Open-source, local, extensible AI agent for automating engineering tasks | [Repo](https://github.com/block/goose) |
@@ -191,14 +191,14 @@
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
-| **BrowserGPT** | 422 | GPT-4 + Playwright for browser control | [Repo](https://github.com/mayt/BrowserGPT) |
-| **ScrapeGraphAI** | 22,457 | AI agents for automated web scraping | [Repo](https://github.com/VinciGit00/Scrapegraph-ai) |
+| **BrowserGPT** | 423 | GPT-4 + Playwright for browser control | [Repo](https://github.com/mayt/BrowserGPT) |
+| **ScrapeGraphAI** | 22,469 | AI agents for automated web scraping | [Repo](https://github.com/VinciGit00/Scrapegraph-ai) |
 | **Self Operating Computer** | 10,129 | Multimodal models for computer interaction | [Repo](https://github.com/OthersideAI/self-operating-computer) |
-| **AppAgent** | 6,499 | Mobile-friendly LLM-based multimodal agent | [Repo](https://github.com/mnotgod96/AppAgent) |
+| **AppAgent** | 6,502 | Mobile-friendly LLM-based multimodal agent | [Repo](https://github.com/mnotgod96/AppAgent) |
 | **NavAIGuide** | 115 | Extensible, mobile-friendly, multi-modal agentic framework | [Repo](https://github.com/francedot/NavAIGuide-TS) |
-| **Tarsier** | 1,750 | Utility library for enhancing web interaction for AI agents | [Repo](https://github.com/reworkd/tarsier) |
+| **Tarsier** | 1,751 | Utility library for enhancing web interaction for AI agents | [Repo](https://github.com/reworkd/tarsier) |
 | **browser-use** | - | LLM-driven browser automation toolkit | [Repo](https://github.com/browser-use/browser-use) |
-| **crawl59,305ai** | - | AI-first web crawler and scraper | [Repo](https://github.com/unclecode/crawl4ai) |
+| **crawl59,353ai** | - | AI-first web crawler and scraper | [Repo](https://github.com/unclecode/crawl4ai) |
 
 ---
 
@@ -206,11 +206,11 @@
 
 | Tool | Stars | Description | Links |
 |:---|:---|:---|:---|
-| **AgentBench** | 3,134 | Benchmark for evaluating LLM agents | [Repo](https://github.com/THUDM/AgentBench) |
-| **AgentOps** | 5,239 | Observability and evaluation for AI agents | [Repo](https://github.com/AgentOps-AI/agentops) |
-| **LangSmith** | 760 | Debugging and monitoring for LLM applications | [Repo](https://github.com/langchain-ai/langsmith-sdk) |
-| **Helicone** | 5,073 | Observability platform for Language Learning Models | [Repo](https://github.com/Helicone/helicone) |
-| **LangFuse** | 21,380 | Open-source LLM engineering platform | [Repo](https://github.com/langfuse/langfuse) |
+| **AgentBench** | 3,140 | Benchmark for evaluating LLM agents | [Repo](https://github.com/THUDM/AgentBench) |
+| **AgentOps** | 5,244 | Observability and evaluation for AI agents | [Repo](https://github.com/AgentOps-AI/agentops) |
+| **LangSmith** | 763 | Debugging and monitoring for LLM applications | [Repo](https://github.com/langchain-ai/langsmith-sdk) |
+| **Helicone** | 5,079 | Observability platform for Language Learning Models | [Repo](https://github.com/Helicone/helicone) |
+| **LangFuse** | 21,423 | Open-source LLM engineering platform | [Repo](https://github.com/langfuse/langfuse) |
 | **Context** | - | Tool for evaluating and analyzing products with LLMs | [Website](https://context.ai/) |
 | **Traces** | - | W&B Traces for AI agent observability | [Website](https://wandb.ai/site/traces) |
 | **Agent Harness** | - | Agent evaluation harness and test runner | [Repo](https://github.com/tripleyak/agent-harness) |
@@ -224,8 +224,8 @@
 | Tool | Stars | Description | Links |
 |:---|:---|:---|:---|
 | **Activepieces** | - | Open-source workflow automation for AI agents and apps | [Repo](https://github.com/activepieces/activepieces) |
-| **Composio** | - | Quick integration of 26,474+ tools for developers and agents | [Repo](https://github.com/ComposioHQ/composio) |
-| **TypeChat** | 8,604 | Library for building natural language interfaces | [Repo](https://github.com/microsoft/TypeChat) |
+| **Composio** | - | Quick integration of 26,477+ tools for developers and agents | [Repo](https://github.com/ComposioHQ/composio) |
+| **TypeChat** | 8,606 | Library for building natural language interfaces | [Repo](https://github.com/microsoft/TypeChat) |
 | **NPI** | 229 | Open-source platform providing tool-use APIs for AI agents | [Repo](https://github.com/npi-ai/npi) |
 | **Tools by Taskade** | - | Custom AI agents with web search and computational tools | [Docs](https://help.taskade.com/en/articles/8958457-custom-ai-agents) |
 | **LiteLLM** | - | LLM gateway/proxy for multi-provider access | [Repo](https://github.com/BerriAI/litellm) |
@@ -242,18 +242,18 @@
 
 | Tool | Stars | Description | Links |
 |:---|:---|:---|:---|
-| **Instructor** | 12,290 | Python library for structured outputs from LLMs | [Repo](https://github.com/jxnl/instructor) |
-| **Outlines** | 13,343 | Robust text generation library for agentic AI developers | [Repo](https://github.com/outlines-dev/outlines) |
-| **Pydantic** | 26,642 | Python library for data validation through type hints | [Repo](https://github.com/pydantic/pydantic) |
+| **Instructor** | 12,301 | Python library for structured outputs from LLMs | [Repo](https://github.com/jxnl/instructor) |
+| **Outlines** | 13,360 | Robust text generation library for agentic AI developers | [Repo](https://github.com/outlines-dev/outlines) |
+| **Pydantic** | 26,652 | Python library for data validation through type hints | [Repo](https://github.com/pydantic/pydantic) |
 | **FuzzTypes** | 221 | Pydantic extension with autocorrecting annotation types | [Repo](https://github.com/genomoncology/FuzzTypes) |
 
 ### 🛡️ **Safety & Guardrails**
 
 | Tool | Stars | Description | Links |
 |:---|:---|:---|:---|
-| **Guardrails** | 6,337 | Python framework for building reliable AI applications | [Repo](https://github.com/guardrails-ai/guardrails) |
-| **Guidance** | 21,246 | Programming paradigm for enhanced control in model generation | [Repo](https://github.com/guidance-ai/guidance) |
-| **NeMo Guardrails** | 5,593 | Open-source toolkit for programmable guardrails | [Repo](https://github.com/NVIDIA/NeMo-Guardrails) |
+| **Guardrails** | 6,348 | Python framework for building reliable AI applications | [Repo](https://github.com/guardrails-ai/guardrails) |
+| **Guidance** | 21,250 | Programming paradigm for enhanced control in model generation | [Repo](https://github.com/guidance-ai/guidance) |
+| **NeMo Guardrails** | 5,600 | Open-source toolkit for programmable guardrails | [Repo](https://github.com/NVIDIA/NeMo-Guardrails) |
 | **IvyCheck** | 2 | API for real-time AI application safety checks | [Repo](https://github.com/ivycheck/ivycheck-python-sdk) |
 
 ---
