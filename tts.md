@@ -162,6 +162,11 @@
 - Features: High-quality synthesis, controllable voices
 - Best for: Research and production TTS
 
+### [ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS)
+- Type: ComfyUI node / workflow integration for Qwen TTS
+- Features: Generate TTS audio directly inside ComfyUI graphs
+- Best for: TTS pipelines built in ComfyUI
+
 ### [VITS2](https://github.com/daniilrobnikov/vits2)
 - Type: Tacotron-style neural TTS
 - Features: Real-time performance, lightweight

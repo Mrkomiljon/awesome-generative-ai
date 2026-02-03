@@ -115,6 +115,7 @@
 | **BabyAGI** | 22,113 | AI-powered task management system with OpenAI | [Repo](https://github.com/yoheinakajima/babyagi) |
 | **ChatDev** | 29,489 | Virtual software company with intelligent agents | [Repo](https://github.com/OpenBMB/ChatDev) |
 | **CAMEL** | 15,926 | Communicative agents for mind exploration | [Repo](https://github.com/camel-ai/camel) |
+| **Qwen-Agent** | - | Agent framework from QwenLM for building tool-using LLM agents | [Repo](https://github.com/QwenLM/Qwen-Agent) |
 | **AgentVerse** | 4,931 | Multi-LLM agent framework for various applications | [Repo](https://github.com/OpenBMB/AgentVerse) |
 | **AgentCPM** | - | OpenBMB multi-agent framework built around CPM models and tooling | [Repo](https://github.com/OpenBMB/AgentCPM) |
 | **Swarms** | 5,680 | Multi-agent collaboration for production applications | [Repo](https://github.com/kyegomez/swarms) |
@@ -143,6 +144,7 @@
 | **Cognee** | - | Memory and retrieval system for LLM apps | [Repo](https://github.com/topoteretes/cognee) |
 | **Graphiti** | - | Knowledge graph memory engine for agent context | [Repo](https://github.com/getzep/graphiti) |
 | **LightRAG** | - | Lightweight RAG framework for retrieval pipelines | [Repo](https://github.com/HKUDS/LightRAG) |
+| **nanobot** | - | Lightweight agent/RAG bot framework from HKUDS | [Repo](https://github.com/HKUDS/nanobot) |
 | **UltraRAG** | - | RAG framework focused on long-context retrieval and reranking | [Repo](https://github.com/OpenBMB/UltraRAG) |
 | **Engram** | - | Long-term memory store for LLM agents | [Repo](https://github.com/deepseek-ai/Engram) |
 | **mem46,466** | - | Open-source memory layer for LLM apps | [Repo](https://github.com/mem0ai/mem0) |
