@@ -181,6 +181,8 @@
 | **Devon** | 3,459 | AI agent for code correction and completion | [Repo](https://github.com/entropy-research/Devon) |
 | **Cody** | 3,793 | AI coding assistant with enterprise features | [Repo](https://github.com/sourcegraph/cody) |
 | **agents** | - | Collection of agent patterns, prompts, and workflow examples | [Repo](https://github.com/wshobson/agents) |
+| **AI Chatbot** | - | Full‑stack Next.js AI chatbot starter by Vercel | [Repo](https://github.com/vercel/ai-chatbot) |
+| **Chatbot UI** | - | Open-source ChatGPT‑style UI for LLM apps | [Repo](https://github.com/mckaywrigley/chatbot-ui) |
 | **crewAI-examples** | - | Example projects and templates for building agents with CrewAI | [Repo](https://github.com/crewAIInc/crewAI-examples) |
 | **nanochat** | - | Minimal LLM chat app / playground (Karpathy) | [Repo](https://github.com/karpathy/nanochat) |
 | **vimGPT** | 2,671 | GPT-2,671V integration with Vimium for web browsing | [Repo](https://github.com/ishan2,671/vimGPT) |
@@ -211,6 +213,7 @@
 | Tool | Stars | Description | Links |
 |:---|:---|:---|:---|
 | **AgentBench** | 3,146 | Benchmark for evaluating LLM agents | [Repo](https://github.com/THUDM/AgentBench) |
+| **OmniDocBench** | - | Benchmark for document understanding and LLM document QA | [Repo](https://github.com/opendatalab/OmniDocBench) |
 | **AgentOps** | 5,249 | Observability and evaluation for AI agents | [Repo](https://github.com/AgentOps-AI/agentops) |
 | **LangSmith** | 768 | Debugging and monitoring for LLM applications | [Repo](https://github.com/langchain-ai/langsmith-sdk) |
 | **Helicone** | 5,082 | Observability platform for Language Learning Models | [Repo](https://github.com/Helicone/helicone) |
