@@ -75,6 +75,7 @@
 |:---|:---|:---|:---|:---|
 | [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) | Audio-driven lip-sync | High-quality lip synchronization | Real-time capable | Video editing and dubbing |
 | [SadTalker](https://github.com/OpenTalker/SadTalker) | Audio-driven talking head | 3D-aware facial animation | High-fidelity generation | Professional applications |
+| [TalkingHead](https://github.com/met4citizen/TalkingHead) | Talking head toolkit | Audio-driven portrait animation | Real-time | Demos and research |
 | [LivePortrait](https://github.com/KwaiVGI/LivePortrait) | Real-time portrait animation | Efficient stitching and retargeting | Real-time | Live streaming |
 | [Animate Anyone](https://github.com/HumanAIGC/AnimateAnyone) | Character animation | Consistent and controllable | High-quality | Character animation |
 | [FaceFusion](https://github.com/facefusion/facefusion) | Face swapping and animation | High-quality face replacement | GPU-accelerated | Video production |

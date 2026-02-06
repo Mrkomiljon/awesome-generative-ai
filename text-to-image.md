@@ -60,6 +60,12 @@
 - **Flexibility**: Highly customizable
 - **Best for**: Advanced workflows
 
+### 🔷 [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
+- **Type**: Diffusion studio / UI for image and video generation
+- **Features**: Workflow-based generation with presets
+- **Flexibility**: Modular pipelines
+- **Best for**: Rapid prototyping and creative workflows
+
 ---
 
 ## 📊 **Models & Platforms**
@@ -81,6 +87,10 @@
 - **LoRA** - Low-rank adaptation
 - **DreamBooth** - Personalization
 - **Textual Inversion** - Concept learning
+
+### 🔷 **Text-to-Video (Related)**
+- **Wan2.1** - Open-source text-to-video generation model
+- **HunyuanVideo** - High-quality text-to-video model from Tencent
 
 ---
 
