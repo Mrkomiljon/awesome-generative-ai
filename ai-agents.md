@@ -1,23 +1,23 @@
-﻿# ?쨼 AI Agents & Frameworks
+﻿# AI Agents & Frameworks
 
 > **Comprehensive collection of AI agents, frameworks, and tools for building autonomous AI systems.**
 
 ---
 
-## ?뱥 **Table of Contents**
-- [?뵦 Top 10 AI Agent Projects](#-top-10-ai-agent-projects)
-- [?? Rising AI Agent Projects](#-rising-ai-agent-projects)
-- [?렞 Specialized AI Agents](#-specialized-ai-agents)
-- [?룛截?AI Agent Frameworks & Tools](#截?ai-agent-frameworks--tools)
-- [?쭬 Memory & Learning Systems](#-memory--learning-systems)
-- [?럺截?Voice & Phone AI Agents](#截?voice--phone-ai-agents)
-- [?뵩 Development & Coding Agents](#-development--coding-agents)
-- [?뙋 Web & Browser Automation](#-web--browser-automation)
-- [?뱤 Evaluation & Monitoring](#-evaluation--monitoring)
+## **Table of Contents**
+- [Top 10 AI Agent Projects](#top-10-ai-agent-projects)
+- [Rising AI Agent Projects](#rising-ai-agent-projects)
+- [Specialized AI Agents](#specialized-ai-agents)
+- [AI Agent Frameworks & Tools](#ai-agent-frameworks--tools)
+- [Memory & Learning Systems](#memory--learning-systems)
+- [Voice & Phone AI Agents](#voice--phone-ai-agents)
+- [Development & Coding Agents](#development--coding-agents)
+- [Web & Browser Automation](#web--browser-automation)
+- [Evaluation & Monitoring](#evaluation--monitoring)
 
 ---
 
-## ?뵦 **Top 10 AI Agent Projects**
+## **Top 10 AI Agent Projects**
 
 | Rank | Agent | Stars | Organization | Description | Links |
 |:---|:---|:---|:---|:---|:---|
@@ -34,7 +34,7 @@
 
 ---
 
-## ?? **Rising AI Agent Projects**
+## **Rising AI Agent Projects**
 
 | Agent | Stars | Organization | Description | Links |
 |:---|:---|:---|:---|:---|
@@ -50,9 +50,9 @@
 
 ---
 
-## ?렞 **Specialized AI Agents**
+## **Specialized AI Agents**
 
-### ?뮲 **Development Agents**
+### **Development Agents**
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
@@ -62,7 +62,7 @@
 | **Bloop** | 9,517 | GPT-based coding assistant for codebase interactions | [Repo](https://github.com/BloopAI/bloop) |
 | **Cody** | 3,793 | AI coding assistant with enterprise features | [Repo](https://github.com/sourcegraph/cody) |
 
-### ?뵮 **Research Agents**
+### **Research Agents**
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
@@ -72,14 +72,14 @@
 | **Tavily** | - | Comprehensive research assistant with Search API for LLMs | [Website](https://tavily.com/) |
 | **Aomni** | - | AI agent for researching prospective customers | [Website](https://www.aomni.com/) |
 
-### ?? **Finance Agents**
+### **Finance Agents**
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
 | **Dexter** | - | Open-source financial research agent for data-backed analysis | [Repo](https://github.com/virattt/dexter) |
 | **FinRobot** | - | Open-source agent platform for financial analysis with LLMs | [Repo](https://github.com/AI4Finance-Foundation/FinRobot) |
 
-### ?뱷 **Content Agents**
+### **Content Agents**
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
@@ -94,7 +94,7 @@
 |:---|:---|:---|:---|
 | **OpenClaw** | - | Personal AI assistant for any OS and platform | [Repo](https://github.com/openclaw/openclaw) |
 
-### ?럺截?**Voice Agents**
+### **Voice Agents**
 
 | Agent | Description | Links |
 |:---|:---|:---|
@@ -105,7 +105,7 @@
 
 ---
 
-## ?룛截?**AI Agent Frameworks & Tools**
+## **AI Agent Frameworks & Tools**
 
 | Framework | Stars | Description | Links |
 |:---|:---|:---|:---|
@@ -129,7 +129,7 @@
 
 ---
 
-## ?쭬 **Memory & Learning Systems**
+## **Memory & Learning Systems**
 
 | System | Stars | Description | Links |
 |:---|:---|:---|:---|
@@ -159,7 +159,7 @@
 
 ---
 
-## ?럺截?**Voice & Phone AI Agents**
+## **Voice & Phone AI Agents**
 
 | Agent | Description | Links |
 |:---|:---|:---|
@@ -172,7 +172,7 @@
 
 ---
 
-## ?뵩 **Development & Coding Agents**
+## **Development & Coding Agents**
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
@@ -193,7 +193,7 @@
 
 ---
 
-## ?뙋 **Web & Browser Automation**
+## **Web & Browser Automation**
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
@@ -208,7 +208,7 @@
 
 ---
 
-## ?뱤 **Evaluation & Monitoring**
+## **Evaluation & Monitoring**
 
 | Tool | Stars | Description | Links |
 |:---|:---|:---|:---|
@@ -225,9 +225,9 @@
 
 ---
 
-## ?썱截?**Additional Tools & Utilities**
+## **Additional Tools & Utilities**
 
-### ?뵩 **Function Calling & Tools**
+### **Function Calling & Tools**
 
 | Tool | Stars | Description | Links |
 |:---|:---|:---|:---|
@@ -256,7 +256,7 @@
 | **new-api** | - | OpenAI-compatible API gateway for multiple LLM providers | [Repo](https://github.com/QuantumNous/new-api) |
 | **LlamaFactory** | - | LLM fine-tuning and training toolkit | [Repo](https://github.com/hiyouga/LlamaFactory) |
 
-### ?룛截?**Structured Outputs**
+### **Structured Outputs**
 
 | Tool | Stars | Description | Links |
 |:---|:---|:---|:---|
@@ -265,7 +265,7 @@
 | **Pydantic** | 26,731 | Python library for data validation through type hints | [Repo](https://github.com/pydantic/pydantic) |
 | **FuzzTypes** | 222 | Pydantic extension with autocorrecting annotation types | [Repo](https://github.com/genomoncology/FuzzTypes) |
 
-### ?썳截?**Safety & Guardrails**
+### **Safety & Guardrails**
 
 | Tool | Stars | Description | Links |
 |:---|:---|:---|:---|
@@ -276,7 +276,7 @@
 
 ---
 
-## ?뱢 **Statistics & Trends**
+## **Statistics & Trends**
 
 - **200+ AI Agent Projects** tracked and curated
 - **1M+ Total Stars** across all agent repositories
@@ -286,7 +286,7 @@
 
 ---
 
-## ?뵕 **Related Resources**
+## **Related Resources**
 
 - **[GenAI APIs](./genai-apis.md)** - Generative AI APIs and services
 - **[Transformers](./transformers.md)** - Transformer models and frameworks
@@ -298,9 +298,11 @@
 
 <div align="center">
 
-**狩?Star this repo if you find it helpful!**
+**Star this repo if you find it helpful!**
 
-**?봽 Updated regularly with the latest AI agent breakthroughs**
+**Updated regularly with the latest AI agent breakthroughs**
 
 </div>
+
+
 
