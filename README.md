@@ -1,207 +1,88 @@
-<p align="center">
+﻿<p align="center">
   <img src="assets/awesome-banner.svg" alt="Awesome Generative AI Banner" width="1000"/>
 </p>
 
 <h1 align="center">Awesome Generative AI Resources</h1>
 
 <p align="center">
-  <strong>Comprehensive collection of cutting-edge Generative AI resources across Speech, Text, Image, and Multimodal domains</strong>
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/downloads/Mrkomiljon/awesome-generative-ai/total" alt="Downloads">
-  <img src="https://img.shields.io/github/stars/Mrkomiljon/awesome-generative-ai" alt="Stars">
-  <img src="https://img.shields.io/github/forks/Mrkomiljon/awesome-generative-ai" alt="Forks">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-  <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" alt="GitHub Repository">
+  <strong>Curated, practical resources for building with modern generative AI</strong>
 </p>
 
 <p align="center">
   <a href="#start-here">Start Here</a> |
-  <a href="#main-categories">Categories</a> |
-  <a href="#transformers--foundation-models">Models</a> |
-  <a href="#ai-agents--frameworks">Agents</a> |
-  <a href="#contribution">Contribute</a>
+  <a href="#use-cases">Use Cases</a> |
+  <a href="#resource-index">Resource Index</a> |
+  <a href="#contributing">Contributing</a>
 </p>
 
 ---
 
 ## Start Here
 
-- New here? Pick a track below and dive in.
-- Top picks: [AI Agents](./ai-agents.md), [TTS Models](./tts.md), [Talking Head](./talking-head.md), [MCP Servers](./mcp.md)
-- Popular links: [Transformers](./transformers.md), [GenAI APIs](./genai-apis.md), [STT Models](./stt-models.md), [Text-to-Image](./text-to-image.md)
+Pick one path and start in under 10 minutes:
+
+- Build AI agents: [AI Agents](./ai-agents.md)
+- Build speech products: [STT Models](./stt-models.md), [TTS Models](./tts.md)
+- Build visual products: [Text-to-Image](./text-to-image.md), [Talking Head](./talking-head.md)
+- Build model apps: [Transformers](./transformers.md), [GenAI APIs](./genai-apis.md)
+- Add tool integration: [MCP Servers](./mcp.md)
 
 ---
 
-## About This Repository
+## Use Cases
 
-This is a curated and organized collection of state-of-the-art Generative AI resources, compiled from open-source projects, research papers, and community contributions. Each resource is selected for quality, relevance, and practical value.
+### 1. Agentic Apps
+- Start: [AI Agents](./ai-agents.md)
+- Add memory/context: [context-engineering.md](./context-engineering.md)
+- Add tool integration: [mcp.md](./mcp.md)
 
-### What You'll Find Here
-- Speech Processing: STT, TTS, Voice Cloning, Emotion Recognition
-- Computer Vision: Text-to-Image, Talking Head Generation
-- Multimodal AI: Transformers, Foundation Models, APIs
-- AI Agents: Autonomous systems and frameworks
-- MCP Servers: Model Context Protocol servers for tool integration
-- Datasets: High-quality training data for AI tasks
+### 2. Voice and Audio Products
+- Speech recognition: [stt-models.md](./stt-models.md), [stt-datasets.md](./stt-datasets.md)
+- Speech synthesis: [tts.md](./tts.md), [voice-cloning.md](./voice-cloning.md)
+- Emotion and affect: [emotion-recognition.md](./emotion-recognition.md)
 
-### Featured: Talking Head Generation
+### 3. Vision and Video Products
+- Image generation: [text-to-image.md](./text-to-image.md)
+- Talking avatars: [talking-head.md](./talking-head.md)
 
-Highlights:
-- 500+ research papers (2016-2025)
-- Latest models: VASA-1, EMO, AniPortrait, GaussianTalker
-- 3D tech: NeRF, Gaussian Splatting, FLAME
-- Datasets: VoxCeleb, MEAD, HDTF, Multiface
-- Real-time tools: Wav2Lip, SadTalker, LivePortrait
-
-Top 5 models:
-- VASA-1 - Microsoft's lifelike real-time talking faces
-- EMO - Expressive portrait videos with diffusion
-- AniPortrait - Photorealistic portrait animation
-- GaussianTalker - 3D Gaussian splatting for talking heads
-- LivePortrait - Real-time portrait animation
-
-Full list: [Talking Head](./talking-head.md)
+### 4. Foundation Model Productization
+- Model selection: [transformers.md](./transformers.md)
+- API integrations: [genai-apis.md](./genai-apis.md)
 
 ---
 
-## Main Categories
+## Resource Index
 
-| Speech | Vision | AI and APIs | Data | MCP |
-|:---:|:---:|:---:|:---:|:---:|
-| [STT Datasets](./stt-datasets.md) | [Text-to-Image](./text-to-image.md) | [GenAI APIs](./genai-apis.md) | [STT Models](./stt-models.md) | [MCP Servers](./mcp.md) |
-| [STT Models](./stt-models.md) | [Talking Head](./talking-head.md) | [Transformers](./transformers.md) | [TTS Models](./tts.md) | |
-| [TTS Models](./tts.md) | | [Context Engineering](./context-engineering.md) | [Voice Cloning](./voice-cloning.md) | |
-| [Voice Cloning](./voice-cloning.md) | | [AI Agents](./ai-agents.md) | [Emotion Recognition](./emotion-recognition.md) | |
-| [Emotion Recognition](./emotion-recognition.md) | | | | |
-
----
-
-## AI Agents and Frameworks
-
-Top 5 agents:
-- AutoGPT - Accessible tools for building and using AI agents
-- AutoGen - Multi-agent conversation framework for LLM apps
-- CrewAI - Role-playing agent orchestration framework
-- SuperAGI - Open-source framework for autonomous agents
-- GPT Researcher - Autonomous agent for online research
-
-Full list: [AI Agents](./ai-agents.md)
+| Area | Primary Files |
+|:---|:---|
+| Agents and orchestration | [ai-agents.md](./ai-agents.md), [mcp.md](./mcp.md), [context-engineering.md](./context-engineering.md) |
+| Speech | [stt-models.md](./stt-models.md), [stt-datasets.md](./stt-datasets.md), [tts.md](./tts.md), [voice-cloning.md](./voice-cloning.md), [emotion-recognition.md](./emotion-recognition.md) |
+| Vision and media | [text-to-image.md](./text-to-image.md), [talking-head.md](./talking-head.md) |
+| Models and APIs | [transformers.md](./transformers.md), [genai-apis.md](./genai-apis.md) |
+| Extended references | [more_detailed.md](./more_detailed.md) |
 
 ---
 
-## Transformers and Foundation Models
+## Quality Notes
 
-### Audio Processing (Top 5)
-- Whisper - Multilingual speech recognition
-- Moonshine - Automatic speech recognition
-- Wav2Vec2 - Keyword spotting
-- MusicGen - Text-to-audio generation
-- Bark - Text-to-speech synthesis
-
-Full list: [Transformers](./transformers.md)
-
-### Computer Vision (Top 5)
-- SAM - Automatic mask generation
-- DINO v2 - Image classification
-- RT-DETRv2 - Object detection
-- VitPose - Pose estimation
-- OneFormer - Universal segmentation
-
-Full list: [Transformers](./transformers.md)
-
-### Talking Head Generation (Top 5)
-- VASA-1 - Real-time talking faces
-- EMO - Expressive portrait video generation
-- AniPortrait - Photorealistic portrait animation
-- GaussianTalker - 3D Gaussian splatting for talking heads
-- Wav2Lip - Lip-sync expert for speech-driven animation
-
-Full list: [Talking Head](./talking-head.md)
-
-### Multimodal (Top 5)
-- Qwen2-Audio - Audio and text to text
-- Qwen-VL - Image and text to text
-- BLIP-2 - Image captioning
-- GOT-OCR2 - OCR document understanding
-- Llava - Visual question answering
-
-Full list: [Transformers](./transformers.md)
-
-### Natural Language Processing (Top 5)
-- ModernBERT - Masked word completion
-- Gemma - Named entity recognition
-- Mixtral - Question answering
-- BART - Summarization
-- T5 - Translation
-
-Full list: [Transformers](./transformers.md)
+- Lists are curated manually for quality and practical relevance.
+- Some files include star counts from periodic updates.
+- If you spot formatting or stale metrics, open an issue or PR.
 
 ---
 
-## Model Context Protocol (MCP) Servers
+## Contributing
 
-Top 5 MCP servers:
-- Browserbase MCP - Cloud browser automation
-- Microsoft Playwright MCP - Official browser automation
-- Supabase MCP - Database and backend integration
-- Pipedream MCP - API integration platform
-- Redis MCP - In-memory database integration
+Contributions are welcome for:
+- New high-quality open-source repos
+- Broken links or outdated entries
+- Better categorization and structure
 
-Full list: [MCP Servers](./mcp.md)
-
-Key categories:
-- Browser Automation: Web scraping, form filling, navigation
-- Database Integration: PostgreSQL, MongoDB, Redis, SQLite
-- Cloud Platforms: AWS, Cloudflare, Kubernetes management
-- Communication: Slack, Discord, Telegram, Teams integration
-- Developer Tools: GitHub, Docker, CI/CD, API testing
-
-MCP statistics:
-- 500+ MCP servers across all categories
-- 20+ programming languages supported
-- Cross-platform support (Windows, macOS, Linux)
-- Production-ready servers for enterprise use
-
----
-
-## Detailed Resources
-
-- [Comprehensive Open-Source Projects](./more_detailed.md) - Extended collection with detailed descriptions and implementation guides
-
----
-
-## Contribution
-
-Found something amazing that should be here? We would love to include it.
-
-### How to Contribute
-1. Open an Issue - Suggest new resources or improvements
-2. Submit a PR - Add new content or fix existing entries
-3. Share Feedback - Help us improve the organization and structure
-
-### Guidelines
-- Ensure resources are open-source or freely accessible
-- Include relevant links (GitHub, papers, demos)
-- Provide brief but informative descriptions
-- Maintain consistent formatting
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
+Please follow [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 
 ## Disclaimer
 
-This repository is a curated collection of Generative AI and LLM-related projects. All rights and credits belong to their respective authors and organizations. If you are an author and would like to suggest edits or request removal, please open an issue.
+This is a curated collection of external resources. Rights and credit belong to each original author and organization.
 
----
-
-<div align="center">
-
-**Star this repo if you find it helpful!**
-
-**Updated regularly with the latest AI breakthroughs**
-
-</div>
