@@ -1,127 +1,150 @@
 #!/usr/bin/env python3
 """
-GitHub Stars Auto-Updater (fixed)
-- Finds GitHub repo URLs in markdown files and updates numeric star counts in nearby table cells.
-- Uses GITHUB_TOKEN from env (workflow should provide it).
+GitHub Stars Auto-Updater
+
+Updates markdown table rows that have a "Stars" column and a GitHub repository link.
 """
 
-import re
-import requests
-import time
 import os
-from datetime import datetime
+import re
+import time
+from datetime import datetime, timezone
+from pathlib import Path
 
-RATE_LIMIT_DELAY = 1  # seconds between API calls
+import requests
+
+
+RATE_LIMIT_DELAY = 1.0
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "")
-
-HEADERS = {"Accept": "application/vnd.github.v3+json"}
+HEADERS = {"Accept": "application/vnd.github+json"}
 if GITHUB_TOKEN:
     HEADERS["Authorization"] = f"token {GITHUB_TOKEN}"
 
+REPO_URL_RE = re.compile(r"https://github\.com/([A-Za-z0-9_.-]+)/([A-Za-z0-9_.-]+)")
+STAR_VALUE_RE = re.compile(r"^\d{1,3}(?:,\d{3})*$")
+TABLE_DIVIDER_RE = re.compile(r"^:?-+:?$")
 
-def get_github_stars(repo_url):
-    try:
-        if "github.com" in repo_url:
-            repo_path = repo_url.split("github.com/")[-1].rstrip("/")
-        else:
-            return None
 
-        api_url = f"https://api.github.com/repos/{repo_path}"
-        resp = requests.get(api_url, headers=HEADERS, timeout=15)
-
-        if resp.status_code == 200:
-            return resp.json().get("stargazers_count", 0)
-        elif resp.status_code == 404:
-            print(f"❌ Repository not found: {repo_path}")
-            return None
-        elif resp.status_code == 403:
-            print(f"⚠️ Rate limit or auth error for: {repo_path} (status 403)")
-            if "X-RateLimit-Remaining" in resp.headers:
-                print("Rate limit remaining:", resp.headers.get("X-RateLimit-Remaining"))
-            return None
-        else:
-            print(f"⚠️ HTTP {resp.status_code} for: {repo_path}")
-            return None
-    except Exception as e:
-        print(f"❌ Error fetching {repo_url}: {e}")
+def get_github_stars(repo_url: str):
+    match = REPO_URL_RE.search(repo_url)
+    if not match:
         return None
 
+    owner, repo = match.group(1), match.group(2)
+    api_url = f"https://api.github.com/repos/{owner}/{repo}"
 
-def find_repo_urls(text):
-    # find any GitHub repo URL in parentheses or plain text
-    pattern = r"https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+"
-    return list(dict.fromkeys(re.findall(pattern, text)))
+    try:
+        response = requests.get(api_url, headers=HEADERS, timeout=20)
+    except requests.RequestException as exc:
+        print(f"request failed for {owner}/{repo}: {exc}")
+        return None
+
+    if response.status_code == 200:
+        return response.json().get("stargazers_count")
+    if response.status_code == 404:
+        print(f"repository not found: {owner}/{repo}")
+        return None
+    if response.status_code == 403:
+        print(f"rate/auth issue for {owner}/{repo} (403)")
+        return None
+
+    print(f"http {response.status_code} for {owner}/{repo}")
+    return None
 
 
-def replace_star_counts_in_lines(lines, repo_url, new_stars):
-    repo_name = repo_url.rstrip("/").split("/")[-1]
-    updated = 0
-    for i, line in enumerate(lines):
-        if repo_name in line and "|" in line:
-            # replace the first number-like group in the line (e.g., '12,345')
-            new_line = re.sub(r"\d{1,3}(?:,\d{3})*", new_stars, line, count=1)
-            if new_line != line:
-                lines[i] = new_line
-                updated += 1
-                print(f"✅ Updated line for {repo_name}: {new_stars}")
-                break
-    return updated
+def parse_table_row(line: str):
+    stripped = line.strip()
+    if not (stripped.startswith("|") and stripped.endswith("|")):
+        return None
+    return [cell.strip() for cell in stripped.strip("|").split("|")]
 
 
-def update_file_stars(path):
-    if not os.path.exists(path):
-        print(f"❌ File not found: {path}")
-        return False
+def is_table_divider(cells):
+    return all(TABLE_DIVIDER_RE.match(cell.replace(" ", "")) for cell in cells)
 
-    print(f"🔄 Updating {path}...")
-    with open(path, "r", encoding="utf-8") as f:
-        content = f.read()
 
-    repos = find_repo_urls(content)
-    if not repos:
-        print("ℹ️ No GitHub repo URLs found in file")
-        return False
+def rebuild_table_row(cells):
+    return "| " + " | ".join(cells) + " |"
 
+
+def find_repo_url(line: str):
+    match = REPO_URL_RE.search(line)
+    if not match:
+        return None
+    return f"https://github.com/{match.group(1)}/{match.group(2)}"
+
+
+def update_file_stars(path: Path, cache: dict):
+    content = path.read_text(encoding="utf-8")
     lines = content.splitlines()
-    total_updated = 0
+    changed = False
+    stars_col_index = None
+    updated_rows = 0
 
-    for repo in repos:
-        print(f"🔍 Checking {repo}")
-        stars = get_github_stars(repo)
-        if stars is None:
-            print(f"⚠️ Skipping {repo}")
-            time.sleep(RATE_LIMIT_DELAY)
+    for i, line in enumerate(lines):
+        cells = parse_table_row(line)
+        if cells is None:
+            if line.strip() == "":
+                stars_col_index = None
             continue
 
-        new_stars = f"{stars:,}"
-        updated = replace_star_counts_in_lines(lines, repo, new_stars)
-        total_updated += updated
-        time.sleep(RATE_LIMIT_DELAY)
+        if "Stars" in cells:
+            stars_col_index = cells.index("Stars")
+            continue
 
-    if total_updated > 0:
-        with open(path, "w", encoding="utf-8") as f:
-            f.write("\n".join(lines) + "\n")
-        print(f"🎉 Updated {total_updated} entries in {path}")
-        return True
+        if is_table_divider(cells):
+            continue
+
+        if stars_col_index is None or stars_col_index >= len(cells):
+            continue
+
+        repo_url = find_repo_url(line)
+        if not repo_url:
+            continue
+
+        if repo_url not in cache:
+            cache[repo_url] = get_github_stars(repo_url)
+            time.sleep(RATE_LIMIT_DELAY)
+
+        stars = cache[repo_url]
+        if stars is None:
+            continue
+
+        current = cells[stars_col_index].strip()
+        if current == "-" or STAR_VALUE_RE.match(current):
+            new_value = f"{stars:,}"
+            if current != new_value:
+                cells[stars_col_index] = new_value
+                lines[i] = rebuild_table_row(cells)
+                updated_rows += 1
+                changed = True
+
+    if changed:
+        path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        print(f"updated {updated_rows} rows in {path.name}")
     else:
-        print("ℹ️ No numeric entries updated")
-        return False
+        print(f"no changes in {path.name}")
+
+    return changed
 
 
 def main():
-    print("GitHub Stars Auto-Updater (fixed)")
-    print(f"Time: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}")
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    print(f"star updater started at {now}")
 
-    files = ["README.md", "ai-agents.md", "context-engineering.md"]
-    updated_any = False
-    for p in files:
-        if update_file_stars(p):
-            updated_any = True
+    files = sorted(Path(".").glob("*.md"))
+    cache = {}
+    changed_files = []
 
-    if updated_any:
-        print("✅ Done: some files updated")
+    for path in files:
+        if update_file_stars(path, cache):
+            changed_files.append(path.name)
+
+    if changed_files:
+        print("updated files:", ", ".join(changed_files))
     else:
-        print("ℹ️ Done: no changes")
+        print("no files changed")
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()

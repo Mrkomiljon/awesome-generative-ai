@@ -2,43 +2,40 @@ name: Update GitHub Stars
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
-  workflow_dispatch:     # Allows manual triggering
-  push:
-    paths:
-      - 'ai-agents.md'   # Triggers when ai-agents.md is modified
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-stars:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          pip install requests beautifulsoup4
+        run: pip install requests
 
       - name: Run update script
-        run: |
-          chmod +x scripts/update_stars.py
-          python scripts/update_stars.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_stars_fixed.py
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
+          git add *.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🔄 Auto-update GitHub stars - $(date '+%Y-%m-%d %H:%M:%S')"
+            git commit -m "Auto-update GitHub stars - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             git push
+          fi

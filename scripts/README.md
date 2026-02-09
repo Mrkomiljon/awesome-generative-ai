@@ -1,78 +1,36 @@
-# 🤖 GitHub Stars Auto-Updater
+# GitHub Stars Auto-Updater
 
-This folder contains scripts for automatically updating GitHub repository star counts across all markdown files.
+This folder contains the single updater script used by GitHub Actions to refresh star counts.
 
-## 📁 Files
+## Files
 
-- `update_stars.py` - Main script that fetches star counts from GitHub API and updates files
-- `README.md` - This file (description)
+- `update_stars_fixed.py`: updates markdown table rows that have both:
+  - a `Stars` column
+  - a GitHub repository link in the same row
 
-## 🔧 How It Works
+## How It Works
 
-1. **GitHub Actions** runs daily at UTC 00:00
-2. **Python script** finds all GitHub repositories
-3. **GitHub API** fetches real-time star counts
-4. **All .md files** are updated with latest star counts
-5. **Git commit** saves all changes automatically
+1. Workflow runs daily (UTC) or manually.
+2. Script scans top-level `*.md` files.
+3. For rows in markdown tables, it detects the `Stars` column index.
+4. It fetches stars from GitHub API.
+5. It only updates valid star cells (`-` or numeric values).
 
-## ⚙️ Configuration
+## Why This Is Safe
 
-- **Rate Limiting**: 1 second between each API request
-- **GitHub Token**: Automatic (in GitHub Actions)
-- **Update Schedule**: Daily at UTC 00:00
-- **Manual Trigger**: Available via "workflow_dispatch" in GitHub Actions
+- It does not replace arbitrary numbers in a line.
+- It only edits rows with a recognized `Stars` column.
+- It caches API results per repository URL.
 
-## 🚀 Manual Execution
+## Local Run
 
 ```bash
-# Run locally
-python scripts/update_stars.py
-
-# Run via GitHub Actions
-# GitHub repository -> Actions -> Update GitHub Stars -> Run workflow
+python scripts/update_stars_fixed.py
 ```
 
-## 📊 Results
+Set `GITHUB_TOKEN` for higher API limits:
 
-The script updates the following files:
-
-- `README.md` - Main repository file
-- `ai-agents.md` - AI agents collection
-- `talking-head.md` - Talking head papers & models
-- `genai-apis.md` - Generative AI APIs
-- `transformers.md` - Transformer models
-- `stt-models.md` - Speech-to-text models
-- `tts.md` - Text-to-speech models
-- `voice-cloning.md` - Voice cloning models
-- `text-to-image.md` - Text-to-image models
-- `emotion-recognition.md` - Emotion recognition models
-- `mcp.md` - Model Context Protocol servers
-- `more_detailed.md` - Extended collection
-- `context-engineering.md` - Context engineering resources
-
-**All GitHub star counts are updated in real-time across all files!**
-
-## 🔄 Features
-
-- **Automatic Updates**: Runs daily without manual intervention
-- **Comprehensive Coverage**: Updates all .md files in the repository
-- **Error Handling**: Continues working even if some repositories fail
-- **Rate Limiting**: Respects GitHub API limits
-- **Real-time Data**: Always shows current star counts
-- **Git Integration**: Automatically commits and pushes changes
-
-## 🛠️ Technical Details
-
-- **Language**: Python 3.9+
-- **Dependencies**: requests, beautifulsoup4
-- **API**: GitHub REST API v3
-- **Rate Limit**: 5000 requests/hour (with token)
-- **File Types**: All .md files in repository
-- **Pattern Matching**: `[Repo](https://github.com/user/repo)` format
-
-## 📈 Statistics
-
-- **200+ AI Agent Projects** tracked
-- **1M+ Total Stars** across all repositories
-- **Daily Updates** for all projects
-- **Zero Manual Work** required
+```bash
+export GITHUB_TOKEN=your_token
+python scripts/update_stars_fixed.py
+```
