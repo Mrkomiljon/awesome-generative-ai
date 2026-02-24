@@ -93,6 +93,7 @@
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
 | **OpenClaw** | 222,063 | Personal AI assistant for any OS and platform | [Repo](https://github.com/openclaw/openclaw) |
+| **ZeroClaw** | - | Open-source personal AI assistant for cross-platform workflows | [Repo](https://github.com/zeroclaw-labs/zeroclaw) |
 
 ### **Voice Agents**
 
@@ -235,6 +236,7 @@
 | **Composio** | 27,144 | Quick integration of 26,531+ tools for developers and agents | [Repo](https://github.com/ComposioHQ/composio) |
 | **TypeChat** | 8,610 | Library for building natural language interfaces | [Repo](https://github.com/microsoft/TypeChat) |
 | **NPI** | 228 | Open-source platform providing tool-use APIs for AI agents | [Repo](https://github.com/npi-ai/npi) |
+| **python-telegram-bot** | - | Python framework for building Telegram bots with async APIs | [Repo](https://github.com/python-telegram-bot/python-telegram-bot) |
 | **Tools by Taskade** | - | Custom AI agents with web search and computational tools | [Docs](https://help.taskade.com/en/articles/8958457-custom-ai-agents) |
 | **LiteLLM** | 36,674 | LLM gateway/proxy for multi-provider access | [Repo](https://github.com/BerriAI/litellm) |
 
@@ -245,6 +247,7 @@
 | **Prometheus** | 62,915 | Metrics collection, time-series storage, and alerting | [Repo](https://github.com/prometheus/prometheus) |
 | **Uptime Kuma** | 83,174 | Self-hosted uptime monitoring and status pages | [Repo](https://github.com/louislam/uptime-kuma) |
 | **Huginn** | 48,751 | Self-hosted automation agents for monitoring and notifications | [Repo](https://github.com/huginn/huginn) |
+| **ccusage** | - | CLI utility for tracking and summarizing Claude Code usage | [Repo](https://github.com/ryoppippi/ccusage) |
 | **Glance** | 32,165 | Self-hosted dashboard for services and bookmarks | [Repo](https://github.com/glanceapp/glance) |
 | **Glances** | 31,785 | Cross-platform system monitoring (CLI + web UI) | [Repo](https://github.com/nicolargo/glances) |
 
