@@ -149,6 +149,7 @@
 | **UltraRAG** | 5,325 | RAG framework focused on long-context retrieval and reranking | [Repo](https://github.com/OpenBMB/UltraRAG) |
 | **Engram** | 3,761 | Long-term memory store for LLM agents | [Repo](https://github.com/deepseek-ai/Engram) |
 | **mem0** | 48,050 | Open-source memory layer for LLM apps | [Repo](https://github.com/mem0ai/mem0) |
+| **memU** | - | Memory system for persistent user profiles and long-term personalization | [Repo](https://github.com/NevaMind-AI/memU) |
 | **RAGFlow** | 73,732 | RAG workflow engine for document retrieval | [Repo](https://github.com/infiniflow/ragflow) |
 | **Anything-LLM** | 55,038 | All-in-one LLM app for private docs and chat | [Repo](https://github.com/Mintplex-Labs/anything-llm) |
 | **memvid** | 13,235 | Memory system using video-focused retrieval | [Repo](https://github.com/memvid/memvid) |
@@ -182,6 +183,7 @@
 | **Devon** | 3,459 | AI agent for code correction and completion | [Repo](https://github.com/entropy-research/Devon) |
 | **Cody** | 3,793 | AI coding assistant with enterprise features | [Repo](https://github.com/sourcegraph/cody) |
 | **agents** | 29,404 | Collection of agent patterns, prompts, and workflow examples | [Repo](https://github.com/wshobson/agents) |
+| **hello-agents** | - | Hands-on repository for learning and building AI agents | [Repo](https://github.com/datawhalechina/hello-agents) |
 | **AI Chatbot** | 19,693 | Full-stack Next.js AI chatbot starter by Vercel | [Repo](https://github.com/vercel/ai-chatbot) |
 | **Chatbot UI** | 33,048 | Open-source ChatGPT-style UI for LLM apps | [Repo](https://github.com/mckaywrigley/chatbot-ui) |
 | **crewAI-examples** | 5,564 | Example projects and templates for building agents with CrewAI | [Repo](https://github.com/crewAIInc/crewAI-examples) |
@@ -237,6 +239,7 @@
 | **TypeChat** | 8,614 | Library for building natural language interfaces | [Repo](https://github.com/microsoft/TypeChat) |
 | **NPI** | 228 | Open-source platform providing tool-use APIs for AI agents | [Repo](https://github.com/npi-ai/npi) |
 | **python-telegram-bot** | 28,849 | Python framework for building Telegram bots with async APIs | [Repo](https://github.com/python-telegram-bot/python-telegram-bot) |
+| **learn-claude-code (Skill Loading)** | - | Guide to Claude Code skill loading patterns and workflow design | [Docs](https://github.com/shareAI-lab/learn-claude-code/blob/main/docs/en/s05-skill-loading.md) |
 | **Tools by Taskade** | - | Custom AI agents with web search and computational tools | [Docs](https://help.taskade.com/en/articles/8958457-custom-ai-agents) |
 | **LiteLLM** | 36,936 | LLM gateway/proxy for multi-provider access | [Repo](https://github.com/BerriAI/litellm) |
 

@@ -79,6 +79,7 @@
 - **[T5](https://huggingface.co/google-t5/t5-base)** - Translation
 - **[Llama](https://huggingface.co/meta-llama/Llama-3.2-1B)** - Text generation
 - **[Qwen](https://huggingface.co/Qwen/Qwen2.5-0.5B)** - Text classification
+- **[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)** - Large-scale transformer training framework by NVIDIA
 
 ---
 
