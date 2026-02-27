@@ -210,6 +210,8 @@
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Open-source voice cloning
 - [OpenVoice V2](https://github.com/myshell-ai/OpenVoice) - Enhanced OpenVoice
 - [MeloTTS](https://github.com/myshell-ai/MeloTTS) - Multilingual text-to-speech toolkit by MyShell
+- [kani-tts-2](https://github.com/nineninesix-ai/kani-tts-2) - TTS model and inference toolkit
+- [FlashLabs-Chroma](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma) - Speech synthesis project and tooling
 - [DIA](https://github.com/nari-labs/dia) - Neural TTS framework
 - [Higgs Audio](https://github.com/boson-ai/higgs-audio) - Open-source TTS model and toolkit
 - [Soprano](https://github.com/ekwek1/soprano) - TTS model and training toolkit

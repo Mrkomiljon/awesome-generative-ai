@@ -65,6 +65,16 @@
 - **Features**: Web UI, training and inference workflows
 - **Best for**: Accessible voice conversion pipelines
 
+### 🔷 [zvec](https://github.com/alibaba/zvec)
+- **Type**: Voice representation and conversion project
+- **Features**: Tooling for speaker-aware audio generation workflows
+- **Best for**: Voice conversion and experimentation
+
+### 🔷 [VoiceClone-Pro](https://github.com/mwasifanwar/VoiceClone-Pro)
+- **Type**: End-to-end voice cloning toolkit
+- **Features**: Practical pipeline for custom cloned voices
+- **Best for**: Rapid voice cloning prototypes
+
 ---
 
 ## 📚 **Research Papers**

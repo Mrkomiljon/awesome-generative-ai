@@ -88,6 +88,12 @@
 - **Formats**: ONNX, TFLite, TorchScript
 - **Best for**: Resource-constrained environments
 
+### 🔷 [Moonshine](https://github.com/moonshine-ai/moonshine)
+- **Type**: Lightweight on-device ASR model
+- **Features**: Fast transcription pipeline for local usage
+- **Target**: Edge and embedded deployment scenarios
+- **Best for**: Low-latency offline speech recognition
+
 ### 🔷 [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
 - **Type**: Cross-platform real-time ASR
 - **Backend**: ONNX
