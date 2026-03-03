@@ -8,7 +8,7 @@ labels: ["enhancement"]
 ## Resource
 - Name:
 - Link:
-- Category file (example: tts.md, ai-agents.md):
+- Category file (example: docs/tts.md, docs/ai-agents.md):
 - Short description (one line):
 
 ## Notes

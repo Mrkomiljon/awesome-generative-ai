@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 GitHub Stars Auto-Updater
-This script automatically updates GitHub star counts in README.md and ai-agents.md files.
+This script automatically updates GitHub star counts in README.md and docs/ai-agents.md files.
 """
 
 import re
@@ -114,7 +114,7 @@ def main():
 
     files_to_update = [
         'README.md',
-        'ai-agents.md'
+        'docs/ai-agents.md'
     ]
 
     updated_files = []

@@ -21,33 +21,33 @@
 
 Pick one path and start in under 10 minutes:
 
-- Build AI agents: [AI Agents](./ai-agents.md)
-- Build speech products: [STT Models](./stt-models.md), [TTS Models](./tts.md)
-- Build visual products: [Text-to-Image](./text-to-image.md), [Talking Head](./talking-head.md)
-- Build model apps: [Transformers](./transformers.md), [GenAI APIs](./genai-apis.md)
-- Add tool integration: [MCP Servers](./mcp.md)
+- Build AI agents: [AI Agents](./docs/ai-agents.md)
+- Build speech products: [STT Models](./docs/stt-models.md), [TTS Models](./docs/tts.md)
+- Build visual products: [Text-to-Image](./docs/text-to-image.md), [Talking Head](./docs/talking-head.md)
+- Build model apps: [Transformers](./docs/transformers.md), [GenAI APIs](./docs/genai-apis.md)
+- Add tool integration: [MCP Servers](./docs/mcp.md)
 
 ---
 
 ## Use Cases
 
 ### 1. Agentic Apps
-- Start: [AI Agents](./ai-agents.md)
-- Add memory/context: [context-engineering.md](./context-engineering.md)
-- Add tool integration: [mcp.md](./mcp.md)
+- Start: [AI Agents](./docs/ai-agents.md)
+- Add memory/context: [context-engineering.md](./docs/context-engineering.md)
+- Add tool integration: [mcp.md](./docs/mcp.md)
 
 ### 2. Voice and Audio Products
-- Speech recognition: [stt-models.md](./stt-models.md), [stt-datasets.md](./stt-datasets.md)
-- Speech synthesis: [tts.md](./tts.md), [voice-cloning.md](./voice-cloning.md)
-- Emotion and affect: [emotion-recognition.md](./emotion-recognition.md)
+- Speech recognition: [stt-models.md](./docs/stt-models.md), [stt-datasets.md](./docs/stt-datasets.md)
+- Speech synthesis: [tts.md](./docs/tts.md), [voice-cloning.md](./docs/voice-cloning.md)
+- Emotion and affect: [emotion-recognition.md](./docs/emotion-recognition.md)
 
 ### 3. Vision and Video Products
-- Image generation: [text-to-image.md](./text-to-image.md)
-- Talking avatars: [talking-head.md](./talking-head.md)
+- Image generation: [text-to-image.md](./docs/text-to-image.md)
+- Talking avatars: [talking-head.md](./docs/talking-head.md)
 
 ### 4. Foundation Model Productization
-- Model selection: [transformers.md](./transformers.md)
-- API integrations: [genai-apis.md](./genai-apis.md)
+- Model selection: [transformers.md](./docs/transformers.md)
+- API integrations: [genai-apis.md](./docs/genai-apis.md)
 
 ---
 
@@ -55,11 +55,11 @@ Pick one path and start in under 10 minutes:
 
 | Area | Primary Files |
 |:---|:---|
-| Agents and orchestration | [ai-agents.md](./ai-agents.md), [mcp.md](./mcp.md), [context-engineering.md](./context-engineering.md) |
-| Speech | [stt-models.md](./stt-models.md), [stt-datasets.md](./stt-datasets.md), [tts.md](./tts.md), [voice-cloning.md](./voice-cloning.md), [emotion-recognition.md](./emotion-recognition.md) |
-| Vision and media | [text-to-image.md](./text-to-image.md), [talking-head.md](./talking-head.md) |
-| Models and APIs | [transformers.md](./transformers.md), [genai-apis.md](./genai-apis.md) |
-| Extended references | [more_detailed.md](./more_detailed.md) |
+| Agents and orchestration | [ai-agents.md](./docs/ai-agents.md), [mcp.md](./docs/mcp.md), [context-engineering.md](./docs/context-engineering.md) |
+| Speech | [stt-models.md](./docs/stt-models.md), [stt-datasets.md](./docs/stt-datasets.md), [tts.md](./docs/tts.md), [voice-cloning.md](./docs/voice-cloning.md), [emotion-recognition.md](./docs/emotion-recognition.md) |
+| Vision and media | [text-to-image.md](./docs/text-to-image.md), [talking-head.md](./docs/talking-head.md) |
+| Models and APIs | [transformers.md](./docs/transformers.md), [genai-apis.md](./docs/genai-apis.md) |
+| Extended references | [more_detailed.md](./docs/more_detailed.md) |
 
 ---
 

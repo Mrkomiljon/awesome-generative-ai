@@ -132,7 +132,9 @@ def main():
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     print(f"star updater started at {now}")
 
-    files = sorted(Path(".").glob("*.md"))
+    files = [Path("README.md")]
+    files.extend(sorted(Path("docs").glob("*.md")))
+    files = [path for path in files if path.exists()]
     cache = {}
     changed_files = []
 

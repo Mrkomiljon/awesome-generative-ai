@@ -10,12 +10,12 @@ Thanks for improving this repository. Keep contributions clear, factual, and eas
 
 ## Where to Add
 
-- Speech: `stt-models.md`, `stt-datasets.md`, `tts.md`, `voice-cloning.md`, `emotion-recognition.md`
-- Vision and media: `text-to-image.md`, `talking-head.md`
-- Agents and workflows: `ai-agents.md`
-- Foundation models and APIs: `transformers.md`, `genai-apis.md`
-- Tool integration: `mcp.md`
-- Broad references: `more_detailed.md`
+- Speech: `docs/stt-models.md`, `docs/stt-datasets.md`, `docs/tts.md`, `docs/voice-cloning.md`, `docs/emotion-recognition.md`
+- Vision and media: `docs/text-to-image.md`, `docs/talking-head.md`
+- Agents and workflows: `docs/ai-agents.md`
+- Foundation models and APIs: `docs/transformers.md`, `docs/genai-apis.md`
+- Tool integration: `docs/mcp.md`
+- Broad references: `docs/more_detailed.md`
 
 ## Entry Quality Rules
 
