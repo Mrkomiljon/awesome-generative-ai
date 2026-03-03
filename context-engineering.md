@@ -13,3 +13,4 @@
 | [Awesome Context Engineering](https://github.com/yzfly/awesome-context-engineering) | 97 | Curated list of context engineering resources | yzfly/awesome-context-engineering |
 | [Context Engineering (LangChain)](https://github.com/langchain-ai/context_engineering) | 172 | Reference materials and examples for context engineering | langchain-ai/context_engineering |
 | [ACE](https://github.com/ace-agent/ace) | 710 | Context engineering toolkit and experiments | ace-agent/ace |
+| [Anthropic Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | - | Interactive tutorial for practical prompt engineering patterns | anthropics/prompt-eng-interactive-tutorial |

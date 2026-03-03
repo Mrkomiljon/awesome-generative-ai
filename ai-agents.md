@@ -125,6 +125,7 @@
 | **TaskingAI** | 5,367 | Platform for AI-native app development | [Repo](https://github.com/TaskingAI/TaskingAI) |
 | **Superpowers** | 68,341 | Open-source skills library and workflow system for coding agents | [Repo](https://github.com/obra/superpowers) |
 | **Deer-Flow** | 23,564 | Flow-based orchestration framework for agent workflows | [Repo](https://github.com/bytedance/deer-flow) |
+| **CoPaw** | - | Agent framework and orchestration toolkit from AgentScope AI | [Repo](https://github.com/agentscope-ai/CoPaw) |
 | **Daytona** | 61,634 | Development environment manager for agentic coding workflows | [Repo](https://github.com/daytonaio/daytona) |
 | **XState** | 29,284 | State machines and actor model for orchestrating agent flows | [Repo](https://github.com/statelyai/xstate) |
 
@@ -240,6 +241,7 @@
 | **NPI** | 228 | Open-source platform providing tool-use APIs for AI agents | [Repo](https://github.com/npi-ai/npi) |
 | **python-telegram-bot** | 28,871 | Python framework for building Telegram bots with async APIs | [Repo](https://github.com/python-telegram-bot/python-telegram-bot) |
 | **learn-claude-code (Skill Loading)** | 20,490 | Guide to Claude Code skill loading patterns and workflow design | [Docs](https://github.com/shareAI-lab/learn-claude-code/blob/main/docs/en/s05-skill-loading.md) |
+| **Pandoc** | - | Universal document converter useful for agent content workflows | [Repo](https://github.com/jgm/pandoc) |
 | **Tools by Taskade** | - | Custom AI agents with web search and computational tools | [Docs](https://help.taskade.com/en/articles/8958457-custom-ai-agents) |
 | **LiteLLM** | 37,524 | LLM gateway/proxy for multi-provider access | [Repo](https://github.com/BerriAI/litellm) |
 
@@ -251,6 +253,7 @@
 | **Uptime Kuma** | 83,486 | Self-hosted uptime monitoring and status pages | [Repo](https://github.com/louislam/uptime-kuma) |
 | **Huginn** | 48,794 | Self-hosted automation agents for monitoring and notifications | [Repo](https://github.com/huginn/huginn) |
 | **ccusage** | 11,168 | CLI utility for tracking and summarizing Claude Code usage | [Repo](https://github.com/ryoppippi/ccusage) |
+| **Superset** | - | Open-source data exploration and dashboard platform for observability | [Repo](https://github.com/superset-sh/superset) |
 | **Glance** | 32,323 | Self-hosted dashboard for services and bookmarks | [Repo](https://github.com/glanceapp/glance) |
 | **Glances** | 31,868 | Cross-platform system monitoring (CLI + web UI) | [Repo](https://github.com/nicolargo/glances) |
 
