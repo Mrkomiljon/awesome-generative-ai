@@ -126,6 +126,8 @@
 | **Superpowers** | 70,892 | Open-source skills library and workflow system for coding agents | [Repo](https://github.com/obra/superpowers) |
 | **Deer-Flow** | 24,468 | Flow-based orchestration framework for agent workflows | [Repo](https://github.com/bytedance/deer-flow) |
 | **CoPaw** | 8,179 | Agent framework and orchestration toolkit from AgentScope AI | [Repo](https://github.com/agentscope-ai/CoPaw) |
+| **Hive** | - | Framework for building and coordinating production AI agents | [Repo](https://github.com/aden-hive/hive) |
+| **agency-agents** | - | Python toolkit for orchestrating multi-agent workflows | [Repo](https://github.com/msitarzewski/agency-agents) |
 | **Daytona** | 61,925 | Development environment manager for agentic coding workflows | [Repo](https://github.com/daytonaio/daytona) |
 | **XState** | 29,294 | State machines and actor model for orchestrating agent flows | [Repo](https://github.com/statelyai/xstate) |
 
@@ -139,6 +141,7 @@
 | **Letta** | 21,402 | Agent framework with long-term memory (MemGPT successor) | [Repo](https://github.com/letta-ai/letta) |
 | **Zep** | 4,131 | Long-term memory service for AI assistants | [Repo](https://github.com/getzep/zep) |
 | **LocalGPT** | 22,206 | Private document interactions with local LLMs | [Repo](https://github.com/PromtEngineer/localGPT) |
+| **pdfGPT** | - | Chat with PDF documents using retrieval-augmented pipelines | [Repo](https://github.com/bhaskatripathi/pdfGPT) |
 | **LoopGPT** | 1,459 | Modular auto-GPT framework with plug-and-play API | [Repo](https://github.com/farizrahman1/loopgpt) |
 | **OpenRecall** | 2,763 | Open-source, privacy-focused digital memory tool | [Repo](https://github.com/openrecall/openrecall) |
 | **LiveRecall** | 158 | Open-source alternative to Microsoft's Recall | [Repo](https://github.com/VedankPurohit/LiveRecall) |
@@ -252,6 +255,7 @@
 | **Prometheus** | 63,046 | Metrics collection, time-series storage, and alerting | [Repo](https://github.com/prometheus/prometheus) |
 | **Uptime Kuma** | 83,601 | Self-hosted uptime monitoring and status pages | [Repo](https://github.com/louislam/uptime-kuma) |
 | **Huginn** | 48,807 | Self-hosted automation agents for monitoring and notifications | [Repo](https://github.com/huginn/huginn) |
+| **Trivy** | - | Security scanner for code, containers, IaC, and dependencies | [Repo](https://github.com/aquasecurity/trivy) |
 | **ccusage** | 11,231 | CLI utility for tracking and summarizing Claude Code usage | [Repo](https://github.com/ryoppippi/ccusage) |
 | **Superset** | 4,839 | Open-source data exploration and dashboard platform for observability | [Repo](https://github.com/superset-sh/superset) |
 | **Glance** | 32,356 | Self-hosted dashboard for services and bookmarks | [Repo](https://github.com/glanceapp/glance) |
