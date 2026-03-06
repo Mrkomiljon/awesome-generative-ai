@@ -1,35 +1,35 @@
-# ?§  Speech-to-Text (STT) Models
+# ğŸ§  Speech-to-Text (STT) Models
 
 > **Comprehensive collection of open-source and production-ready STT models, libraries, and tools for offline and real-time transcription.**
 
 ---
 
-## ?“‹ **Table of Contents**
-- [?”¥ Whisper-Based Models](#-whisper-based-models)
-- [?™ï¸ Traditional & Real-Time STT Engines](#ï¸?traditional--real-time-stt-engines)
-- [?§  PyTorch-Based Frameworks](#-pytorch-based-frameworks)
-- [?§ª Lightweight & Embedded STT](#-lightweight--embedded-stt)
-- [?“š Utility Libraries](#-utility-libraries)
+## ğŸ“‹ **Table of Contents**
+- [ğŸ”¥ Whisper-Based Models](#-whisper-based-models)
+- [âš™ï¸ Traditional & Real-Time STT Engines](#ï¸-traditional--real-time-stt-engines)
+- [ğŸ§  PyTorch-Based Frameworks](#-pytorch-based-frameworks)
+- [ğŸ§ª Lightweight & Embedded STT](#-lightweight--embedded-stt)
+- [ğŸ“š Utility Libraries](#-utility-libraries)
 
 ---
 
-## ?”¥ **Whisper-Based Models**
+## ğŸ”¥ **Whisper-Based Models**
 
-### ?”· [OpenAI Whisper](https://github.com/openai/whisper)
+### ğŸ”· [OpenAI Whisper](https://github.com/openai/whisper)
 - **Type**: Multilingual and multitask ASR
 - **Features**: Speech recognition, translation, language ID
 - **Training**: 680,000 hours of web audio
 - **Usage**: Easy-to-use CLI and Python API
 - **Best for**: General-purpose transcription
 
-### ?”· [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
+### ğŸ”· [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
 - **Type**: Optimized Whisper implementation
 - **Features**: Fast inference using CTranslate2
 - **Deployment**: CPU/GPU/edge devices
 - **Usage**: Drop-in replacement for Whisper
 - **Best for**: Production deployments
 
-### ?”· [WhisperX](https://github.com/m-bain/whisperX)
+### ğŸ”· [WhisperX](https://github.com/m-bain/whisperX)
 - **Type**: Enhanced Whisper with timestamps
 - **Features**: Word-level timestamps + speaker diarization
 - **Integration**: PyAnnote for speaker separation
@@ -37,22 +37,22 @@
 
 ---
 
-## ?™ï¸ **Traditional & Real-Time STT Engines**
+## âš™ï¸ **Traditional & Real-Time STT Engines**
 
-### ?”· [Kaldi](https://github.com/kaldi-asr/kaldi)
+### ğŸ”· [Kaldi](https://github.com/kaldi-asr/kaldi)
 - **Type**: Academic speech recognition framework
 - **Features**: Gold standard for research
 - **Complexity**: Requires advanced setup
 - **Best for**: Research and custom ASR pipelines
 
-### ?”· [Vosk API](https://github.com/alphacep/vosk-api)
+### ğŸ”· [Vosk API](https://github.com/alphacep/vosk-api)
 - **Type**: Real-time STT engine
 - **Languages**: 20+ languages supported
 - **Platforms**: Android, Raspberry Pi, desktop
 - **Features**: Offline operation, lightweight
 - **Best for**: Embedded and mobile applications
 
-### ?”· [DeepSpeech (Mozilla)](https://github.com/mozilla/DeepSpeech)
+### ğŸ”· [DeepSpeech (Mozilla)](https://github.com/mozilla/DeepSpeech)
 - **Type**: End-to-end STT engine
 - **Framework**: TensorFlow-based
 - **Training**: English datasets (LibriSpeech, Common Voice)
@@ -61,16 +61,16 @@
 
 ---
 
-## ?§  **PyTorch-Based Frameworks**
+## ğŸ§  **PyTorch-Based Frameworks**
 
-### ?”· [SpeechBrain](https://github.com/speechbrain/speechbrain)
+### ğŸ”· [SpeechBrain](https://github.com/speechbrain/speechbrain)
 - **Type**: All-in-one speech toolkit
 - **Features**: ASR, speaker ID, enhancement, separation
 - **Framework**: PyTorch-based
 - **Documentation**: Well-documented
 - **Best for**: Research and development
 
-### ?”· [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)
+### ğŸ”· [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)
 - **Type**: Real-time transcription pipeline
 - **Features**: Microphone input processing
 - **Language**: Python
@@ -79,22 +79,22 @@
 
 ---
 
-## ?§ª **Lightweight & Embedded STT**
+## ğŸ§ª **Lightweight & Embedded STT**
 
-### ?”· [Silero Models](https://github.com/snakers4/silero-models)
+### ğŸ”· [Silero Models](https://github.com/snakers4/silero-models)
 - **Type**: Production-ready models
 - **Target**: Mobile and edge devices
 - **Languages**: Multiple (English, Russian, etc.)
 - **Formats**: ONNX, TFLite, TorchScript
 - **Best for**: Resource-constrained environments
 
-### ?”· [Moonshine](https://github.com/moonshine-ai/moonshine)
+### ğŸ”· [Moonshine](https://github.com/moonshine-ai/moonshine)
 - **Type**: Lightweight on-device ASR model
 - **Features**: Fast transcription pipeline for local usage
 - **Target**: Edge and embedded deployment scenarios
 - **Best for**: Low-latency offline speech recognition
 
-### ?”· [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+### ğŸ”· [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
 - **Type**: Cross-platform real-time ASR
 - **Backend**: ONNX
 - **Inspiration**: Kaldi and k2 projects
@@ -102,28 +102,28 @@
 
 ---
 
-## ?“š **Utility Libraries**
+## ğŸ“š **Utility Libraries**
 
-### ?”· [speech_recognition (Python)](https://github.com/Uberi/speech_recognition)
+### ğŸ”· [speech_recognition (Python)](https://github.com/Uberi/speech_recognition)
 - **Type**: Unified API wrapper
 - **Services**: Google Web Speech, CMU Sphinx, Wit.ai
 - **Use case**: Simple applications or prototyping
 - **Best for**: Quick prototyping
 
-### ?”· [annyang (JS)](https://github.com/TalAter/annyang)
+### ğŸ”· [annyang (JS)](https://github.com/TalAter/annyang)
 - **Type**: Voice command library
 - **Target**: Browser applications
 - **Size**: Lightweight
 - **Best for**: Web-based voice interfaces
 
-### ?”· [react-native-voice](https://github.com/react-native-voice/voice)
+### ?? [react-native-voice](https://github.com/react-native-voice/voice)
 - **Type**: React Native speech recognition library
 - **Platforms**: iOS and Android
 - **Best for**: Mobile speech-to-text apps
 
 ---
 
-## ?’¡ **Selection Guide**
+## ğŸ’¡ **Selection Guide**
 
 | Use Case | Recommended Model | Why |
 |:---|:---|:---|
@@ -136,7 +136,7 @@
 
 ---
 
-## ?”— **Additional Resources**
+## ğŸ”— **Additional Resources**
 
 - **[STT Datasets](./stt-datasets.md)** - Training data for STT models
 - **[TTS Models](./tts.md)** - Text-to-speech synthesis
@@ -145,5 +145,5 @@
 
 ---
 
-> **?’¡ Tip**: Choose models based on your deployment target (server, mobile, edge) and language coverage needs.
+> **ğŸ’¡ Tip**: Choose models based on your deployment target (server, mobile, edge) and language coverage needs.
 
