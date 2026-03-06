@@ -111,6 +111,8 @@
 | Framework | Stars | Description | Links |
 |:---|:---|:---|:---|
 | **LangGraph** | 25,586 | Python library for stateful, multi-actor applications with LLMs | [Repo](https://github.com/langchain-ai/langgraph) |
+| **Langroid** | - | Multi-agent programming framework for LLM applications | [Repo](https://github.com/langroid/langroid) |
+| **AReaL** | - | Asynchronous RL training system for LLM reasoning and agents | [Repo](https://github.com/inclusionAI/AReaL) |
 | **SuperAGI** | 17,233 | Open-source framework for autonomous AI agents | [Repo](https://github.com/TransformerOptimus/SuperAGI) |
 | **XAgent** | 8,503 | Open-source autonomous agent for complex task solving | [Repo](https://github.com/OpenBMB/XAgent) |
 | **BabyAGI** | 22,170 | AI-powered task management system with OpenAI | [Repo](https://github.com/yoheinakajima/babyagi) |
@@ -175,6 +177,7 @@
 | **Vonage** | Phone services for AI agent integration | [Website](https://vonage.com/) |
 | **Bland AI** | Platform for building AI-powered phone agents | [Website](https://www.bland.ai/) |
 | **Vapi** | Developer-friendly platform for voicebot creation | [Website](https://vapi.ai/) |
+| **voice-assistant** | Local voice assistant demo with Whisper and Llama | [Repo](https://github.com/linyiLYi/voice-assistant) |
 
 ---
 

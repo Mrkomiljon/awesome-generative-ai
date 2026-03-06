@@ -1,32 +1,32 @@
-# ðŸ§  Voice Cloning
+# ?§  Voice Cloning
 
 > **Comprehensive collection of voice cloning and voice synthesis technologies for creating realistic AI-generated speech.**
 
 ---
 
-## ðŸ“‹ **Table of Contents**
-- [ðŸŽ¯ Core Technologies](#-core-technologies)
-- [ðŸ”§ Tools & Frameworks](#-tools--frameworks)
-- [ðŸ“š Research Papers](#-research-papers)
-- [ðŸ’¡ Implementation Guide](#-implementation-guide)
+## ?“‹ **Table of Contents**
+- [?Ž¯ Core Technologies](#-core-technologies)
+- [?”§ Tools & Frameworks](#-tools--frameworks)
+- [?“š Research Papers](#-research-papers)
+- [?’¡ Implementation Guide](#-implementation-guide)
 
 ---
 
-## ðŸŽ¯ **Core Technologies**
+## ?Ž¯ **Core Technologies**
 
-### ðŸ”· **Neural Voice Cloning**
+### ?”· **Neural Voice Cloning**
 - **Few-shot learning** for voice adaptation
 - **Speaker embedding** techniques
 - **Prosody transfer** methods
 - **Emotion and style control**
 
-### ðŸ”· **Text-to-Speech with Voice Cloning**
+### ?”· **Text-to-Speech with Voice Cloning**
 - **Tacotron-based** approaches
 - **Transformer-based** models
 - **End-to-end** voice cloning systems
 - **Real-time** voice synthesis
 
-### ðŸ”· **Voice Conversion**
+### ?”· **Voice Conversion**
 - **Parallel data** methods
 - **Non-parallel** voice conversion
 - **Cross-lingual** voice cloning
@@ -34,66 +34,76 @@
 
 ---
 
-## ðŸ”§ **Tools & Frameworks**
+## ?”§ **Tools & Frameworks**
 
-### ðŸ”· [YourTTS](https://github.com/Edresson/YourTTS)
+### ?”· [YourTTS](https://github.com/Edresson/YourTTS)
 - **Type**: Multilingual voice cloning
 - **Features**: Zero-shot voice cloning
 - **Languages**: Multiple language support
 - **Best for**: Research and development
 
-### ðŸ”· [Coqui TTS](https://github.com/coqui-ai/TTS)
+### ?”· [Coqui TTS](https://github.com/coqui-ai/TTS)
 - **Type**: Voice cloning toolkit
 - **Features**: Easy fine-tuning, multi-speaker
 - **Training**: Custom voice training
 - **Best for**: Production applications
 
-### ðŸ”· [Tortoise-TTS](https://github.com/neonbjb/tortoise-tts)
+### ?”· [Tortoise-TTS](https://github.com/neonbjb/tortoise-tts)
 - **Type**: High-fidelity voice cloning
 - **Features**: Prompt-based voice control
 - **Quality**: State-of-the-art audio quality
 - **Best for**: High-quality synthesis
 
-### ðŸ”· [RVC (Retrieval-based Voice Conversion)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+### ?”· [AI Voice Cloning (JarodMica)](https://github.com/JarodMica/ai-voice-cloning)
+- **Type**: Tortoise-based voice cloning toolkit
+- **Status**: Archived (read-only)
+- **Best for**: Local, Tortoise-style voice cloning setups
+
+### ?”· [Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning)
+- **Type**: Bark-based voice cloning toolkit
+- **Focus**: Voice cloning with Chinese speech support
+- **Best for**: Bark workflows and Chinese voice cloning demos
+
+### ?”· [RVC (Retrieval-based Voice Conversion)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 - **Type**: Real-time voice conversion
 - **Features**: Web UI, easy to use
 - **Performance**: Fast inference
 - **Best for**: Real-time applications
 
-### ðŸ”· [Applio](https://github.com/IAHispano/Applio)
+### ?”· [Applio](https://github.com/IAHispano/Applio)
 - **Type**: Voice conversion toolkit
 - **Features**: Web UI, training and inference workflows
 - **Best for**: Accessible voice conversion pipelines
 
-### ðŸ”· [zvec](https://github.com/alibaba/zvec)
+### ?”· [zvec](https://github.com/alibaba/zvec)
 - **Type**: Voice representation and conversion project
 - **Features**: Tooling for speaker-aware audio generation workflows
 - **Best for**: Voice conversion and experimentation
 
-### ðŸ”· [VoiceClone-Pro](https://github.com/mwasifanwar/VoiceClone-Pro)
+### ?”· [VoiceClone-Pro](https://github.com/mwasifanwar/VoiceClone-Pro)
 - **Type**: End-to-end voice cloning toolkit
 - **Features**: Practical pipeline for custom cloned voices
 - **Best for**: Rapid voice cloning prototypes
 
 ---
 
-## ðŸ“š **Research Papers**
+## ?“š **Research Papers**
 
-### ðŸ”· **Foundational Papers**
+### ?”· **Foundational Papers**
 - **"Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis"** - YourTTS
 - **"Neural Voice Cloning with a Few Samples"** - Core voice cloning concepts
 - **"Tacotron 2: Natural Speech Synthesis"** - Google's TTS approach
 
-### ðŸ”· **Recent Advances**
+### ?”· **Recent Advances**
 - **"VALL-E X: Multilingual Text-to-Speech Synthesis"** - Microsoft
 - **"Voice Cloning: A Multi-Speaker Text-to-Speech Synthesis Approach"** - Latest techniques
 - **"Neural Voice Cloning with Limited Data"** - Few-shot learning
 
 ---
 
-## ðŸ’¡ **Implementation Guide**
+## ?’¡ **Implementation Guide**
 
-### ðŸš€ **Quick Start - Coqui TTS**
+### ?? **Quick Start - Coqui TTS**
 ```python
 from TTS.api import TTS
 
@@ -109,7 +119,7 @@ tts.tts_to_file(
 )
 ```
 
-### ðŸš€ **Quick Start - RVC**
+### ?? **Quick Start - RVC**
 ```python
 # Using RVC for voice conversion
 from rvc import RVC
@@ -121,7 +131,7 @@ converted_audio = rvc.convert("input_audio.wav")
 
 ---
 
-## ðŸ”— **Related Resources**
+## ?”— **Related Resources**
 
 - **[TTS Models](./tts.md)** - Text-to-speech synthesis
 - **[STT Models](./stt-models.md)** - Speech recognition
@@ -130,19 +140,19 @@ converted_audio = rvc.convert("input_audio.wav")
 
 ---
 
-## âš–ï¸ **Ethical Considerations**
+## ?–ï¸ **Ethical Considerations**
 
-### ðŸ”’ **Privacy & Consent**
+### ?”’ **Privacy & Consent**
 - Always obtain proper consent for voice cloning
 - Respect privacy rights and data protection laws
 - Use voice cloning responsibly and ethically
 
-### ðŸš« **Misuse Prevention**
+### ?š« **Misuse Prevention**
 - Avoid creating deepfake content
 - Don't clone voices without permission
 - Be aware of potential misuse scenarios
 
 ---
 
-> **ðŸ’¡ Tip**: Voice cloning requires high-quality reference audio and careful consideration of ethical implications.
+> **?’¡ Tip**: Voice cloning requires high-quality reference audio and careful consideration of ethical implications.
 

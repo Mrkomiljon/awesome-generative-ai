@@ -24,6 +24,11 @@
 - Requirements: GPU, ~6GB memory recommended
 - Best for: High-quality voice synthesis
 
+### [VoiceCraft](https://github.com/jasonppy/VoiceCraft)
+- Type: Zero-shot speech editing and text-to-speech
+- Features: Speech editing in the wild, speaker conditioning
+- Best for: High-quality speech editing and synthesis
+
 ### [VITS (Variational Inference TTS)](https://github.com/jaywalnut310/vits)
 - Type: End-to-end model combining Tacotron2 + HiFi-GAN
 - Features: High-quality synthesis, fewer artifacts
@@ -183,6 +188,11 @@
 - Features: Open-source TTS model and demos
 - Best for: Prototyping expressive speech
 
+### [ChatTTS](https://github.com/2noise/ChatTTS)
+- Type: Conversational TTS model
+- Features: Dialogue-focused prosody and expressiveness
+- Best for: Chat-style TTS and assistant voices
+
 ### [FireRedTTS2](https://github.com/FireRedTeam/FireRedTTS2)
 - Type: Neural text-to-speech system
 - Features: Training and inference codebase
@@ -218,7 +228,7 @@
 - [Soprano](https://github.com/ekwek1/soprano) - TTS model and training toolkit
 - [CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Conversational TTS
 - [VoxCPM](https://github.com/OpenBMB/VoxCPM) - Open-source TTS model
-- [GLM-TTS](https://github.com/zai-org/GLM-TTS) - GLM-based text-to-speech model
+- [GLM-TTS](https://github.com/zai-org/GLM-TTS) - Zero-shot controllable TTS with emotion and style tokens
 - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - GPT-based voice synthesis
 - [Piper TTS](https://github.com/rhasspy/piper) - Lightweight TTS engine
 - [Kimi Audio 7B Instruct](https://github.com/Dao-AILab/Kimi-Audio) - Large-scale audio model
@@ -280,6 +290,15 @@
 | Ultra-lightweight/Edge | KittenTTS | <25MB, CPU-only |
 | Local/Privacy-focused | Piper | Fast local synthesis |
 | Voice cloning | OpenVoice, Bark | High-fidelity cloning |
+
+---
+
+## Voice Apps & Utilities
+
+### [Voice](https://github.com/PaulWoitaschek/Voice)
+- Type: Minimalistic audiobook player (Android)
+- Focus: Local playback and simple library management
+- Best for: Lightweight audiobook listening apps
 
 ---
 
