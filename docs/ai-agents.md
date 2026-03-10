@@ -69,6 +69,9 @@
 | **GPT Researcher** | 25,626 | AI-powered autonomous agent for online research | [Repo](https://github.com/assafelovic/gpt-researcher) |
 | **AI Researcher** | 944 | AI agent leveraging Claude for in-depth topic research | [Repo](https://github.com/mshumer/ai-researcher) |
 | **Perplexica** | 32,495 | Open-source search and research assistant | [Repo](https://github.com/ItzCrazyKns/Perplexica) |
+| **notebooklm-py** | 4,408 | Unofficial Python API and agentic skill for Google NotebookLM | [Repo](https://github.com/teng-lin/notebooklm-py) |
+| **BettaFish** | 37,625 | Multi-agent public-opinion analysis system for social-platform trend insights | [Repo](https://github.com/666ghj/BettaFish) |
+| **MiroFish** | 12,167 | Multi-agent swarm simulation engine for high-fidelity prediction workflows | [Repo](https://github.com/666ghj/MiroFish) |
 | **Tavily** | - | Comprehensive research assistant with Search API for LLMs | [Website](https://tavily.com/) |
 | **Aomni** | - | AI agent for researching prospective customers | [Website](https://www.aomni.com/) |
 
@@ -123,6 +126,7 @@
 | **AgentCPM** | 760 | OpenBMB multi-agent framework built around CPM models and tooling | [Repo](https://github.com/OpenBMB/AgentCPM) |
 | **Swarms** | 5,858 | Multi-agent collaboration for production applications | [Repo](https://github.com/kyegomez/swarms) |
 | **Agno** | 38,552 | Agent framework for building multi-agent systems and tools | [Repo](https://github.com/agno-agi/agno) |
+| **hermes-agent** | 3,168 | Self-improving agent with memory, skills, automation, and multi-channel runtime | [Repo](https://github.com/NousResearch/hermes-agent) |
 | **PraisonAI** | 5,639 | Low-code framework leveraging AutoGen and CrewAI | [Repo](https://github.com/MervinPraison/PraisonAI) |
 | **TaskingAI** | 5,368 | Platform for AI-native app development | [Repo](https://github.com/TaskingAI/TaskingAI) |
 | **Superpowers** | 75,385 | Open-source skills library and workflow system for coding agents | [Repo](https://github.com/obra/superpowers) |
@@ -250,6 +254,7 @@
 | **Pandoc** | 42,484 | Universal document converter useful for agent content workflows | [Repo](https://github.com/jgm/pandoc) |
 | **Tools by Taskade** | - | Custom AI agents with web search and computational tools | [Docs](https://help.taskade.com/en/articles/8958457-custom-ai-agents) |
 | **LiteLLM** | 38,424 | LLM gateway/proxy for multi-provider access | [Repo](https://github.com/BerriAI/litellm) |
+| **impeccable** | 3,206 | Frontend design skill pack and commands for AI coding tools | [Repo](https://github.com/pbakaus/impeccable) |
 
 ### **Ops & Monitoring**
 
