@@ -208,6 +208,16 @@
 - Features: Repository with model and utilities
 - Best for: Research and evaluation
 
+### [Granite Speech Models](https://github.com/ibm-granite/granite-speech-models)
+- Type: Enterprise-focused speech model collection
+- Features: Granite family speech model assets and usage examples
+- Best for: IBM Granite speech workflows and enterprise prototyping
+
+### [TADA-TTS](https://github.com/skyiron/tada-tts)
+- Type: Neural text-to-speech project
+- Features: Open-source codebase for training and inference
+- Best for: TTS experimentation and custom speech pipelines
+
 ---
 
 ## Additional TTS Models

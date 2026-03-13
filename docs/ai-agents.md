@@ -136,6 +136,8 @@
 | **agency-agents** | 35,662 | Python toolkit for orchestrating multi-agent workflows | [Repo](https://github.com/msitarzewski/agency-agents) |
 | **Daytona** | 64,410 | Development environment manager for agentic coding workflows | [Repo](https://github.com/daytonaio/daytona) |
 | **XState** | 29,318 | State machines and actor model for orchestrating agent flows | [Repo](https://github.com/statelyai/xstate) |
+| **OpenRAG** | - | Open-source RAG framework for building retrieval pipelines and agentic QA systems | [Repo](https://github.com/langflow-ai/openrag) |
+| **InsForge** | - | Open-source framework and toolkit for building AI-agent workflows | [Repo](https://github.com/InsForge/InsForge) |
 
 ---
 
