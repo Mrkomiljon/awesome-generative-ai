@@ -160,6 +160,7 @@
 | **nanobot** | 34,067 | Lightweight agent/RAG bot framework from HKUDS | [Repo](https://github.com/HKUDS/nanobot) |
 | **UltraRAG** | 5,469 | RAG framework focused on long-context retrieval and reranking | [Repo](https://github.com/OpenBMB/UltraRAG) |
 | **Engram** | 3,884 | Long-term memory store for LLM agents | [Repo](https://github.com/deepseek-ai/Engram) |
+| **claude-mem** | - | Claude Code plugin for persistent memory compression and context recall across sessions | [Repo](https://github.com/thedotmack/claude-mem) |
 | **mem0** | 50,096 | Open-source memory layer for LLM apps | [Repo](https://github.com/mem0ai/mem0) |
 | **memU** | 12,975 | Memory system for persistent user profiles and long-term personalization | [Repo](https://github.com/NevaMind-AI/memU) |
 | **RAGFlow** | 75,168 | RAG workflow engine for document retrieval | [Repo](https://github.com/infiniflow/ragflow) |
@@ -184,6 +185,7 @@
 | **Bland AI** | Platform for building AI-powered phone agents | [Website](https://www.bland.ai/) |
 | **Vapi** | Developer-friendly platform for voicebot creation | [Website](https://vapi.ai/) |
 | **voice-assistant** | Local voice assistant demo with Whisper and Llama | [Repo](https://github.com/linyiLYi/voice-assistant) |
+| **MOSS-TTS** | Open-source high-fidelity multilingual speech and sound generation model family | [Repo](https://github.com/OpenMOSS/MOSS-TTS) |
 
 ---
 
@@ -203,6 +205,7 @@
 | **nanochat** | 49,070 | Minimal LLM chat app / playground (Karpathy) | [Repo](https://github.com/karpathy/nanochat) |
 | **vimGPT** | 2,671 | GPT integration with Vimium for web browsing | [Repo](https://github.com/ishan/vimGPT) |
 | **GPT Computer Assistant** | 7,813 | Unofficial app bringing ChatGPT functionality to Windows/Linux | [Repo](https://github.com/onuratakan/gpt-computer-assistant) |
+| **Claudian** | - | Obsidian plugin that embeds Claude Code as an in-vault AI collaborator | [Repo](https://github.com/YishenTu/claudian) |
 | **OpenHands** | 69,244 | Open-source AI software development agent | [Repo](https://github.com/OpenHands/OpenHands) |
 | **Agent-S** | 10,164 | Autonomous agent for multi-step software tasks | [Repo](https://github.com/simular-ai/Agent-S) |
 | **Goose** | 33,124 | Open-source, local, extensible AI agent for automating engineering tasks | [Repo](https://github.com/block/goose) |
@@ -253,6 +256,7 @@
 | **NPI** | 228 | Open-source platform providing tool-use APIs for AI agents | [Repo](https://github.com/npi-ai/npi) |
 | **python-telegram-bot** | 28,940 | Python framework for building Telegram bots with async APIs | [Repo](https://github.com/python-telegram-bot/python-telegram-bot) |
 | **learn-claude-code (Skill Loading)** | 29,508 | Guide to Claude Code skill loading patterns and workflow design | [Docs](https://github.com/shareAI-lab/learn-claude-code/blob/main/docs/en/s05-skill-loading.md) |
+| **Project N.O.M.A.D.** | - | Offline-first knowledge and education server with local AI, maps, and content tools | [Repo](https://github.com/Crosstalk-Solutions/project-nomad) |
 | **Pandoc** | 42,646 | Universal document converter useful for agent content workflows | [Repo](https://github.com/jgm/pandoc) |
 | **Tools by Taskade** | - | Custom AI agents with web search and computational tools | [Docs](https://help.taskade.com/en/articles/8958457-custom-ai-agents) |
 | **LiteLLM** | 39,320 | LLM gateway/proxy for multi-provider access | [Repo](https://github.com/BerriAI/litellm) |
