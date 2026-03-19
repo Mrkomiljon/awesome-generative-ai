@@ -64,31 +64,43 @@
       <text x="42" y="102" font-size="21" fill="#9fb3c8">A cleaner path through the generative AI stack</text>
 
       <g transform="translate(42,150)">
-        <rect x="0" y="0" width="564" height="102" rx="22" fill="#102033" stroke="#38bdf8" stroke-opacity="0.50" stroke-width="2"/>
+        <rect x="0" y="0" width="564" height="114" rx="22" fill="#102033" stroke="#38bdf8" stroke-opacity="0.50" stroke-width="2"/>
         <rect x="0" y="0" width="8" height="102" rx="4" fill="url(#cyan)"/>
         <text x="28" y="36" font-size="18" fill="#7dd3fc">AGENTIC APPS</text>
-        <text x="28" y="70" font-size="30" font-weight="700" fill="#f8fbff">Agents, coding tools, memory, orchestration</text>
+        <text x="28" y="70" font-size="24" font-weight="700" fill="#f8fbff">
+          <tspan x="28" dy="0">Agents, coding tools,</tspan>
+          <tspan x="28" dy="30">memory, orchestration</tspan>
+        </text>
       </g>
 
       <g transform="translate(42,274)">
-        <rect x="0" y="0" width="564" height="102" rx="22" fill="#102033" stroke="#34d399" stroke-opacity="0.50" stroke-width="2"/>
+        <rect x="0" y="0" width="564" height="114" rx="22" fill="#102033" stroke="#34d399" stroke-opacity="0.50" stroke-width="2"/>
         <rect x="0" y="0" width="8" height="102" rx="4" fill="url(#green)"/>
         <text x="28" y="36" font-size="18" fill="#86efac">VOICE PRODUCTS</text>
-        <text x="28" y="70" font-size="30" font-weight="700" fill="#f8fbff">STT, TTS, cloning, emotion, speech UX</text>
+        <text x="28" y="70" font-size="24" font-weight="700" fill="#f8fbff">
+          <tspan x="28" dy="0">STT, TTS, cloning, emotion,</tspan>
+          <tspan x="28" dy="30">speech UX</tspan>
+        </text>
       </g>
 
       <g transform="translate(42,398)">
-        <rect x="0" y="0" width="564" height="102" rx="22" fill="#102033" stroke="#f59e0b" stroke-opacity="0.55" stroke-width="2"/>
+        <rect x="0" y="0" width="564" height="114" rx="22" fill="#102033" stroke="#f59e0b" stroke-opacity="0.55" stroke-width="2"/>
         <rect x="0" y="0" width="8" height="102" rx="4" fill="url(#gold)"/>
         <text x="28" y="36" font-size="18" fill="#fdba74">VISION AND MEDIA</text>
-        <text x="28" y="70" font-size="30" font-weight="700" fill="#f8fbff">Image, video, talking head, multimodal flows</text>
+        <text x="28" y="70" font-size="24" font-weight="700" fill="#f8fbff">
+          <tspan x="28" dy="0">Image, video, talking head,</tspan>
+          <tspan x="28" dy="30">multimodal flows</tspan>
+        </text>
       </g>
 
       <g transform="translate(42,522)">
-        <rect x="0" y="0" width="564" height="92" rx="22" fill="#102033" stroke="#8b5cf6" stroke-opacity="0.55" stroke-width="2"/>
-        <rect x="0" y="0" width="8" height="92" rx="4" fill="url(#violet)"/>
+        <rect x="0" y="0" width="564" height="114" rx="22" fill="#102033" stroke="#8b5cf6" stroke-opacity="0.55" stroke-width="2"/>
+        <rect x="0" y="0" width="8" height="114" rx="4" fill="url(#violet)"/>
         <text x="28" y="34" font-size="18" fill="#c4b5fd">MODELS AND INFRA</text>
-        <text x="28" y="66" font-size="30" font-weight="700" fill="#f8fbff">MCP, APIs, transformers, practical stack picks</text>
+        <text x="28" y="66" font-size="24" font-weight="700" fill="#f8fbff">
+          <tspan x="28" dy="0">MCP, APIs, transformers,</tspan>
+          <tspan x="28" dy="30">practical stack picks</tspan>
+        </text>
       </g>
     </g>
   </g>
