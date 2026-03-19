@@ -1,9 +1,9 @@
 <details>
-<summary>üéôÔ∏è Speech-to-Text (STT) (click to expand)</summary>
+<summary>Speech-to-Text (STT) (click to expand)</summary>
 <details>
-<summary>üéôÔ∏è Dataset for STT (click to expand)</summary>
-## üóÇÔ∏è Dataset for STT
-## üìú [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/)
+<summary>Dataset for STT (click to expand)</summary>
+## Dataset for STT
+## [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
@@ -19,19 +19,19 @@
 | NST Norwegian ASR Database | Norwegian | 359,760 utterances | 980 speakers | original: <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-13/>, reorganized: <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-54/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | NST Norwegian Dictation | Norwegian | 33,360 utterances | 144 speakers | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-14/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | NST Norwegian Speech Synthesis | Norwegian | 5,363 utterances | 1 male speaker | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-15/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
-| NB Tale ‚Äì Speech Database for Norwegian | Norwegian | 7,600 utterances + ~12 hours | 380 speakers | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-31/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| NB Tale Speech Database for Norwegian | Norwegian | 7,600 utterances + ~12 hours | 380 speakers | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-31/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | Norwegian Parliamentary Speech Corpus (v0.1) | Norwegian | ~59 hours | 203 speakers | <https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-58/> | [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | Wikimedia Commons Odia | Odia | ~8 hours | ~20 speakers | <https://commons.wikimedia.org/wiki/Category:Odia_pronunciation> | mostly(?) [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | Thorsten-21.02-neutral | German | ~24 hours | 1 male speaker | <https://www.Thorsten-Voice.de> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 | Thorsten-21.06-emotional | German | 2.400 utterances (8 emotions) | 1 male speaker | <https://www.Thorsten-Voice.de> | [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 
-## üìú [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+## [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | ARU Speech Corpus | English (UK) | 720 utterances / speaker | 12 (6 femals; 6 male) | <http://datacat.liverpool.ac.uk/681/1/ARU_Speech_Corpus_v1_0.zip> | [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | Althingi Parliamentary Speech Corpus  | Icelandic | 542 hours and 25 minutes | 196 speakers | <http://www.malfong.is/index.php?dlid=73&lang=en> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Al√æingisumr√¶√∞ur Parliamentary Speech Corpus | Icelandic | ~21 hours | | <http://www.malfong.is/index.php?dlid=8&lang=en> | [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| Althingisumraedur Parliamentary Speech Corpus | Icelandic | ~21 hours | | <http://www.malfong.is/index.php?dlid=8&lang=en> | [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | Hjal Corpus | Icelandic | ~41,000 recordings | 883 speakers | <http://www.malfong.is/index.php?dlid=5&lang=en> | [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | The Malromur Corpus | Icelandic | 152 hours | 563 speakers | <http://www.malfong.is/index.php?dlid=65&lang=en> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Telecooperation German Corpus for Kinect | German | ~35 hours | ~180 speakers | <http://www.repository.voxforge1.org/downloads/de/german-speechdata-TUDa-2015.tar.gz> | [CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
@@ -61,11 +61,11 @@
 |  Augmented LibriSpeech | Audio (English); Text (English, French) | 236 hours | | <https://persyval-platform.univ-grenoble-alpes.fr/datasets/DS91> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 |  Helsinki Prosody Corpus | English | 262.5 hours | 1,230 speakers | <https://github.com/Helsinki-NLP/prosody> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 |Tuva Speech Database | Norwegian | 24 hours | 40 speakers | https://www.nb.no/sprakbanken/show?serial=oai:nb.no:sbr-44&lang= |  [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
-| COERLL K ºiche º corpus | K ºiche º | 34 minutes | ? speakers | https://cl.indiana.edu/~ftyers/resources/utexas-kiche-audio.tar.gz | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
+| COERLL K''iche'' corpus | K''iche'' | 34 minutes | ? speakers | https://cl.indiana.edu/~ftyers/resources/utexas-kiche-audio.tar.gz | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 | Timers and Such v0.1 | English (synthetic: US, real: various nationalities) | synthetic: 172 hours, real: 0.29 hours | 21 synthetic, 11 real | https://zenodo.org/record/4110812#.X9j0RmBOkYM | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 | Large Corpus of Czech Parliament Plenary Hearings | Czech | 444 hours | | <https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3126> | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) |
 
-## üìú [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+## [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
@@ -84,30 +84,30 @@
 | Malayalam Speech Corpus by [SMC](https://blog.smc.org.in/malayalam-speech-corpus/) | Malayalam | 1:36 hours | 75 speakers (3 female, 12 male, 60 unidentified) | https://releases.smc.org.in/msc-reviewed-speech/ | CC-BY-SA 4.0  |
 | Google Malayalam | Malayalam | 3.02 hours| 24 speakers| <http://www.openslr.org/63/> | CC-BY-SA 4.0 |
 
-## üìú [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+## [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | IBM Recorded Debates v1 | English | 5 hours | 10 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
 | IBM Recorded Debates v2 | English | ~14 hours  | 14 speakers | <https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis> | CC-BY-ND |
 
-## üìú [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
+## [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | TV3Parla | Catalan | 240 hours  |  | <http://laklak.eu/share/tv3_0.3.tar.gz> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 | Russian Open STT Corpus | Russian | ~10,000 hours public, ~10,000 more upon request  |  | <https://github.com/snakers4/open_stt/#links> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) with some [exceptions](https://github.com/snakers4/open_stt/blob/master/LICENSE)|
 | Russian Open TTS Corpus | Russian | 145 hours  | 3 males | <https://github.com/snakers4/open_tts/#links> | [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) with some [expections](https://github.com/snakers4/open_tts/blob/master/LICENSE)|
-| OVM ‚Äì Ot√°zky V√°clava Moravce | Czech | 35 hours  |  | <https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-000D-EC98-3> | [CC-BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) |
+| OVM - Otazky Vaclava Moravce | Czech | 35 hours  |  | <https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-000D-EC98-3> | [CC-BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) |
 
-## üìú [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | CHiME-Home | English | 6.8 hours |  | <https://archive.org/details/chime-home> | [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |
 | Cameroon Pidgin English Corpus | Cameroon Pidgin English | ~17 hours |  | <http://ota.ox.ac.uk/text/2563.zip> | [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |
 
-## üìú [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+## [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
@@ -121,13 +121,13 @@
 | Czech Parliament Meetings | Czech | 88 hours | | <https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0005-CF9C-4> | [CC-BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) |
 | BembaSpeech | Bemba | 24 hours | 17 speakers (9 male / 8 female) | <https://github.com/csikasote/BembaSpeech> | [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 
-## üìú [CDLA-Permissive](https://cdla.io/permissive-1-0/)
+## [CDLA-Permissive](https://cdla.io/permissive-1-0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | DiPCo | English | ~5 hours | 32 speakers (13 female; 19 male) | <https://s3.amazonaws.com/dipco/DiPCo.tgz> | [CDLA-Permissive-1.0](https://cdla.io/permissive-1-0/) |
 
-## üìú [GNU General Public License](https://www.gnu.org/licenses/gpl.html)
+## [GNU General Public License](https://www.gnu.org/licenses/gpl.html)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
@@ -136,7 +136,7 @@
 | VoxForge | German |  | | <http://www.repository.voxforge1.org/downloads/de/Trunk/Audio/Main/16kHz_16bit/> | GNU-GPL 3.0 |
 
 
-## üìú [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
+## [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
@@ -151,14 +151,14 @@
 
 
 
-## üìú [MIT License](https://opensource.org/licenses/MIT)
+## [MIT License](https://opensource.org/licenses/MIT)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | ALFFA | Amharic;Hausa (paid); Swahili; Wolof |  |  | <http://www.openslr.org/25/> <https://github.com/besacier/ALFFA_PUBLIC> | MIT |
 
 
-## üìú [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
+## [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
 
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
@@ -173,7 +173,7 @@
 | M-AILABS French-v0.9 Corpus | French | 190 hours and 30 minutes |  | <http://www.caito.de/data/Training/stt_tts/fr_FR.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) (a data-specific [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause))|
 | M-AILABS Polish Corpus | Polish | 53 hours and 50 minutes |  | <http://www.caito.de/data/Training/stt_tts/pl_PL.tgz> | [M-AILABS LICENSE](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) (a data-specific [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause))|
 
-## üìú [Custom License](https://en.wikipedia.org/wiki/Copyright)
+## [Custom License](https://en.wikipedia.org/wiki/Copyright)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
 | --- | --- | --- | --- | --- | --- |
@@ -187,115 +187,115 @@
 | Snips SLU Corpus | English; French | 1660 "Smart Lights EN" (~1.3 hours), 1286 "Smart Speaker EN" (~55 minutes), 1138 "Smart Speaker FR" (~50 minutes) utterances | English: 69 speakers; French: 30 speakers | <https://research.snips.ai/datasets/spoken-language-understanding> | [Snips Data License](https://github.com/snipsco/keyword-spotting-research-datasets/blob/master/LICENSE) |
 | CMU Sphinx Group - AN4 | English | "an4_clstk"(~50 minutes) "an4test_clstk" (~6 minutes) | "an4_clstk": 21 female, 53 male "an4test_clstk": 3 female, 7 male | http://www.speech.cs.cmu.edu/databases/an4/an4_raw.bigendian.tar.gz | [AN4](http://www.speech.cs.cmu.edu/databases/an4/LICENSE.html) |
 | FT Speech | Danish | ~1,857 hours (1,017,244 utterances) | 434 speakers (176 female, 258 male) | <https://ftspeech.dk> | [FT Speech License](https://ftspeech.dk/LICENSE.html) |
-| FalaBrasil-LAPS-Constituicao | Brazilian-Portuguese | 9 hours | 1 speaker | <https://drive.google.com/uc?export=download&confirm=SrvW&id=1Nf849u-27CYRzJqedLaI-FaZfMRO7FT> | ["Bases de √°udio transcrito e bases de texto normalizadas (sem pontua√ß√£o, com n√∫meros escritos por extenso, etc.) disponibilizadas de forma gratuita* pelo Grupo FalaBrasil. [disponibilizadas de forma gratuita*] / Portanto, apenas as bases livres est√£o sendo disponibilizadas."](http://labvis.ufpa.br/falabrasil/downloads/) |
-| FalaBrasil-LaPSMail | Brazilian-Portuguese | 1 hour | 25 speakers | <https://drive.google.com/uc?export=download&confirm=PecV&id=1B_Vq8MDSE4fBQefVxqCGSl-EcKAcjJLb> | ["Bases de √°udio transcrito e bases de texto normalizadas (sem pontua√ß√£o, com n√∫meros escritos por extenso, etc.) disponibilizadas de forma gratuita* pelo Grupo FalaBrasil. [disponibilizadas de forma gratuita*] / Portanto, apenas as bases livres est√£o sendo disponibilizadas."](http://labvis.ufpa.br/falabrasil/downloads/) |
-| FalaBrasil-LaPS Benchmark | Brazilian-Portuguese | 1 hour | 1 speaker | <https://drive.google.com/uc?export=download&confirm=XFfF&id=1nZ8L9nJTt4blFC0RGT9Y7XRu02aAvDIo> | ["Bases de √°udio transcrito e bases de texto normalizadas (sem pontua√ß√£o, com n√∫meros escritos por extenso, etc.) disponibilizadas de forma gratuita* pelo Grupo FalaBrasil. [disponibilizadas de forma gratuita*] / Portanto, apenas as bases livres est√£o sendo disponibilizadas."](http://labvis.ufpa.br/falabrasil/downloads/) |
+| FalaBrasil-LAPS-Constituicao | Brazilian-Portuguese | 9 hours | 1 speaker | <https://drive.google.com/uc?export=download&confirm=SrvW&id=1Nf849u-27CYRzJqedLaI-FaZfMRO7FT> | ["Bases de audio transcrito e bases de texto normalizadas (sem pontuacao, com numeros escritos por extenso, etc.) disponibilizadas de forma gratuita* pelo Grupo FalaBrasil. [disponibilizadas de forma gratuita*] / Portanto, apenas as bases livres estao sendo disponibilizadas."](http://labvis.ufpa.br/falabrasil/downloads/) |
+| FalaBrasil-LaPSMail | Brazilian-Portuguese | 1 hour | 25 speakers | <https://drive.google.com/uc?export=download&confirm=PecV&id=1B_Vq8MDSE4fBQefVxqCGSl-EcKAcjJLb> | ["Bases de audio transcrito e bases de texto normalizadas (sem pontuacao, com numeros escritos por extenso, etc.) disponibilizadas de forma gratuita* pelo Grupo FalaBrasil. [disponibilizadas de forma gratuita*] / Portanto, apenas as bases livres estao sendo disponibilizadas."](http://labvis.ufpa.br/falabrasil/downloads/) |
+| FalaBrasil-LaPS Benchmark | Brazilian-Portuguese | 1 hour | 1 speaker | <https://drive.google.com/uc?export=download&confirm=XFfF&id=1nZ8L9nJTt4blFC0RGT9Y7XRu02aAvDIo> | ["Bases de audio transcrito e bases de texto normalizadas (sem pontuacao, com numeros escritos por extenso, etc.) disponibilizadas de forma gratuita* pelo Grupo FalaBrasil. [disponibilizadas de forma gratuita*] / Portanto, apenas as bases livres estao sendo disponibilizadas."](http://labvis.ufpa.br/falabrasil/downloads/) |
 </details>
 
 <details>
-<summary>ü§ñ Speech-to-Text (STT) Models (click to expand)</summary>
+<summary>Speech-to-Text (STT) Models (click to expand)</summary>
 
-#### üìÖ 2023
-1. [whisper.cpp][High-Performance C++ Port of OpenAI Whisper](https://github.com/ggerganov/whisper.cpp), `GitHub 2023`. [[Code](https://github.com/ggerganov/whisper.cpp)]  *Port of OpenAI's Whisper model in pure C/C++ using GGML for efficient CPU/GPU inference ‚Äî runs on Mac, Windows, Linux, and mobile devices.*
+#### 2023
+1. [whisper.cpp][High-Performance C++ Port of OpenAI Whisper](https://github.com/ggerganov/whisper.cpp), `GitHub 2023`. [[Code](https://github.com/ggerganov/whisper.cpp)]  *Port of OpenAI's Whisper model in pure C/C++ using GGML for efficient CPU/GPU inference ??runs on Mac, Windows, Linux, and mobile devices.*
 2. [DeepSpeech][An Open-Source Speech-to-Text Engine](https://github.com/mozilla/DeepSpeech), `GitHub 2023`. [[Code](https://github.com/mozilla/DeepSpeech)]  *TensorFlow-based speech recognition engine capable of running in real-time on low-resource devices.*
 3. [Leon][Your Open-Source Personal Assistant](https://github.com/leon-ai/leon), `GitHub 2023`. [[Code](https://github.com/leon-ai/leon)]   *Node.js & Python-powered open-source voice assistant you can run on your own server.*
 4. [faster-whisper][Fast Whisper Transcription via CTranslate2](https://github.com/SYSTRAN/faster-whisper), `GitHub 2023`. [[Code](https://github.com/SYSTRAN/faster-whisper)]  *Lightweight Whisper implementation with CTranslate2 backend for fast and efficient transcription.*
 5. [WhisperX][Word-Level Timestamped ASR with Diarization](https://github.com/m-bain/whisperX), `GitHub 2023`. [[Code](https://github.com/m-bain/whisperX)]  *ASR model providing word-level timestamps and speaker diarization using Whisper backbone.*
 6. [Kaldi][Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi), `GitHub 2023`. [[Code](https://github.com/kaldi-asr/kaldi)]  *C++ toolkit widely used in academia and industry for speech recognition research.*
 7. [pyvideotrans][Translate & Dub Videos Automatically](https://github.com/jianchang512/pyvideotrans), `GitHub 2023`. [[Code](https://github.com/jianchang512/pyvideotrans)]  *Speech recognition + translation + dubbing pipeline for automatic multilingual video processing.*
-8. [speechbrain][All-in-One Speech Toolkit in PyTorch](https://github.com/speechbrain/speechbrain), `GitHub 2023`. [[Code](https://github.com/speechbrain/speechbrain)]  *End-to-end toolkit for ASR, speaker ID, enhancement, and more ‚Äî built on PyTorch.*
-9. [vosk-api][Offline STT for 20+ Languages](https://github.com/alphacep/vosk-api), `GitHub 2023`. [[Code](https://github.com/alphacep/vosk-api)]  *Real-time STT for mobile and edge devices ‚Äî supports many languages without needing internet.*
+8. [speechbrain][All-in-One Speech Toolkit in PyTorch](https://github.com/speechbrain/speechbrain), `GitHub 2023`. [[Code](https://github.com/speechbrain/speechbrain)]  *End-to-end toolkit for ASR, speaker ID, enhancement, and more ??built on PyTorch.*
+9. [vosk-api][Offline STT for 20+ Languages](https://github.com/alphacep/vosk-api), `GitHub 2023`. [[Code](https://github.com/alphacep/vosk-api)]  *Real-time STT for mobile and edge devices ??supports many languages without needing internet.*
 10. [speech_recognition][Simple Python Speech Recognition](https://github.com/Uberi/speech_recognition), `GitHub 2023`. [[Code](https://github.com/Uberi/speech_recognition)]   *Lightweight library for accessing Google, Wit.ai, CMU Sphinx and more through Python.*
 11. [ASRT_SpeechRecognition][Chinese ASR with Deep Learning](https://github.com/nl8590687/ASRT_SpeechRecognition), `GitHub 2023`. [[Code](https://github.com/nl8590687/ASRT_SpeechRecognition)]  *Chinese end-to-end STT with attention and LSTM/CTC architectures.*
-12. [RealtimeSTT][Low-Latency Microphone Transcription](https://github.com/KoljaB/RealtimeSTT), `GitHub 2023`. [[Code](https://github.com/KoljaB/RealtimeSTT)]  *Robust real-time transcription from microphone input ‚Äî lightweight and fast.*
+12. [RealtimeSTT][Low-Latency Microphone Transcription](https://github.com/KoljaB/RealtimeSTT), `GitHub 2023`. [[Code](https://github.com/KoljaB/RealtimeSTT)]  *Robust real-time transcription from microphone input ??lightweight and fast.*
 13. [annyang][Voice Commands in Browser](https://github.com/TalAter/annyang), `GitHub 2023`. [[Code](https://github.com/TalAter/annyang)]  *Tiny JS library that adds voice control to websites using browser APIs.*
-14. [sherpa-onnx][Real-Time Speech Framework with ONNX](https://github.com/k2-fsa/sherpa-onnx), `GitHub 2023`. [[Code](https://github.com/k2-fsa/sherpa-onnx)]  *Kaldi-inspired speech stack with ONNX backend ‚Äî cross-platform real-time speech tools.*
+14. [sherpa-onnx][Real-Time Speech Framework with ONNX](https://github.com/k2-fsa/sherpa-onnx), `GitHub 2023`. [[Code](https://github.com/k2-fsa/sherpa-onnx)]  *Kaldi-inspired speech stack with ONNX backend ??cross-platform real-time speech tools.*
 15. [SenseVoice][Multilingual Speech Understanding](https://github.com/FunAudioLLM/SenseVoice), `GitHub 2023`. [[Code](https://github.com/FunAudioLLM/SenseVoice)]  *Foundation model for ASR, emotion detection, language ID, and event classification.*
-16. [silero-models][Production-Ready STT/TTS Models](https://github.com/snakers4/silero-models), `GitHub 2023`. [[Code](https://github.com/snakers4/silero-models)]   *Accurate and fast models for mobile and server deployment ‚Äî multilingual support.*
-17. [whisper-jax][Whisper on JAX for Fast ASR](https://github.com/sanchit-gandhi/whisper-jax), `GitHub 2023`. [[Code](https://github.com/sanchit-gandhi/whisper-jax)]  *Fast Whisper inference with batching and TPU support ‚Äî great for large-scale pipelines.*
-18. [FunClip][Multimodal Speech-Text Understanding](https://github.com/modelscope/FunClip), `GitHub 2023`. [[Code](https://github.com/modelscope/FunClip)]  *Multimodal model trained for audio, vision, and text fusion ‚Äî designed for universal understanding.*
+16. [silero-models][Production-Ready STT/TTS Models](https://github.com/snakers4/silero-models), `GitHub 2023`. [[Code](https://github.com/snakers4/silero-models)]   *Accurate and fast models for mobile and server deployment ??multilingual support.*
+17. [whisper-jax][Whisper on JAX for Fast ASR](https://github.com/sanchit-gandhi/whisper-jax), `GitHub 2023`. [[Code](https://github.com/sanchit-gandhi/whisper-jax)]  *Fast Whisper inference with batching and TPU support ??great for large-scale pipelines.*
+18. [FunClip][Multimodal Speech-Text Understanding](https://github.com/modelscope/FunClip), `GitHub 2023`. [[Code](https://github.com/modelscope/FunClip)]  *Multimodal model trained for audio, vision, and text fusion ??designed for universal understanding.*
 </details>
 
 </details>
 
 <details>
-<summary>üîä Text-to-Speech (TTS) (click to expand)</summary>
+<summary>Text-to-Speech (TTS) (click to expand)</summary>
 
-# üìö Awesome TTS Datasets
+# Awesome TTS Datasets
 A curated list of high-quality **Text-to-Speech (TTS)** datasets suitable for training, fine-tuning, and benchmarking TTS models.
-> üîó *Note: Always check dataset licenses before commercial use.*
+> Note: Always check dataset licenses before commercial use.
 ---
-## üåç Multilingual / Large-scale Datasets
-### üó£ [LibriTTS](https://www.openslr.org/60/)
+## Multilingual / Large-scale Datasets
+### [LibriTTS](https://www.openslr.org/60/)
 **Description**: A large corpus derived from LibriSpeech with aligned text and high-quality audio for English TTS tasks.
 ---
-### üó£ [Hi-Fi TTS](https://www.openslr.org/109/)
+### [Hi-Fi TTS](https://www.openslr.org/109/)
 **Description**: High-fidelity English TTS dataset with diverse speakers and SNR subsets, suitable for robust TTS training.
 ---
-## üé§ English Datasets
-### üó£ [LJSpeech](https://keithito.com/LJ-Speech-Dataset/)
+## English Datasets
+### [LJSpeech](https://keithito.com/LJ-Speech-Dataset/)
 **Description**: A widely used single-speaker English dataset designed for TTS and voice cloning tasks.
 ---
-### üó£ [AudioCaps](https://github.com/cdjkim/audiocaps)
+### [AudioCaps](https://github.com/cdjkim/audiocaps)
 **Description**: 44K audio-caption pairs, useful for audio-captioning and could support TTS training with paired audio-text data.
 ---
-## üá®üá≥ Mandarin Chinese Datasets
-### üó£ [Opencpop](https://wenet.org.cn/opencpop/)
+## Mandarin Chinese Datasets
+### [Opencpop](https://wenet.org.cn/opencpop/)
 **Description**: Mandarin singing voice dataset containing phoneme-aligned lyrics, MIDI, and TextGrid files.
 ---
-### üó£ [KiSing](http://shijt.site/index.php/2021/05/16/kising-the-first-open-source-mandarin-singing-voice-synthesis-corpus/)
+### [KiSing](http://shijt.site/index.php/2021/05/16/kising-the-first-open-source-mandarin-singing-voice-synthesis-corpus/)
 **Description**: Mandarin singing voice synthesis corpus with clean recordings.
 ---
-## üáØüáµ Japanese Datasets
-### üó£ [PJS](https://sites.google.com/site/shinnosuketakamichi/research-topics/pjs_corpus)
+## Japanese Datasets
+### [PJS](https://sites.google.com/site/shinnosuketakamichi/research-topics/pjs_corpus)
 **Description**: Japanese speech corpus containing both singing and speaking voice recordings.
 ---
-## üßë‚Äçüé§ Singing Voice Datasets
-### üó£ [M4Singer](https://drive.google.com/file/d/1xC37E59EWRRFFLdG3aJkVqwtLDgtFNqW/view)
+## Singing Voice Datasets
+### [M4Singer](https://drive.google.com/file/d/1xC37E59EWRRFFLdG3aJkVqwtLDgtFNqW/view)
 **Description**: Multi-singer singing voice dataset with phoneme-aligned data.
 ---
-### üó£ [OpenSinger](https://drive.google.com/file/d/1EofoZxvalgMjZqzUEuEdleHIZ6SHtNuK/view)
+### [OpenSinger](https://drive.google.com/file/d/1EofoZxvalgMjZqzUEuEdleHIZ6SHtNuK/view)
 **Description**: Open-source singing voice dataset with both male and female recordings.
 ---
-### üó£ [NUS-48E](https://drive.google.com/drive/folders/12pP9uUl0HTVANu3IPLnumTJiRjPtVUMx)
+### [NUS-48E](https://drive.google.com/drive/folders/12pP9uUl0HTVANu3IPLnumTJiRjPtVUMx)
 **Description**: English singing voice corpus from multiple speakers with both singing and speaking data.
 ---
-### üó£ [PopBuTFy](https://github.com/MoonInTheRiver/NeuralSVB)
+### [PopBuTFy](https://github.com/MoonInTheRiver/NeuralSVB)
 **Description**: Singing dataset featuring both amateur and professional singing recordings.
 ---
-### üó£ [PopCS](https://github.com/MoonInTheRiver/DiffSinger/blob/master/resources/apply_form.md)
+### [PopCS](https://github.com/MoonInTheRiver/DiffSinger/blob/master/resources/apply_form.md)
 **Description**: Mandarin singing corpus with aligned phoneme and waveform data.
 ---
-### üó£ [Opera](http://isophonics.net/SingingVoiceDataset)
+### [Opera](http://isophonics.net/SingingVoiceDataset)
 **Description**: Western and Chinese opera dataset containing monophonic and polyphonic recordings.
 ---
-## üß™ Voice Conversion / Singing Voice Conversion
-### üó£ [CSD](https://zenodo.org/records/4785016)
+## Voice Conversion / Singing Voice Conversion
+### [CSD](https://zenodo.org/records/4785016)
 **Description**: Multilingual dataset for cross-lingual voice conversion including Korean and English utterances.
 
 ---
-### üó£ [SVCC](https://github.com/lesterphillip/SVCC23_FastSVC/tree/main/egs/generate_dataset)
+### [SVCC](https://github.com/lesterphillip/SVCC23_FastSVC/tree/main/egs/generate_dataset)
 **Description**: Singing Voice Conversion Challenge dataset for benchmarking singing voice conversion systems.
 ---
-## üë§ Multi-speaker Speech Datasets
-### üó£ [VCTK](https://datashare.ed.ac.uk/handle/10283/3443)
+## Multi-speaker Speech Datasets
+### [VCTK](https://datashare.ed.ac.uk/handle/10283/3443)
 **Description**: English multi-speaker dataset designed for speech synthesis and voice conversion tasks.
 ---
-## üõ† Custom Dataset Support
-### üó£ CustomSVCDataset
+## Custom Dataset Support
+### CustomSVCDataset
 **Description**: Amphion-compatible folder structure for organizing your own Singing Voice Conversion dataset.
 ---
-## üîñ License Reminder
+## License Reminder
 Most datasets listed are for **research purposes only**. For commercial use, carefully review and comply with individual dataset licenses.
 ---
-## üìù Contributions
+## Contributions
 Want to add a new dataset? Feel free to submit a pull request or open an issue!
 
 
 </details>
 
 <details>
-<summary>‚ú® Awesome Generative AI & LLM APIs (click to expand)</summary>
+<summary>Awesome Generative AI and LLM APIs (click to expand)</summary>
 
 ## GenAI APIs
 
@@ -318,7 +318,7 @@ Want to add a new dataset? Feel free to submit a pull request or open an issue!
 | [Deepbrain AI](https://www.deepbrain.io/) | [Link](https://docs.deepbrain.io/aistudios/getting-started) | Y | DeepBrain AI offers natural text-to-speech capabilities & a powerful video generator that converts various inputs like text prompts, URLs, PDFs, and articles into engaging, professional-quality videos. |
 | [Leonardo AI](https://leonardo.ai) | [Link](https://docs.leonardo.ai/reference/createdataset) | Y | Leonardo AI lets you create production quality visual assets for your projects. |
 | [Mistral AI](https://mistral.ai/) | [Link](https://docs.mistral.ai/api/) | Y | Mistral offers open and portable Gen AI models for multilingual, code generation, maths, and advanced reasoning capabilities. |
-| [Tavus AI](https://www.tavus.io/) | [Link](https://docs.tavusapi.com/api-reference/phoenix-replica-model/create-replica) | Y | Tavus offers an AI voice API converting text to video with features like voice cloning, lip-syncing, and¬†script generation, realistic avatars and others. |
+| [Tavus AI](https://www.tavus.io/) | [Link](https://docs.tavusapi.com/api-reference/phoenix-replica-model/create-replica) | Y | Tavus offers an AI voice API converting text to video with features like voice cloning, lip-syncing, and script generation, realistic avatars and others. |
 | [Colossyan](https://www.colossyan.com/) | [Link](https://docs.colossyan.com/) | Y | Colossyan offers an AI API to create videos from text with AI avatars. |
 | [Synthesia](https://www.synthesia.io/) | [Link](https://docs.synthesia.io/docs/getting-started) | Y | Synthesia offers an API to turn text to video in minutes with AI avatars and voiceovers in 130+ languages. |
 | [ElevenLabs](https://elevenlabs.io/) | [Link](https://elevenlabs.io/docs/api-reference/getting-started) | Y | ElevenLabs offers a voice generation API to produce highly realistic and natural-sounding voices. |
@@ -360,7 +360,7 @@ Want to add a new dataset? Feel free to submit a pull request or open an issue!
 | Getting Started with Groq API: Making Near Real-Time Chatting with LLMs Possible | [Link](https://www.youtube.com/watch?v=S53BanCP14c) | The video discusses the Groq API and how it can be used to create near real-time chatting applications with large language models (LLMs). |
 | Building an AI Mobile Application with Flutter and Google Gemini API | [Link](https://www.youtube.com/watch?v=oAmIqoGkfIY) | This video is a tutorial on building an AI mobile application using Flutter and Google Gemini API. | 
 | Groq Function Calling Llama 3: How to Integrate Custom API in AI App? | [Link](https://www.youtube.com/watch?v=7OAmeq-vwNc) | This video explores integrating custom APIs into AI applications using Groq functions and potentially Llama 3, a large language model. It might be the third part in a series on this topic. | 
-| Text Cortex REWRITING API ‚öôÔ∏è AI Text Generator  |  [Link](https://www.youtube.com/watch?v=vIusOmfXhoA)  | The video is a tutorial on the Text Generation API (TextCortex). It guides through the process of integration, steps to access and perform tasks using TextCortex API.  |
+| Text Cortex REWRITING API ?ôÔ∏è AI Text Generator  |  [Link](https://www.youtube.com/watch?v=vIusOmfXhoA)  | The video is a tutorial on the Text Generation API (TextCortex). It guides through the process of integration, steps to access and perform tasks using TextCortex API.  |
 | Build An AI Image Generator Using OpenAI (Dall-E) API - The Server (NodeJS, Express) | [Link](https://www.youtube.com/watch?v=Iyj9y1XpM0A) | This video is a tutorial on creating an AI image generator using the Open AI API, Node JS and Express. | 
 | About OpenAI Assistants API | [Link](https://youtu.be/qHPonmSX4Ms?si=EZ9C0-pOVLOImOoh) | Learn how to use the OpenAI's assistant API'S to build powerful AI assistants |
 | Langchain by Greg Kamradt (Data Indy) | [Link](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5) | The playlist covers Open AI and Langchain and their various use cases. |
@@ -374,7 +374,7 @@ Want to add a new dataset? Feel free to submit a pull request or open an issue!
 </details>
 
 <details>
-<summary>üñºÔ∏è Text-to-Image Generation (click to expand)</summary>
+<summary>Text-to-Image Generation (click to expand)</summary>
 ## Dataset
 
 ### 2025
@@ -406,114 +406,114 @@ Want to add a new dataset? Feel free to submit a pull request or open an issue!
 </details>
 
 <details>
-<summary>üñºÔ∏è Image Super-Resolution (click to expand)</summary>
+<summary>Image Super-Resolution (click to expand)</summary>
 
-## üóìÔ∏è 2015
+## ?óìÔ∏?2015
 
 ### [waifu2x](https://github.com/nagadomi/waifu2x)
-- üìÑ Paper: [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/abs/1501.00092)
+- ?ìÑ Paper: [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/abs/1501.00092)
 
 ---
 
-## üóìÔ∏è 2016
+## ?óìÔ∏?2016
 
 ### [FSRCNN-pytorch](https://github.com/yjn870/FSRCNN-pytorch)
-- üìÑ Paper: [Accelerating the Super-Resolution Convolutional Neural Network](https://arxiv.org/abs/1608.00367)
+- ?ìÑ Paper: [Accelerating the Super-Resolution Convolutional Neural Network](https://arxiv.org/abs/1608.00367)
 
 ### [pytorch-vdsr](https://github.com/twtygqyy/pytorch-vdsr)
-- üìÑ Paper: [Accurate Image Super-Resolution Using Very Deep Convolutional Networks](http://cv.snu.ac.kr/research/VDSR/)
+- ?ìÑ Paper: [Accurate Image Super-Resolution Using Very Deep Convolutional Networks](http://cv.snu.ac.kr/research/VDSR/)
 
 ---
 
-## üóìÔ∏è 2017
+## ?óìÔ∏?2017
 
 ### [EDSR-PyTorch](https://github.com/sanghyun-son/EDSR-PyTorch)
-- üìÑ Paper: [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://arxiv.org/abs/1707.02921)
+- ?ìÑ Paper: [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://arxiv.org/abs/1707.02921)
 
 ### [LapSRN](https://github.com/phoenix104104/LapSRN)
-- üìÑ Paper: [Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution](https://arxiv.org/abs/1704.03915)
+- ?ìÑ Paper: [Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution](https://arxiv.org/abs/1704.03915)
 
 ### [SRGAN](https://github.com/tensorlayer/SRGAN)
-- üìÑ Paper: [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
+- ?ìÑ Paper: [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
 
 ---
 
-## üóìÔ∏è 2018
+## ?óìÔ∏?2018
 
 ### [RCAN](https://github.com/yulunzhang/RCAN)
-- üìÑ Paper: [Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/abs/1807.02758)
+- ?ìÑ Paper: [Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/abs/1807.02758)
 
 ### [RDN](https://github.com/yulunzhang/RDN)
-- üìÑ Paper: [Residual Dense Network for Image Super-Resolution](https://arxiv.org/abs/1802.08797)
+- ?ìÑ Paper: [Residual Dense Network for Image Super-Resolution](https://arxiv.org/abs/1802.08797)
 
 ### [DBPN-Pytorch](https://github.com/alterzero/DBPN-Pytorch)
-- üìÑ Paper: [Deep Back-Projection Networks for Super-Resolution](https://arxiv.org/abs/1803.02735)
+- ?ìÑ Paper: [Deep Back-Projection Networks for Super-Resolution](https://arxiv.org/abs/1803.02735)
 
 ---
 
-## üóìÔ∏è 2019
+## ?óìÔ∏?2019
 
 ### [BasicSR](https://github.com/XPixelGroup/BasicSR)
-- üìÑ Paper: [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
+- ?ìÑ Paper: [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
 
 ### [Anime4K](https://github.com/bloc97/Anime4K)
-- üìÑ Paper: Not available
+- ?ìÑ Paper: Not available
 
 ---
 
-## üóìÔ∏è 2020
+## ?óìÔ∏?2020
 
 ### [DRLN](https://github.com/yulunzhang/DRLN)
-- üìÑ Paper: [Residual Dense Network for Image Super-Resolution](https://arxiv.org/abs/1802.08797)
+- ?ìÑ Paper: [Residual Dense Network for Image Super-Resolution](https://arxiv.org/abs/1802.08797)
 
 ---
 
-## üóìÔ∏è 2021
+## ?óìÔ∏?2021
 
 ### [GFPGAN](https://github.com/TencentARC/GFPGAN)
-- üìÑ Paper: [GFPGAN: Towards Real-World Blind Face Restoration with Generative Facial Prior](https://arxiv.org/abs/2101.04061)
+- ?ìÑ Paper: [GFPGAN: Towards Real-World Blind Face Restoration with Generative Facial Prior](https://arxiv.org/abs/2101.04061)
 
 ### [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
-- üìÑ Paper: [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/abs/2107.10833)
+- ?ìÑ Paper: [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/abs/2107.10833)
 
 ### [SwinIR](https://github.com/JingyunLiang/SwinIR)
-- üìÑ Paper: [SwinIR: Image Restoration Using Swin Transformer](https://arxiv.org/abs/2108.10257)
+- ?ìÑ Paper: [SwinIR: Image Restoration Using Swin Transformer](https://arxiv.org/abs/2108.10257)
 
 ---
 
-## üóìÔ∏è 2022
+## ?óìÔ∏?2022
 
 ### [ESRGAN](https://github.com/xinntao/ESRGAN)
-- üìÑ Paper: [Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
+- ?ìÑ Paper: [Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
 
 ### [LIIF](https://github.com/yinboc/liif)
-- üìÑ Paper: [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
+- ?ìÑ Paper: [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
 
 ---
 
-## üóìÔ∏è 2023
+## ?óìÔ∏?2023
 
 ### [Omni-SR](https://github.com/Francis0625/Omni-SR)
-- üìÑ Paper: [Omni Aggregation Networks for Lightweight Image Super-Resolution](https://arxiv.org/abs/2304.10244)
+- ?ìÑ Paper: [Omni Aggregation Networks for Lightweight Image Super-Resolution](https://arxiv.org/abs/2304.10244)
 
 ### [ESRGCNN](https://github.com/hellloxiaotian/ESRGCNN)
-- üìÑ Paper: [Image Super-resolution with An Enhanced Group Convolutional Neural Network](https://arxiv.org/abs/2205.14548)
+- ?ìÑ Paper: [Image Super-resolution with An Enhanced Group Convolutional Neural Network](https://arxiv.org/abs/2205.14548)
 
 ---
 
-## üóìÔ∏è 2024
+## ?óìÔ∏?2024
 
 ### [SeeSR](https://github.com/cswry/SeeSR)
-- üìÑ Paper: [SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution](https://arxiv.org/abs/2403.12345)
+- ?ìÑ Paper: [SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution](https://arxiv.org/abs/2403.12345)
 
 ---
 
 </details>
 
 <details>
-<summary>üß† Voice Cloning (click to expand)</summary>
+<summary>Voice Cloning (click to expand)</summary>
 
-## üó£Ô∏è Voice Cloning Models 
+## ?ó£Ô∏?Voice Cloning Models 
 
 ### 2025
 1. [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)  *Fast and high-quality voice cloning from 1-minute audio using GPT + SoVITS.*
@@ -539,14 +539,14 @@ Want to add a new dataset? Feel free to submit a pull request or open an issue!
 </details>
 
 <details>
-<summary>üí¨ Emotion Recognition (click to expand)</summary>
+<summary>Emotion Recognition (click to expand)</summary>
 
 - Add KoBERT, CNN+mel, IEMOCAP dataset, etc...
 
 </details>
 
 <details>
-<summary>üó£Ô∏è Talking Head Generation (click to expand)</summary>
+<summary>Talking Head Generation (click to expand)</summary>
 ## Datasets
 
 0. VoxCeleb1 [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)].
@@ -599,7 +599,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 10. [Face Animation with Multiple Source Images](https://arxiv.org/pdf/2212.00256.pdf?), `Arxiv 2022`.
 10. [MetaPortrait][MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation](https://download.arxiv.org/pdf/2212.08062v2), `Arxiv 2022`.
 11. [Compressing Video Calls using Synthetic Talking Heads](https://arxiv.org/pdf/2210.03692.pdf), `BMVC 2022`. [[Project](https://cvit.iiit.ac.in/research/projects/cvit-projects/talking-video-compression)] 
-12. [Finding Directions in GAN‚Äôs Latent Space for Neural Face Reenactment](https://arxiv.org/pdf/2202.00046.pdf), `BMVC 2022`. [[Project](https://stelabou.github.io/stylegan-directions-reenactment/)] [[Code](https://github.com/StelaBou/stylegan_directions_face_reenactment)] 
+12. [Finding Directions in GAN?ôs Latent Space for Neural Face Reenactment](https://arxiv.org/pdf/2202.00046.pdf), `BMVC 2022`. [[Project](https://stelabou.github.io/stylegan-directions-reenactment/)] [[Code](https://github.com/StelaBou/stylegan_directions_face_reenactment)] 
 13. [LIA][Latent Image Animator: Learning to Animate Images via Latent Space Navigation](https://arxiv.org/pdf/2203.09043.pdf), `ICLR 2022`. [[Project](https://wyhsirius.github.io/LIA-project/)] [[Code](https://github.com/wyhsirius/LIA)] 
 
 ### 2021
@@ -705,7 +705,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 1. [GC-AVT] [Expressive Talking Head Generation with Granular Audio-Visual Control ](https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_Expressive_Talking_Head_Generation_With_Granular_Audio-Visual_Control_CVPR_2022_paper.pdf), `CVPR 2022`.
 2. [Talking Face Generation with Multilingual TTS](https://openaccess.thecvf.com/content/CVPR2022/papers/Song_Talking_Face_Generation_With_Multilingual_TTS_CVPR_2022_paper.pdf), `CVPR 2022`. [[Demo Track](https://huggingface.co/spaces/CVPR/ml-talking-face)]
 3. [EAMM] [EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://arxiv.org/pdf/2205.15278.pdf), `SIGGRAPH 2022`.
-4. [SPACEx] [SPACEx üöÄ: Speech-driven Portrait Animation with Controllable Expression](https://arxiv.org/pdf/2211.09809.pdf), `arXiv 2022`. [[Project](https://deepimagination.cc/SPACEx/)] `CVPR 2023`
+4. [SPACEx] [SPACEx ??: Speech-driven Portrait Animation with Controllable Expression](https://arxiv.org/pdf/2211.09809.pdf), `arXiv 2022`. [[Project](https://deepimagination.cc/SPACEx/)] `CVPR 2023`
 5. [AV-CAT] [Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers](https://arxiv.org/pdf/2212.04970.pdf), `SIGGRAPH Asia 2022`. 
 6. [MemFace] [Memories are One-to-Many Mapping Alleviators in Talking Face Generation](https://arxiv.org/pdf/2212.05005.pdf), `arXiv 2022`. 
 
@@ -794,4 +794,6 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 1. [What comprises a good talking-head video generation?: A Survey and Benchmark](https://arxiv.org/pdf/2005.03201v1.pdf)
 
 </details>
+
+
 
