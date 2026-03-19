@@ -42,60 +42,56 @@
   <g font-family="Segoe UI, Arial, sans-serif">
     <g transform="translate(100,92)">
       <rect x="0" y="0" width="670" height="656" rx="34" fill="url(#panel)" stroke="#314760" stroke-opacity="0.95" stroke-width="2"/>
-      <text x="42" y="64" font-size="28" fill="#7dd3fc">builder-first curated map</text>
-      <text x="42" y="152" font-size="72" font-weight="700" fill="#f8fbff">Awesome Generative AI</text>
-      <text x="42" y="212" font-size="30" fill="#c9d7e7">Practical resources for shipping modern AI products</text>
-      <text x="42" y="258" font-size="18" fill="#9fb3c8">Core areas covered</text>
-
-      <g transform="translate(42,292)">
-        <rect x="0" y="0" width="170" height="140" rx="20" fill="#102033" stroke="#38bdf8" stroke-opacity="0.50" stroke-width="2"/>
-        <circle cx="48" cy="48" r="24" fill="url(#cyan)"/>
-        <text x="36" y="57" font-size="22" font-weight="700" fill="#f8fbff">A</text>
-        <text x="24" y="104" font-size="15" fill="#7dd3fc">AGENTS</text>
-        <text x="24" y="126" font-size="24" font-weight="700" fill="#f8fbff">Agents</text>
+      <text x="42" y="124" font-size="58" font-weight="700" fill="#f8fbff">
+        <tspan x="42" dy="0">Awesome</tspan>
+        <tspan x="42" dy="60">Generative AI</tspan>
+      </text>
+      <g transform="translate(42,260)">
+        <rect x="0" y="0" width="172" height="148" rx="24" fill="#102033" stroke="#38bdf8" stroke-opacity="0.52" stroke-width="2"/>
+        <circle cx="52" cy="52" r="26" fill="url(#cyan)"/>
+        <circle cx="42" cy="46" r="6" fill="#0f1727"/>
+        <circle cx="62" cy="46" r="6" fill="#0f1727"/>
+        <path d="M37 62 C 42 69, 62 69, 67 62" fill="none" stroke="#0f1727" stroke-width="4" stroke-linecap="round"/>
+        <text x="24" y="114" font-size="15" fill="#7dd3fc">AGENTS</text>
+        <text x="24" y="138" font-size="24" font-weight="700" fill="#f8fbff">Agents</text>
       </g>
 
-      <g transform="translate(232,292)">
-        <rect x="0" y="0" width="170" height="140" rx="20" fill="#102033" stroke="#34d399" stroke-opacity="0.50" stroke-width="2"/>
-        <circle cx="48" cy="48" r="24" fill="url(#green)"/>
-        <text x="31" y="57" font-size="18" font-weight="700" fill="#f8fbff">ST</text>
-        <text x="24" y="104" font-size="15" fill="#86efac">VOICE INPUT</text>
-        <text x="24" y="126" font-size="24" font-weight="700" fill="#f8fbff">STT</text>
+      <g transform="translate(248,260)">
+        <rect x="0" y="0" width="172" height="148" rx="24" fill="#102033" stroke="#34d399" stroke-opacity="0.52" stroke-width="2"/>
+        <circle cx="52" cy="52" r="26" fill="url(#green)"/>
+        <path d="M38 44 L38 60 M46 40 L46 64 M54 36 L54 68 M62 42 L62 62" stroke="#0f1727" stroke-width="4" stroke-linecap="round"/>
+        <text x="24" y="114" font-size="15" fill="#86efac">VOICE INPUT</text>
+        <text x="24" y="138" font-size="24" font-weight="700" fill="#f8fbff">STT</text>
       </g>
 
-      <g transform="translate(422,292)">
-        <rect x="0" y="0" width="170" height="140" rx="20" fill="#102033" stroke="#8b5cf6" stroke-opacity="0.55" stroke-width="2"/>
-        <circle cx="48" cy="48" r="24" fill="url(#violet)"/>
-        <text x="31" y="57" font-size="18" font-weight="700" fill="#f8fbff">TT</text>
-        <text x="24" y="104" font-size="15" fill="#c4b5fd">VOICE OUTPUT</text>
-        <text x="24" y="126" font-size="24" font-weight="700" fill="#f8fbff">TTS</text>
+      <g transform="translate(454,260)">
+        <rect x="0" y="0" width="172" height="148" rx="24" fill="#102033" stroke="#8b5cf6" stroke-opacity="0.56" stroke-width="2"/>
+        <circle cx="52" cy="52" r="26" fill="url(#violet)"/>
+        <path d="M37 61 L37 41 L52 32 L67 41 L67 61 L52 70 Z" fill="none" stroke="#0f1727" stroke-width="4" stroke-linejoin="round"/>
+        <path d="M71 46 L77 42 L77 60 L71 56" fill="none" stroke="#0f1727" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+        <text x="24" y="114" font-size="15" fill="#c4b5fd">VOICE OUTPUT</text>
+        <text x="24" y="138" font-size="24" font-weight="700" fill="#f8fbff">TTS</text>
       </g>
 
-      <g transform="translate(137,462)">
-        <rect x="0" y="0" width="170" height="140" rx="20" fill="#102033" stroke="#f59e0b" stroke-opacity="0.55" stroke-width="2"/>
-        <circle cx="48" cy="48" r="24" fill="url(#gold)"/>
-        <text x="29" y="57" font-size="18" font-weight="700" fill="#f8fbff">AV</text>
-        <text x="24" y="104" font-size="15" fill="#fdba74">VIDEO AND MEDIA</text>
-        <text x="24" y="126" font-size="24" font-weight="700" fill="#f8fbff">Avatar</text>
+      <g transform="translate(145,442)">
+        <rect x="0" y="0" width="172" height="148" rx="24" fill="#102033" stroke="#f59e0b" stroke-opacity="0.56" stroke-width="2"/>
+        <circle cx="52" cy="52" r="26" fill="url(#gold)"/>
+        <rect x="33" y="39" width="30" height="22" rx="4" fill="none" stroke="#0f1727" stroke-width="4"/>
+        <path d="M63 45 L74 39 L74 61 L63 55 Z" fill="none" stroke="#0f1727" stroke-width="4" stroke-linejoin="round"/>
+        <text x="24" y="114" font-size="15" fill="#fdba74">VIDEO AND MEDIA</text>
+        <text x="24" y="138" font-size="24" font-weight="700" fill="#f8fbff">Avatar</text>
       </g>
 
-      <g transform="translate(327,462)">
-        <rect x="0" y="0" width="170" height="140" rx="20" fill="#102033" stroke="#38bdf8" stroke-opacity="0.42" stroke-width="2"/>
-        <circle cx="48" cy="48" r="24" fill="#2563eb"/>
-        <text x="27" y="57" font-size="18" font-weight="700" fill="#f8fbff">MC</text>
-        <text x="24" y="104" font-size="15" fill="#93c5fd">TOOLS AND CONTEXT</text>
-        <text x="24" y="126" font-size="24" font-weight="700" fill="#f8fbff">MCP</text>
-      </g>
-
-      <g transform="translate(42,628)">
-        <rect x="0" y="0" width="178" height="46" rx="23" fill="#0d1726" stroke="#38bdf8" stroke-opacity="0.58" stroke-width="2"/>
-        <text x="52" y="30" font-size="20" font-weight="600" fill="#eef6ff">Curated</text>
-
-        <rect x="196" y="0" width="192" height="46" rx="23" fill="#0d1726" stroke="#34d399" stroke-opacity="0.58" stroke-width="2"/>
-        <text x="247" y="30" font-size="20" font-weight="600" fill="#eef6ff">Opinionated</text>
-
-        <rect x="404" y="0" width="182" height="46" rx="23" fill="#0d1726" stroke="#a78bfa" stroke-opacity="0.58" stroke-width="2"/>
-        <text x="439" y="30" font-size="20" font-weight="600" fill="#eef6ff">Builder-First</text>
+      <g transform="translate(351,442)">
+        <rect x="0" y="0" width="172" height="148" rx="24" fill="#102033" stroke="#38bdf8" stroke-opacity="0.44" stroke-width="2"/>
+        <circle cx="52" cy="52" r="26" fill="#2563eb"/>
+        <rect x="38" y="38" width="10" height="10" rx="2" fill="#0f1727"/>
+        <rect x="56" y="38" width="10" height="10" rx="2" fill="#0f1727"/>
+        <rect x="38" y="56" width="10" height="10" rx="2" fill="#0f1727"/>
+        <rect x="56" y="56" width="10" height="10" rx="2" fill="#0f1727"/>
+        <path d="M48 43 L56 43 M43 48 L43 56 M61 48 L61 56 M48 61 L56 61" stroke="#0f1727" stroke-width="3" stroke-linecap="round"/>
+        <text x="24" y="114" font-size="15" fill="#93c5fd">TOOLS AND CONTEXT</text>
+        <text x="24" y="138" font-size="24" font-weight="700" fill="#f8fbff">MCP</text>
       </g>
     </g>
 
