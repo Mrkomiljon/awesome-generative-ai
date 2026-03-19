@@ -45,28 +45,49 @@
       <text x="42" y="64" font-size="28" fill="#7dd3fc">builder-first curated map</text>
       <text x="42" y="152" font-size="72" font-weight="700" fill="#f8fbff">Awesome Generative AI</text>
       <text x="42" y="212" font-size="30" fill="#c9d7e7">Practical resources for shipping modern AI products</text>
+      <text x="42" y="258" font-size="18" fill="#9fb3c8">Core areas covered</text>
 
-      <g transform="translate(42,278)">
-        <rect x="0" y="0" width="586" height="108" rx="22" fill="#102033" stroke="#38bdf8" stroke-opacity="0.50" stroke-width="2"/>
-        <rect x="0" y="0" width="8" height="108" rx="4" fill="url(#cyan)"/>
-        <text x="28" y="34" font-size="18" fill="#7dd3fc">POSITIONING</text>
-        <text x="28" y="68" font-size="23" font-weight="700" fill="#f8fbff">
-          <tspan x="28" dy="0">Curated, opinionated resources</tspan>
-          <tspan x="28" dy="30">for builders shipping real AI products</tspan>
-        </text>
+      <g transform="translate(42,292)">
+        <rect x="0" y="0" width="170" height="140" rx="20" fill="#102033" stroke="#38bdf8" stroke-opacity="0.50" stroke-width="2"/>
+        <circle cx="48" cy="48" r="24" fill="url(#cyan)"/>
+        <text x="36" y="57" font-size="22" font-weight="700" fill="#f8fbff">A</text>
+        <text x="24" y="104" font-size="15" fill="#7dd3fc">AGENTS</text>
+        <text x="24" y="126" font-size="24" font-weight="700" fill="#f8fbff">Agents</text>
       </g>
 
-      <g transform="translate(42,408)">
-        <rect x="0" y="0" width="586" height="108" rx="22" fill="#102033" stroke="#34d399" stroke-opacity="0.50" stroke-width="2"/>
-        <rect x="0" y="0" width="8" height="108" rx="4" fill="url(#green)"/>
-        <text x="28" y="34" font-size="18" fill="#86efac">SCOPE</text>
-        <text x="28" y="68" font-size="23" font-weight="700" fill="#f8fbff">
-          <tspan x="28" dy="0">Agents, MCP, speech, vision,</tspan>
-          <tspan x="28" dy="30">APIs, datasets, and tooling</tspan>
-        </text>
+      <g transform="translate(232,292)">
+        <rect x="0" y="0" width="170" height="140" rx="20" fill="#102033" stroke="#34d399" stroke-opacity="0.50" stroke-width="2"/>
+        <circle cx="48" cy="48" r="24" fill="url(#green)"/>
+        <text x="31" y="57" font-size="18" font-weight="700" fill="#f8fbff">ST</text>
+        <text x="24" y="104" font-size="15" fill="#86efac">VOICE INPUT</text>
+        <text x="24" y="126" font-size="24" font-weight="700" fill="#f8fbff">STT</text>
       </g>
 
-      <g transform="translate(42,538)">
+      <g transform="translate(422,292)">
+        <rect x="0" y="0" width="170" height="140" rx="20" fill="#102033" stroke="#8b5cf6" stroke-opacity="0.55" stroke-width="2"/>
+        <circle cx="48" cy="48" r="24" fill="url(#violet)"/>
+        <text x="31" y="57" font-size="18" font-weight="700" fill="#f8fbff">TT</text>
+        <text x="24" y="104" font-size="15" fill="#c4b5fd">VOICE OUTPUT</text>
+        <text x="24" y="126" font-size="24" font-weight="700" fill="#f8fbff">TTS</text>
+      </g>
+
+      <g transform="translate(137,462)">
+        <rect x="0" y="0" width="170" height="140" rx="20" fill="#102033" stroke="#f59e0b" stroke-opacity="0.55" stroke-width="2"/>
+        <circle cx="48" cy="48" r="24" fill="url(#gold)"/>
+        <text x="29" y="57" font-size="18" font-weight="700" fill="#f8fbff">AV</text>
+        <text x="24" y="104" font-size="15" fill="#fdba74">VIDEO AND MEDIA</text>
+        <text x="24" y="126" font-size="24" font-weight="700" fill="#f8fbff">Avatar</text>
+      </g>
+
+      <g transform="translate(327,462)">
+        <rect x="0" y="0" width="170" height="140" rx="20" fill="#102033" stroke="#38bdf8" stroke-opacity="0.42" stroke-width="2"/>
+        <circle cx="48" cy="48" r="24" fill="#2563eb"/>
+        <text x="27" y="57" font-size="18" font-weight="700" fill="#f8fbff">MC</text>
+        <text x="24" y="104" font-size="15" fill="#93c5fd">TOOLS AND CONTEXT</text>
+        <text x="24" y="126" font-size="24" font-weight="700" fill="#f8fbff">MCP</text>
+      </g>
+
+      <g transform="translate(42,628)">
         <rect x="0" y="0" width="178" height="46" rx="23" fill="#0d1726" stroke="#38bdf8" stroke-opacity="0.58" stroke-width="2"/>
         <text x="52" y="30" font-size="20" font-weight="600" fill="#eef6ff">Curated</text>
 
