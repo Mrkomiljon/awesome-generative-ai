@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/awesome-banner.svg" alt="Awesome Generative AI Banner" width="1000"/>
+  <img src="assets/awesome.png" alt="Awesome Generative AI Banner" width="1000"/>
 </p>
 
 <h1 align="center">Awesome Generative AI Resources</h1>
@@ -121,4 +121,6 @@ Please follow [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## Disclaimer
 
 This is a curated collection of external resources. Rights and credit belong to each original author and organization.
+
+
 
