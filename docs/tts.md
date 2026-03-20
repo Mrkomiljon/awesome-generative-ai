@@ -248,6 +248,18 @@
 
 ## New Additions (Curated)
 
+### [ZipVoice](https://github.com/k2-fsa/ZipVoice)
+- Type: Zero-shot flow-matching TTS model family
+- Features: 123M-parameter base model, fast inference, single-speaker and dialogue generation
+- Languages: Chinese and English
+- Best for: Efficient voice cloning and multilingual zero-shot TTS research
+
+### [LuxTTS](https://github.com/ysharma3501/LuxTTS)
+- Type: Lightweight voice-cloning TTS built on ZipVoice
+- Features: 48 kHz output, 150x realtime generation, low-VRAM inference
+- Requirements: Runs on GPU or CPU; around 1 GB VRAM footprint
+- Best for: Fast local voice cloning and realistic high-speed speech generation
+
 ### [E2-TTS (e2-tts-pytorch)](https://github.com/lucidrains/e2-tts-pytorch)
 - Type: Fully non-autoregressive end-to-end TTS (PyTorch)
 - Features: Zero-shot style-capable synthesis, multistream transformer conditioning, simple training and inference API

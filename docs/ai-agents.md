@@ -75,6 +75,12 @@
 | **Tavily** | - | Comprehensive research assistant with Search API for LLMs | [Website](https://tavily.com/) |
 | **Aomni** | - | AI agent for researching prospective customers | [Website](https://www.aomni.com/) |
 
+### **Security & Pentesting Agents**
+
+| Agent | Stars | Description | Links |
+|:---|:---|:---|:---|
+| **PentestAgent** | 1.8k | AI agent framework for black-box security testing, bug bounty, red-team, and penetration testing workflows | [Repo](https://github.com/GH05TCREW/pentestagent) |
+
 ### **Finance Agents**
 
 | Agent | Stars | Description | Links |
