@@ -80,6 +80,7 @@
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
 | **PentestAgent** | 1.8k | AI agent framework for black-box security testing, bug bounty, red-team, and penetration testing workflows | [Repo](https://github.com/GH05TCREW/pentestagent) |
+| **pentagi** | 12k | Fully autonomous multi-agent system for complex penetration testing and offensive security workflows | [Repo](https://github.com/vxcontrol/pentagi) |
 
 ### **Finance Agents**
 
@@ -87,6 +88,7 @@
 |:---|:---|:---|:---|
 | **Dexter** | 18,048 | Open-source financial research agent for data-backed analysis | [Repo](https://github.com/virattt/dexter) |
 | **FinRobot** | 6,430 | Open-source agent platform for financial analysis with LLMs | [Repo](https://github.com/AI4Finance-Foundation/FinRobot) |
+| **TradingAgents** | 37.6k | Multi-agent trading framework that mirrors real-world trading firms with analyst, researcher, trader, and risk roles | [Repo](https://github.com/TauricResearch/TradingAgents) |
 
 ### **Content Agents**
 
@@ -94,6 +96,7 @@
 |:---|:---|:---|:---|
 | **ShortGPT** | 7,163 | AI-powered framework for automating content creation | [Repo](https://github.com/RayVentura/ShortGPT) |
 | **GPT Newspaper** | 1,374 | Autonomous agent for creating personalized newspapers | [Repo](https://github.com/rotemweiss/gpt-newspaper) |
+| **MoneyPrinterV2** | 19.7k | Automation app for YouTube Shorts, Twitter bots, affiliate workflows, and AI-assisted online content monetization | [Repo](https://github.com/FujiwaraChoki/MoneyPrinterV2) |
 | **ShortX** | - | AI-powered video automation platform for social media | [Website](https://shortx.ai/) |
 | **ChartGPT** | - | AI-driven services for table summarization and charting | [Website](https://chartgpt.io) |
 
