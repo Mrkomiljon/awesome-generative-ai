@@ -215,6 +215,7 @@
 | **vimGPT** | 2,671 | GPT integration with Vimium for web browsing | [Repo](https://github.com/ishan/vimGPT) |
 | **GPT Computer Assistant** | 7,816 | Unofficial app bringing ChatGPT functionality to Windows/Linux | [Repo](https://github.com/onuratakan/gpt-computer-assistant) |
 | **Claudian** | 4,568 | Obsidian plugin that embeds Claude Code as an in-vault AI collaborator | [Repo](https://github.com/YishenTu/claudian) |
+| **oh-my-claudecode** | 13.1k | Teams-first multi-agent orchestration layer for Claude Code with staged planning, execution, and verification workflows | [Repo](https://github.com/Yeachan-Heo/oh-my-claudecode) |
 | **OpenHands** | 69,367 | Open-source AI software development agent | [Repo](https://github.com/OpenHands/OpenHands) |
 | **Agent-S** | 10,185 | Autonomous agent for multi-step software tasks | [Repo](https://github.com/simular-ai/Agent-S) |
 | **Goose** | 33,225 | Open-source, local, extensible AI agent for automating engineering tasks | [Repo](https://github.com/block/goose) |
@@ -280,6 +281,7 @@
 | **Huginn** | 48,893 | Self-hosted automation agents for monitoring and notifications | [Repo](https://github.com/huginn/huginn) |
 | **Trivy** | 33,202 | Security scanner for code, containers, IaC, and dependencies | [Repo](https://github.com/aquasecurity/trivy) |
 | **ccusage** | 11,695 | CLI utility for tracking and summarizing Claude Code usage | [Repo](https://github.com/ryoppippi/ccusage) |
+| **tokscale** | 1.4k | CLI and visualization dashboard for tracking token usage and costs across Claude Code, Codex, Cursor, Gemini, OpenCode, and other AI coding agents | [Repo](https://github.com/junhoyeo/tokscale) |
 | **Superset** | 7,405 | Open-source data exploration and dashboard platform for observability | [Repo](https://github.com/superset-sh/superset) |
 | **Glance** | 32,625 | Self-hosted dashboard for services and bookmarks | [Repo](https://github.com/glanceapp/glance) |
 | **Glances** | 32,091 | Cross-platform system monitoring (CLI + web UI) | [Repo](https://github.com/nicolargo/glances) |
