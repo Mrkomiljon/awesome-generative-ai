@@ -71,6 +71,12 @@
 - **Flexibility**: Modular pipelines
 - **Best for**: Rapid prototyping and creative workflows
 
+### [ComfyStudio](https://comfystudio.io/)
+- **Type**: Browser-based AI illustration and short-video studio
+- **Features**: 27 curated ComfyUI / fal.ai workflows (FLUX, Wan, Kling, Seedance, HunyuanVideo, LTX, Vidu) with no install or local GPU
+- **Flexibility**: Per-generation resolution + length controls; transparent 1-credit = 1-yen pricing
+- **Best for**: Anime / manga / VTuber / indie-game creators who want curated workflows without ComfyUI knowledge
+
 ---
 
 ## Models and Platforms
