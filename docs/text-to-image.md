@@ -71,6 +71,12 @@
 - **Flexibility**: Modular pipelines
 - **Best for**: Rapid prototyping and creative workflows
 
+### [igly.ai](https://igly.ai)
+- **Type**: AI image editing platform
+- **Features**: Background removal, inpainting, upscaling, and generative fill
+- **Accessibility**: Browser-based editor
+- **Best for**: Fast visual edits and creator workflows
+
 ---
 
 ## Models and Platforms
