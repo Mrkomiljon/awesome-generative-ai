@@ -335,6 +335,19 @@ const result = await client.callTool({
 
 ---
 
+
+## AI Agent Trust & Verification
+
+### [TWZRD Agent Intel](https://intel.twzrd.xyz)
+- **Type**: Agent identity verification / trust scoring
+- **Features**: resolve_agent, score_agent, preflight_check, get_trust_receipt (paid)
+- **Platform**: Solana blockchain, remote hosted (streamable-http)
+- **Best for**: x402 micropayment pipelines — verify agent wallet identity before paying
+
+**Quick Start**: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
+---
+
 ## Additional Resources
 
 - **[MCP Official Documentation](https://modelcontextprotocol.io/)** - Official MCP specification and guides
