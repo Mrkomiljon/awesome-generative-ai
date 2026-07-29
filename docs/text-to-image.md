@@ -92,6 +92,7 @@
 - **Midjourney** - Artistic generation
 - **Adobe Firefly** - Creative suite integration
 - **Canva AI** - Design tool integration
+- **[GPTGeminiGrok.AI](https://trygrokai.asia/)** - Browser workspace for GPT, Gemini, Grok, and Claude with image generation and API access
 
 ### Specialized Models
 - **ControlNet** - Controllable generation
