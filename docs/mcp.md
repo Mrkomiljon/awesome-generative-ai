@@ -13,6 +13,7 @@
 - [Communication Platforms](#communication-platforms)
 - [Developer Tools](#developer-tools)
 - [Art and Creative Tools](#art-and-creative-tools)
+- [Marketing and SEO](#marketing-and-seo)
 - [Aggregators and Frameworks](#aggregators-and-frameworks)
 - [Selection Guide](#selection-guide)
 - [Quick Start Examples](#quick-start-examples)
@@ -52,6 +53,12 @@
 - **Features**: Data management, search capabilities
 - **Platform**: Redis Cloud and local instances
 - **Best for**: Caching and real-time data
+
+### [NotFair](https://github.com/nowork-studio/NotFair) - 2.9k+
+- **Type**: Claude Code skills for marketing automation
+- **Features**: SEO analysis, Google Ads management, Meta Ads management, GEO optimization
+- **Platform**: Connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
+- **Best for**: Marketers using Claude Code to manage paid ads and organic search
 
 ---
 
@@ -226,6 +233,16 @@
 - **Features**: 3D scene management, animation
 - **Platform**: Autodesk Maya
 - **Best for**: Professional 3D animation
+
+---
+
+## Marketing and SEO
+
+### [NotFair](https://github.com/nowork-studio/NotFair)
+- **Type**: Claude Code agent skills for SEO and paid advertising
+- **Features**: Keyword research, meta tags, schema markup, GEO optimization, Google Ads audits, Meta Ads ROAS analysis
+- **Platform**: Connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
+- **Best for**: Running SEO and paid-ad workflows directly from Claude Code
 
 ---
 
