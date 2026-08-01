@@ -234,6 +234,12 @@
 - **Platform**: Autodesk Maya
 - **Best for**: Professional 3D animation
 
+### [RunAPI MCP Server](https://github.com/runapi-ai/mcp)
+- **Type**: Media and model API integration
+- **Features**: Image, video, music/audio, and model API tasks
+- **Platform**: MCP clients
+- **Best for**: Generative media workflows
+
 ---
 
 ## Marketing and SEO
