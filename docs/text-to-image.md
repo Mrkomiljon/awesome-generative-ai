@@ -93,6 +93,7 @@
 - **Adobe Firefly** - Creative suite integration
 - **Canva AI** - Design tool integration
 - **[GPTGeminiGrok.AI](https://trygrokai.asia/)** - Browser workspace for GPT, Gemini, Grok, and Claude with image generation and API access
+- **[Rao Edits](https://raoedits.top/)** - Web platform for text-to-image generation and reference-image editing
 
 ### Specialized Models
 - **ControlNet** - Controllable generation
