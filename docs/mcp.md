@@ -234,6 +234,12 @@
 - **Platform**: Autodesk Maya
 - **Best for**: Professional 3D animation
 
+### [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)
+- **Type**: Agent-driven video composition and editing
+- **Features**: Editable timelines, generation, automatic assembly
+- **Platform**: TypeScript CLI and MCP server
+- **Best for**: Coding-agent video workflows
+
 ---
 
 ## Marketing and SEO
