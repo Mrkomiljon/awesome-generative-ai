@@ -71,6 +71,12 @@
 - **Flexibility**: Modular pipelines
 - **Best for**: Rapid prototyping and creative workflows
 
+### [Seele TV](https://seele.tv)
+- **Type**: Controllable AI video studio
+- **Features**: Visual references, shot-level camera direction, and scene-continuity workflows
+- **Accessibility**: Browser-based workspace
+- **Best for**: Reference-led cinematic sequences
+
 ### [igly.ai](https://igly.ai)
 - **Type**: AI image editing platform
 - **Features**: Background removal, inpainting, upscaling, and generative fill
