@@ -104,7 +104,7 @@
 - **Streaming** - Real-time responses
 - **Function Calling** - Structured outputs
 
-- [SandBase](https://github.com/sandbaseai/cli) - CLI and MCP bridge for 2,000+ AI models and APIs.
+- [SandBase](https://github.com/sandbaseai/cli) - CLI and MCP bridge for 2,000+ AI models.
 
 ---
 
