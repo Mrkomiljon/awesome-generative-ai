@@ -104,6 +104,8 @@
 - **Streaming** - Real-time responses
 - **Function Calling** - Structured outputs
 
+- [SandBase](https://github.com/sandbaseai/cli) - CLI and MCP bridge for 2,000+ AI models and APIs.
+
 ---
 
 ## 💡 **Implementation Examples**
@@ -203,4 +205,3 @@ with open("output.wav", "wb") as f:
 ---
 
 > **💡 Tip**: Start with free tiers to experiment, then scale up based on your specific needs and usage patterns.
-
