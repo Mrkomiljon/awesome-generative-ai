@@ -86,6 +86,7 @@
 | [HunyuanVideo-Avatar](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) | Video avatar generation | Avatar video synthesis | High-quality | Video avatar creation |
 | [OmniAvatar](https://github.com/Omni-Avatar/OmniAvatar) | Avatar generation | Multimodal avatar synthesis | High-quality | General avatar creation |
 | [fantasy-talking](https://github.com/Fantasy-AMAP/fantasy-talking) | Talking head toolkit | Audio-driven portrait animation | Real-time | Talking head demos |
+| [NanoAvatar](https://github.com/wpydcr/NanoAvatar) | Audio-driven lip-sync | Offline Android inference | Streaming generation | On-device talking avatars |
 
 ### 🔷 **Commercial Platforms**
 
