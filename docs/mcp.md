@@ -88,6 +88,12 @@
 - **Platform**: Node.js
 - **Best for**: JavaScript-based automation
 
+### [agent-qa](https://github.com/vostride/agent-qa)
+- **Type**: QA automation MCP server
+- **Features**: Natural-language web/mobile tests, persistent memory, self-healing
+- **Platform**: Node.js, Playwright, Appium
+- **Best for**: Agent-driven regression testing and test triage
+
 ---
 
 ## Database Integration
