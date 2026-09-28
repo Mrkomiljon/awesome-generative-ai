@@ -106,6 +106,7 @@
 |:---|:---|:---|:---|
 | **OpenClaw** | 323,454 | Personal AI assistant for any OS and platform | [Repo](https://github.com/openclaw/openclaw) |
 | **ZeroClaw** | 27,905 | Open-source personal AI assistant for cross-platform workflows | [Repo](https://github.com/zeroclaw-labs/zeroclaw) |
+| **Orkas** | 2,086 | Open-source, local-first desktop workforce whose Commander coordinates specialist agents through one conversation. | [Repo](https://github.com/Orkas-AI/Orkas) |
 
 ### **Voice Agents**
 
