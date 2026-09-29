@@ -180,6 +180,7 @@
 | **Memos** | 58,024 | Open-source, self-hosted knowledge management and note-taking platform | [Repo](https://github.com/usememos/memos) |
 | **Supermemory** | 17,000 | Open-source memory engine and API for long-term AI context | [Repo](https://github.com/supermemoryai/supermemory) |
 | **Beads** | 19,321 | Open-source, git-backed, dependency-aware issue tracker for project memory | [Repo](https://github.com/steveyegge/beads) |
+| **Hyperconsciousness** | - | Developer-alpha encrypted, append-only knowledge store with Rust CLI, MCP, and scoped expiring grants | [Repo](https://github.com/louis030195/hyperconsciousness) |
 
 ---
 
