@@ -95,6 +95,7 @@
 - **[GPTGeminiGrok.AI](https://trygrokai.asia/)** - Browser workspace for GPT, Gemini, Grok, and Claude with image generation and API access
 - **[Rao Edits](https://raoedits.top/)** - Web platform for text-to-image generation and reference-image editing
 - **[Raphael AI](https://raphael.app)** - Free browser AI image generator for text-to-image creation
+- **[Tesla Wrap Generator](https://teslawrapgenerator.com/)** - Text/photo-to-image generator for Tesla Paint Shop wraps, previewed on a 3D car
 
 ### Specialized Models
 - **ControlNet** - Controllable generation
