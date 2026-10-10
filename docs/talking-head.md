@@ -96,6 +96,7 @@
 | [Live2D](https://www.live2d.com/) | 2D character animation | Real-time facial tracking | Cross-platform | Virtual YouTubers |
 | [Synthesia](https://www.synthesia.io/) | AI video generation | Multilingual support | High-quality | Corporate training |
 | [Rap Duo Video](https://rapduovideo.com/) | Two-person lip-sync music video | Photo pair to original rap song, lip-synced | Free preview | Social video, greetings |
+| [AdsTurbo](https://adsturbo.ai/) | AI actor and lip-sync ad videos | Reference-ad cloning, 300+ AI actors, dubbing with lip sync in 35+ languages | Free tier | Ecommerce video ads |
 
 ---
 
