@@ -79,8 +79,8 @@
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
-| **PentestAgent** | 1.8k | AI agent framework for black-box security testing, bug bounty, red-team, and penetration testing workflows | [Repo](https://github.com/GH05TCREW/pentestagent) |
-| **pentagi** | 12k | Fully autonomous multi-agent system for complex penetration testing and offensive security workflows | [Repo](https://github.com/vxcontrol/pentagi) |
+| **PentestAgent** | - | AI agent framework for black-box security testing, bug bounty, red-team, and penetration testing workflows | [Repo](https://github.com/GH05TCREW/pentestagent) |
+| **pentagi** | - | Fully autonomous multi-agent system for complex penetration testing and offensive security workflows | [Repo](https://github.com/vxcontrol/pentagi) |
 | **rea** | 67,258 | Agent-driven reverse engineering from app behavior down to native binaries | [Repo](https://github.com/morluto/rea) |
 
 ### **Finance Agents**
@@ -89,7 +89,7 @@
 |:---|:---|:---|:---|
 | **Dexter** | 27,652 | Open-source financial research agent for data-backed analysis | [Repo](https://github.com/virattt/dexter) |
 | **FinRobot** | 8,198 | Open-source agent platform for financial analysis with LLMs | [Repo](https://github.com/AI4Finance-Foundation/FinRobot) |
-| **TradingAgents** | 37.6k | Multi-agent trading framework that mirrors real-world trading firms with analyst, researcher, trader, and risk roles | [Repo](https://github.com/TauricResearch/TradingAgents) |
+| **TradingAgents** | - | Multi-agent trading framework that mirrors real-world trading firms with analyst, researcher, trader, and risk roles | [Repo](https://github.com/TauricResearch/TradingAgents) |
 
 ### **Content Agents**
 
@@ -97,7 +97,7 @@
 |:---|:---|:---|:---|
 | **ShortGPT** | 8,014 | AI-powered framework for automating content creation | [Repo](https://github.com/RayVentura/ShortGPT) |
 | **GPT Newspaper** | 1,374 | Autonomous agent for creating personalized newspapers | [Repo](https://github.com/rotemweiss/gpt-newspaper) |
-| **MoneyPrinterV2** | 19.7k | Automation app for YouTube Shorts, Twitter bots, affiliate workflows, and AI-assisted online content monetization | [Repo](https://github.com/FujiwaraChoki/MoneyPrinterV2) |
+| **MoneyPrinterV2** | - | Automation app for YouTube Shorts, Twitter bots, affiliate workflows, and AI-assisted online content monetization | [Repo](https://github.com/FujiwaraChoki/MoneyPrinterV2) |
 | **ShortX** | - | AI-powered video automation platform for social media | [Website](https://shortx.ai/) |
 | **ChartGPT** | - | AI-driven services for table summarization and charting | [Website](https://chartgpt.io) |
 
@@ -218,7 +218,7 @@
 | **vimGPT** | 2,671 | GPT integration with Vimium for web browsing | [Repo](https://github.com/ishan/vimGPT) |
 | **GPT Computer Assistant** | 7,956 | Unofficial app bringing ChatGPT functionality to Windows/Linux | [Repo](https://github.com/onuratakan/gpt-computer-assistant) |
 | **Claudian** | 15,615 | Obsidian plugin that embeds Claude Code as an in-vault AI collaborator | [Repo](https://github.com/YishenTu/claudian) |
-| **oh-my-claudecode** | 13.1k | Teams-first multi-agent orchestration layer for Claude Code with staged planning, execution, and verification workflows | [Repo](https://github.com/Yeachan-Heo/oh-my-claudecode) |
+| **oh-my-claudecode** | - | Teams-first multi-agent orchestration layer for Claude Code with staged planning, execution, and verification workflows | [Repo](https://github.com/Yeachan-Heo/oh-my-claudecode) |
 | **OpenHands** | 90,494 | Open-source AI software development agent | [Repo](https://github.com/OpenHands/OpenHands) |
 | **Agent-S** | 12,580 | Autonomous agent for multi-step software tasks | [Repo](https://github.com/simular-ai/Agent-S) |
 | **Goose** | 55,132 | Open-source, local, extensible AI agent for automating engineering tasks | [Repo](https://github.com/block/goose) |
@@ -287,7 +287,7 @@
 | **Huginn** | 50,033 | Self-hosted automation agents for monitoring and notifications | [Repo](https://github.com/huginn/huginn) |
 | **Trivy** | 38,334 | Security scanner for code, containers, IaC, and dependencies | [Repo](https://github.com/aquasecurity/trivy) |
 | **ccusage** | 18,950 | CLI utility for tracking and summarizing Claude Code usage | [Repo](https://github.com/ryoppippi/ccusage) |
-| **tokscale** | 1.4k | CLI and visualization dashboard for tracking token usage and costs across Claude Code, Codex, Cursor, Gemini, OpenCode, and other AI coding agents | [Repo](https://github.com/junhoyeo/tokscale) |
+| **tokscale** | - | CLI and visualization dashboard for tracking token usage and costs across Claude Code, Codex, Cursor, Gemini, OpenCode, and other AI coding agents | [Repo](https://github.com/junhoyeo/tokscale) |
 | **Superset** | 15,050 | Open-source data exploration and dashboard platform for observability | [Repo](https://github.com/superset-sh/superset) |
 | **Glance** | 37,420 | Self-hosted dashboard for services and bookmarks | [Repo](https://github.com/glanceapp/glance) |
 | **Glances** | 33,756 | Cross-platform system monitoring (CLI + web UI) | [Repo](https://github.com/nicolargo/glances) |
