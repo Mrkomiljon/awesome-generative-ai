@@ -75,7 +75,11 @@ def find_repo_url(line: str):
 
 
 def update_file_stars(path: Path, cache: dict):
-    content = path.read_text(encoding="utf-8")
+    try:
+        content = path.read_text(encoding="utf-8")
+    except UnicodeDecodeError as exc:
+        print(f"skipping {path}: not valid UTF-8 ({exc})")
+        return False
     lines = content.splitlines()
     changed = False
     stars_col_index = None

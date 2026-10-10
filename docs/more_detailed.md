@@ -360,7 +360,7 @@ Want to add a new dataset? Feel free to submit a pull request or open an issue!
 | Getting Started with Groq API: Making Near Real-Time Chatting with LLMs Possible | [Link](https://www.youtube.com/watch?v=S53BanCP14c) | The video discusses the Groq API and how it can be used to create near real-time chatting applications with large language models (LLMs). |
 | Building an AI Mobile Application with Flutter and Google Gemini API | [Link](https://www.youtube.com/watch?v=oAmIqoGkfIY) | This video is a tutorial on building an AI mobile application using Flutter and Google Gemini API. | 
 | Groq Function Calling Llama 3: How to Integrate Custom API in AI App? | [Link](https://www.youtube.com/watch?v=7OAmeq-vwNc) | This video explores integrating custom APIs into AI applications using Groq functions and potentially Llama 3, a large language model. It might be the third part in a series on this topic. | 
-| Text Cortex REWRITING API ?™ï¸ AI Text Generator  |  [Link](https://www.youtube.com/watch?v=vIusOmfXhoA)  | The video is a tutorial on the Text Generation API (TextCortex). It guides through the process of integration, steps to access and perform tasks using TextCortex API.  |
+| Text Cortex REWRITING API âš™ï¸ AI Text Generator  |  [Link](https://www.youtube.com/watch?v=vIusOmfXhoA)  | The video is a tutorial on the Text Generation API (TextCortex). It guides through the process of integration, steps to access and perform tasks using TextCortex API.  |
 | Build An AI Image Generator Using OpenAI (Dall-E) API - The Server (NodeJS, Express) | [Link](https://www.youtube.com/watch?v=Iyj9y1XpM0A) | This video is a tutorial on creating an AI image generator using the Open AI API, Node JS and Express. | 
 | About OpenAI Assistants API | [Link](https://youtu.be/qHPonmSX4Ms?si=EZ9C0-pOVLOImOoh) | Learn how to use the OpenAI's assistant API'S to build powerful AI assistants |
 | Langchain by Greg Kamradt (Data Indy) | [Link](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5) | The playlist covers Open AI and Langchain and their various use cases. |
@@ -408,103 +408,103 @@ Want to add a new dataset? Feel free to submit a pull request or open an issue!
 <details>
 <summary>Image Super-Resolution (click to expand)</summary>
 
-## ?—“ï¸?2015
+## ğŸ—“ï¸ 2015
 
 ### [waifu2x](https://github.com/nagadomi/waifu2x)
-- ?“„ Paper: [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/abs/1501.00092)
+- ğŸ“„ Paper: [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/abs/1501.00092)
 
 ---
 
-## ?—“ï¸?2016
+## ğŸ—“ï¸ 2016
 
 ### [FSRCNN-pytorch](https://github.com/yjn870/FSRCNN-pytorch)
-- ?“„ Paper: [Accelerating the Super-Resolution Convolutional Neural Network](https://arxiv.org/abs/1608.00367)
+- ğŸ“„ Paper: [Accelerating the Super-Resolution Convolutional Neural Network](https://arxiv.org/abs/1608.00367)
 
 ### [pytorch-vdsr](https://github.com/twtygqyy/pytorch-vdsr)
-- ?“„ Paper: [Accurate Image Super-Resolution Using Very Deep Convolutional Networks](http://cv.snu.ac.kr/research/VDSR/)
+- ğŸ“„ Paper: [Accurate Image Super-Resolution Using Very Deep Convolutional Networks](http://cv.snu.ac.kr/research/VDSR/)
 
 ---
 
-## ?—“ï¸?2017
+## ğŸ—“ï¸ 2017
 
 ### [EDSR-PyTorch](https://github.com/sanghyun-son/EDSR-PyTorch)
-- ?“„ Paper: [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://arxiv.org/abs/1707.02921)
+- ğŸ“„ Paper: [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://arxiv.org/abs/1707.02921)
 
 ### [LapSRN](https://github.com/phoenix104104/LapSRN)
-- ?“„ Paper: [Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution](https://arxiv.org/abs/1704.03915)
+- ğŸ“„ Paper: [Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution](https://arxiv.org/abs/1704.03915)
 
 ### [SRGAN](https://github.com/tensorlayer/SRGAN)
-- ?“„ Paper: [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
+- ğŸ“„ Paper: [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
 
 ---
 
-## ?—“ï¸?2018
+## ğŸ—“ï¸ 2018
 
 ### [RCAN](https://github.com/yulunzhang/RCAN)
-- ?“„ Paper: [Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/abs/1807.02758)
+- ğŸ“„ Paper: [Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/abs/1807.02758)
 
 ### [RDN](https://github.com/yulunzhang/RDN)
-- ?“„ Paper: [Residual Dense Network for Image Super-Resolution](https://arxiv.org/abs/1802.08797)
+- ğŸ“„ Paper: [Residual Dense Network for Image Super-Resolution](https://arxiv.org/abs/1802.08797)
 
 ### [DBPN-Pytorch](https://github.com/alterzero/DBPN-Pytorch)
-- ?“„ Paper: [Deep Back-Projection Networks for Super-Resolution](https://arxiv.org/abs/1803.02735)
+- ğŸ“„ Paper: [Deep Back-Projection Networks for Super-Resolution](https://arxiv.org/abs/1803.02735)
 
 ---
 
-## ?—“ï¸?2019
+## ğŸ—“ï¸ 2019
 
 ### [BasicSR](https://github.com/XPixelGroup/BasicSR)
-- ?“„ Paper: [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
+- ğŸ“„ Paper: [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
 
 ### [Anime4K](https://github.com/bloc97/Anime4K)
-- ?“„ Paper: Not available
+- ğŸ“„ Paper: Not available
 
 ---
 
-## ?—“ï¸?2020
+## ğŸ—“ï¸ 2020
 
 ### [DRLN](https://github.com/yulunzhang/DRLN)
-- ?“„ Paper: [Residual Dense Network for Image Super-Resolution](https://arxiv.org/abs/1802.08797)
+- ğŸ“„ Paper: [Residual Dense Network for Image Super-Resolution](https://arxiv.org/abs/1802.08797)
 
 ---
 
-## ?—“ï¸?2021
+## ğŸ—“ï¸ 2021
 
 ### [GFPGAN](https://github.com/TencentARC/GFPGAN)
-- ?“„ Paper: [GFPGAN: Towards Real-World Blind Face Restoration with Generative Facial Prior](https://arxiv.org/abs/2101.04061)
+- ğŸ“„ Paper: [GFPGAN: Towards Real-World Blind Face Restoration with Generative Facial Prior](https://arxiv.org/abs/2101.04061)
 
 ### [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
-- ?“„ Paper: [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/abs/2107.10833)
+- ğŸ“„ Paper: [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/abs/2107.10833)
 
 ### [SwinIR](https://github.com/JingyunLiang/SwinIR)
-- ?“„ Paper: [SwinIR: Image Restoration Using Swin Transformer](https://arxiv.org/abs/2108.10257)
+- ğŸ“„ Paper: [SwinIR: Image Restoration Using Swin Transformer](https://arxiv.org/abs/2108.10257)
 
 ---
 
-## ?—“ï¸?2022
+## ğŸ—“ï¸ 2022
 
 ### [ESRGAN](https://github.com/xinntao/ESRGAN)
-- ?“„ Paper: [Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
+- ğŸ“„ Paper: [Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
 
 ### [LIIF](https://github.com/yinboc/liif)
-- ?“„ Paper: [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
+- ğŸ“„ Paper: [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
 
 ---
 
-## ?—“ï¸?2023
+## ğŸ—“ï¸ 2023
 
 ### [Omni-SR](https://github.com/Francis0625/Omni-SR)
-- ?“„ Paper: [Omni Aggregation Networks for Lightweight Image Super-Resolution](https://arxiv.org/abs/2304.10244)
+- ğŸ“„ Paper: [Omni Aggregation Networks for Lightweight Image Super-Resolution](https://arxiv.org/abs/2304.10244)
 
 ### [ESRGCNN](https://github.com/hellloxiaotian/ESRGCNN)
-- ?“„ Paper: [Image Super-resolution with An Enhanced Group Convolutional Neural Network](https://arxiv.org/abs/2205.14548)
+- ğŸ“„ Paper: [Image Super-resolution with An Enhanced Group Convolutional Neural Network](https://arxiv.org/abs/2205.14548)
 
 ---
 
-## ?—“ï¸?2024
+## ğŸ—“ï¸ 2024
 
 ### [SeeSR](https://github.com/cswry/SeeSR)
-- ?“„ Paper: [SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution](https://arxiv.org/abs/2403.12345)
+- ğŸ“„ Paper: [SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution](https://arxiv.org/abs/2403.12345)
 
 ---
 
@@ -513,7 +513,7 @@ Want to add a new dataset? Feel free to submit a pull request or open an issue!
 <details>
 <summary>Voice Cloning (click to expand)</summary>
 
-## ?—£ï¸?Voice Cloning Models 
+## ğŸ—£ï¸ Voice Cloning Models 
 
 ### 2025
 1. [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)  *Fast and high-quality voice cloning from 1-minute audio using GPT + SoVITS.*
@@ -599,7 +599,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 10. [Face Animation with Multiple Source Images](https://arxiv.org/pdf/2212.00256.pdf?), `Arxiv 2022`.
 10. [MetaPortrait][MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation](https://download.arxiv.org/pdf/2212.08062v2), `Arxiv 2022`.
 11. [Compressing Video Calls using Synthetic Talking Heads](https://arxiv.org/pdf/2210.03692.pdf), `BMVC 2022`. [[Project](https://cvit.iiit.ac.in/research/projects/cvit-projects/talking-video-compression)] 
-12. [Finding Directions in GAN?™s Latent Space for Neural Face Reenactment](https://arxiv.org/pdf/2202.00046.pdf), `BMVC 2022`. [[Project](https://stelabou.github.io/stylegan-directions-reenactment/)] [[Code](https://github.com/StelaBou/stylegan_directions_face_reenactment)] 
+12. [Finding Directions in GANâ€™s Latent Space for Neural Face Reenactment](https://arxiv.org/pdf/2202.00046.pdf), `BMVC 2022`. [[Project](https://stelabou.github.io/stylegan-directions-reenactment/)] [[Code](https://github.com/StelaBou/stylegan_directions_face_reenactment)] 
 13. [LIA][Latent Image Animator: Learning to Animate Images via Latent Space Navigation](https://arxiv.org/pdf/2203.09043.pdf), `ICLR 2022`. [[Project](https://wyhsirius.github.io/LIA-project/)] [[Code](https://github.com/wyhsirius/LIA)] 
 
 ### 2021
