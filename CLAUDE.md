@@ -10,7 +10,7 @@ A curated "awesome list" of generative AI resources. Almost all content is Markd
 
 - `README.md` — landing page and navigation hub (Start Here, Top Picks, Build Paths, Resource Index). Links into `docs/`. If you add a new `docs/` file, link it from the README's Resource Index (and Build Paths if relevant) and from `CONTRIBUTING.md`'s "Where to Add".
 - `docs/*.md` — one file per topic (agents, MCP, STT/TTS, voice cloning, emotion recognition, text-to-image, talking head, transformers, GenAI APIs, context engineering). `docs/more_detailed.md` is the catch-all for broad references.
-- `scripts/update_stars_fixed.py` — the star updater actually used by CI. `scripts/update_stars.py` and `test_update.py` (which invokes the old script) are legacy.
+- `scripts/update_stars_fixed.py` — the star updater run by CI.
 - `.github/workflows/update-stars.yml` — runs the updater daily at 02:00 UTC (and on manual dispatch) and auto-commits changes to `README.md` and `docs/*.md`.
 
 ## Adding entries (from CONTRIBUTING.md)
