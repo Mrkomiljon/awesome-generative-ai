@@ -224,6 +224,7 @@
 | **OpenHands** | 90,503 | Open-source AI software development agent | [Repo](https://github.com/OpenHands/OpenHands) |
 | **Agent-S** | 12,580 | Autonomous agent for multi-step software tasks | [Repo](https://github.com/simular-ai/Agent-S) |
 | **Goose** | 55,134 | Open-source, local, extensible AI agent for automating engineering tasks | [Repo](https://github.com/block/goose) |
+| **YYLO** | 57 | Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries | [Repo](https://github.com/yylo-dev/yylo) |
 
 ---
 
