@@ -81,6 +81,7 @@
 |:---|:---|:---|:---|
 | **PentestAgent** | 1.8k | AI agent framework for black-box security testing, bug bounty, red-team, and penetration testing workflows | [Repo](https://github.com/GH05TCREW/pentestagent) |
 | **pentagi** | 12k | Fully autonomous multi-agent system for complex penetration testing and offensive security workflows | [Repo](https://github.com/vxcontrol/pentagi) |
+| **rea** | 67,236 | Agent-driven reverse engineering from app behavior down to native binaries | [Repo](https://github.com/morluto/rea) |
 
 ### **Finance Agents**
 
@@ -147,6 +148,7 @@
 | **XState** | 29,340 | State machines and actor model for orchestrating agent flows | [Repo](https://github.com/statelyai/xstate) |
 | **OpenRAG** | 3,301 | Open-source RAG framework for building retrieval pipelines and agentic QA systems | [Repo](https://github.com/langflow-ai/openrag) |
 | **InsForge** | 4,910 | Open-source framework and toolkit for building AI-agent workflows | [Repo](https://github.com/InsForge/InsForge) |
+| **Paperclip** | 99,584 | Open-source app for managing and coordinating AI agents at work | [Repo](https://github.com/paperclipai/paperclip) |
 
 ---
 
@@ -272,6 +274,9 @@
 | **Tools by Taskade** | - | Custom AI agents with web search and computational tools | [Docs](https://help.taskade.com/en/articles/8958457-custom-ai-agents) |
 | **LiteLLM** | 39,568 | LLM gateway/proxy for multi-provider access | [Repo](https://github.com/BerriAI/litellm) |
 | **impeccable** | 10,586 | Frontend design skill pack and commands for AI coding tools | [Repo](https://github.com/pbakaus/impeccable) |
+| **andrej-karpathy-skills** | 218,062 | Single CLAUDE.md addressing LLM coding pitfalls observed by Andrej Karpathy | [Repo](https://github.com/multica-ai/andrej-karpathy-skills) |
+| **agent-skills** | 104,409 | Production-grade engineering skills for Claude Code, Codex, Cursor and other agents | [Repo](https://github.com/addyosmani/agent-skills) |
+| **diagram-design** | 48,713 | Agent skill generating 44 diagram types as self-contained HTML and SVG | [Repo](https://github.com/cathrynlavery/diagram-design) |
 
 ### **Ops & Monitoring**
 

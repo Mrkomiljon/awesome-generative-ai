@@ -85,6 +85,11 @@
 - **Features**: Practical pipeline for custom cloned voices
 - **Best for**: Rapid voice cloning prototypes
 
+### [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+- **Type**: Fully local, open-source ElevenLabs alternative
+- **Features**: Voice cloning, voice design, dubbing, transcription and audiobooks in 646 languages
+- **Best for**: Private, offline voice production workflows
+
 ---
 
 ## Research Papers
