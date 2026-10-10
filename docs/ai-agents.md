@@ -149,6 +149,7 @@
 | **OpenRAG** | 4,628 | Open-source RAG framework for building retrieval pipelines and agentic QA systems | [Repo](https://github.com/langflow-ai/openrag) |
 | **InsForge** | 13,077 | Open-source framework and toolkit for building AI-agent workflows | [Repo](https://github.com/InsForge/InsForge) |
 | **Paperclip** | 99,609 | Open-source app for managing and coordinating AI agents at work | [Repo](https://github.com/paperclipai/paperclip) |
+| **Tale** | 33 | Self-hosted workspace where teams assign tasks to AI agents and review results | [Repo](https://github.com/tale-project/tale) |
 
 ---
 
