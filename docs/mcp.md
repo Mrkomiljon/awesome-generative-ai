@@ -262,6 +262,12 @@
 - **Platform**: Connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
 - **Best for**: Running SEO and paid-ad workflows directly from Claude Code
 
+### [Unsora](https://github.com/Shipped-Studio/unsora)
+- **Type**: Remote MCP server for AI content generation and social scheduling
+- **Features**: Image, video, voiceover, music and clip generation; scheduling and publishing posts to connected social accounts
+- **Platform**: Hosted remote MCP (OAuth or API key) or self-hosted (AGPL-3.0)
+- **Best for**: Creating and scheduling social media content from an AI agent
+
 ---
 
 ## Aggregators and Frameworks
