@@ -108,6 +108,7 @@
 | **OpenClaw** | 392,221 | Personal AI assistant for any OS and platform | [Repo](https://github.com/openclaw/openclaw) |
 | **ZeroClaw** | 32,983 | Open-source personal AI assistant for cross-platform workflows | [Repo](https://github.com/zeroclaw-labs/zeroclaw) |
 | **Orkas** | 2,194 | Open-source, local-first desktop workforce whose Commander coordinates specialist agents through one conversation. | [Repo](https://github.com/Orkas-AI/Orkas) |
+| **Healify** | - | AI health and wellness assistant with personalized nutrition, sleep, and habit tracking | [Website](https://www.healify.ai) |
 
 ### **Voice Agents**
 
