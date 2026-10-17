@@ -10,7 +10,7 @@
 |:---|:---:|:---|:---|
 | [ContextAgent](https://github.com/context-machine-lab/ContextAgent) | 77 | Agent focused on context construction and management | context-machine-lab/ContextAgent |
 | [Agent Skills for Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 18,149 | Skill collection for context engineering workflows | muratcankoylan/Agent-Skills-for-Context-Engineering |
-| [Awesome Context Engineering](https://github.com/yzfly/awesome-context-engineering) | 211 | Curated list of context engineering resources | yzfly/awesome-context-engineering |
+| [Awesome Context Engineering](https://github.com/yzfly/awesome-context-engineering) | 212 | Curated list of context engineering resources | yzfly/awesome-context-engineering |
 | [Context Engineering (LangChain)](https://github.com/langchain-ai/context_engineering) | 201 | Reference materials and examples for context engineering | langchain-ai/context_engineering |
-| [ACE](https://github.com/ace-agent/ace) | 1,370 | Context engineering toolkit and experiments | ace-agent/ace |
-| [Anthropic Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 38,595 | Interactive tutorial for practical prompt engineering patterns | anthropics/prompt-eng-interactive-tutorial |
+| [ACE](https://github.com/ace-agent/ace) | 1,372 | Context engineering toolkit and experiments | ace-agent/ace |
+| [Anthropic Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 38,609 | Interactive tutorial for practical prompt engineering patterns | anthropics/prompt-eng-interactive-tutorial |
