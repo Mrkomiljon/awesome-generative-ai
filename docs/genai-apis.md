@@ -82,6 +82,12 @@
 - **Multiple Voices** - Diverse language support
 - **Real-time Streaming** - Low-latency output
 
+### 🔷 **Bowhard Speech**
+- **Text-to-Speech** - 15 voices with speed control and MP3 export
+- **Speech-to-Text** - transcription with punctuation, SRT timecodes, and JSON output
+- **Free Tier** - 5,000 characters/day for TTS, 15 minutes/day for STT, no subscription
+- **Clients** - Open-source Python and Node SDKs and 11 ready n8n templates ([GitHub](https://github.com/VavilkinAlex/n8n-bowhard-templates))
+
 ---
 
 ## 🔧 **Development Tools**
