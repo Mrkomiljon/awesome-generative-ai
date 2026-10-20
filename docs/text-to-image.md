@@ -96,6 +96,7 @@
 - **[Rao Edits](https://raoedits.top/)** - Web platform for text-to-image generation and reference-image editing
 - **[Raphael AI](https://raphael.app)** - Free browser AI image generator for text-to-image creation
 - **[Pixonara](https://pixonara.com)** - Freemium browser workspace for AI images and short video clips
+- **[Seedream 5.5](https://seedream5-5.net/)** - Browser AI image generator and editor with reference-photo guidance and in-image text editing
 
 ### Specialized Models
 - **ControlNet** - Controllable generation
