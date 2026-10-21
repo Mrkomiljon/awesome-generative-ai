@@ -108,6 +108,7 @@
 - **Wan2.1** - Open-source text-to-video generation model
 - **HunyuanVideo** - High-quality text-to-video model from Tencent
 - **PVID** - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 with 100 free credits
+- **[Kling 4.0](https://kling4ai.art/)** - Web AI video generator for ads, character stories and social clips from text or images
 
 ---
 
