@@ -200,6 +200,7 @@
 | **Vapi** | Developer-friendly platform for voicebot creation | [Website](https://vapi.ai/) |
 | **voice-assistant** | Local voice assistant demo with Whisper and Llama | [Repo](https://github.com/linyiLYi/voice-assistant) |
 | **MOSS-TTS** | Open-source high-fidelity multilingual speech and sound generation model family | [Repo](https://github.com/OpenMOSS/MOSS-TTS) |
+| **PlaceCall** | Agent that places outbound phone calls to US businesses and returns the outcome | [Website](https://voygr.tech/placecall/) |
 
 ---
 
