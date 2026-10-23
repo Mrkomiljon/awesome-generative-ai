@@ -97,6 +97,7 @@
 | [Synthesia](https://www.synthesia.io/) | AI video generation | Multilingual support | High-quality | Corporate training |
 | [Rap Duo Video](https://rapduovideo.com/) | Two-person lip-sync music video | Photo pair to original rap song, lip-synced | Free preview | Social video, greetings |
 | [AdsTurbo](https://adsturbo.ai/) | AI actor and lip-sync ad videos | Reference-ad cloning, 300+ AI actors, dubbing with lip sync in 35+ languages | Free tier | Ecommerce video ads |
+| [Effect Video](https://effect.video/) | Photo-to-video effect templates | Single photo to short video with lip sync, AI dance, and anime transformation templates | Free credits | Social video effects |
 
 ---
 
