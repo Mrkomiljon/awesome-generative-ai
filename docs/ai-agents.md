@@ -1,4 +1,4 @@
-﻿# AI Agents & Frameworks
+# AI Agents & Frameworks
 
 > **Comprehensive collection of AI agents, frameworks, and tools for building autonomous AI systems.**
 
@@ -151,6 +151,7 @@
 | **InsForge** | 13,170 | Open-source framework and toolkit for building AI-agent workflows | [Repo](https://github.com/InsForge/InsForge) |
 | **Paperclip** | 106,279 | Open-source app for managing and coordinating AI agents at work | [Repo](https://github.com/paperclipai/paperclip) |
 | **Tale** | 36 | Self-hosted workspace where teams assign tasks to AI agents and review results | [Repo](https://github.com/tale-project/tale) |
+| **System One SDK** | 2 | TypeScript API/SDK for agent decision workflows with typed choices and scores | [Repo](https://github.com/ziyu/system-one-sdk) |
 
 ---
 
