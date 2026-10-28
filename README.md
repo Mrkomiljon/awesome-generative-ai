@@ -69,6 +69,7 @@ If you only open a few sections, start with these:
 
 ### 2. Voice and Audio Products
 - [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video / photo-to-video meme templates, 9:16, freemium).
 - Speech recognition: [stt-models.md](./docs/stt-models.md), [stt-datasets.md](./docs/stt-datasets.md)
 - Speech synthesis: [tts.md](./docs/tts.md), [voice-cloning.md](./docs/voice-cloning.md)
 - Emotion and affect: [emotion-recognition.md](./docs/emotion-recognition.md)
