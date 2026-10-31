@@ -156,6 +156,12 @@
 - **Platform**: Kubernetes clusters
 - **Best for**: Containerized applications
 
+### [deed.page MCP](https://github.com/f-o-x11/deed-page-skill)
+- **Type**: Static site hosting (remote MCP server, Streamable HTTP)
+- **Features**: Publish, update, version and delete static sites; site passwords, custom domains
+- **Platform**: Hosted at https://deed.page/mcp, no account needed
+- **Best for**: Agents that need a public URL for generated HTML
+
 ---
 
 ## Communication Platforms
