@@ -97,6 +97,7 @@
 - **[Raphael AI](https://raphael.app)** - Free browser AI image generator for text-to-image creation
 - **[Pixonara](https://pixonara.com)** - Freemium browser workspace for AI images and short video clips
 - **[Seedream 5.5](https://seedream5-5.net/)** - Browser AI image generator and editor with reference-photo guidance and in-image text editing
+- **[MakeImg](https://makeimg.ai/)** - Browser AI photo generator: text prompt or reference photo to image with 11 models and free daily credits
 
 ### Specialized Models
 - **ControlNet** - Controllable generation
