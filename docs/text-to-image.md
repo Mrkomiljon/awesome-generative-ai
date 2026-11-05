@@ -108,6 +108,7 @@
 - **Wan2.1** - Open-source text-to-video generation model
 - **HunyuanVideo** - High-quality text-to-video model from Tencent
 - **PVID** - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 with 100 free credits
+- **[Seedance Now](https://seedancenow.com/)** - Multi-model text/image-to-video studio (Seedance 2.5, Kling 4.0, Wan 3.0), up to 30s 1080p; independent, not affiliated with ByteDance
 
 ---
 
