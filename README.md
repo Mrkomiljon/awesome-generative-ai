@@ -80,6 +80,8 @@ If you only open a few sections, start with these:
 - Talking avatars: [talking-head.md](./docs/talking-head.md)
 - Best for: creative tools, avatars, media generation, and synthetic presenters
 
+- **[Cyanvid](https://cyanvid.com/?utm_source=mrkomiljon-awesome-generative-ai&utm_medium=directory&utm_campaign=backlinks)** - AI video generator: create from text or images with clear credit quotes up front.
+- **[Barz Studio](https://barzvideo.com/?utm_source=mrkomiljon-awesome-generative-ai&utm_medium=directory&utm_campaign=backlinks)** - Free browser editor for beat-reactive rap lyric videos (bring your own track).
 ### 4. Foundation Model Productization
 - Model selection: [transformers.md](./docs/transformers.md)
 - API integrations: [genai-apis.md](./docs/genai-apis.md)
