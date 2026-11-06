@@ -76,6 +76,7 @@ If you only open a few sections, start with these:
 - Best for: call agents, speech interfaces, dubbing, and voice cloning pipelines
 
 ### 3. Vision and Video Products
+- [H3 MiniMax](https://h3minimax.com/) - Turn a text prompt or a photo into a short AI video with the MiniMax H3 model.
 - Image generation: [text-to-image.md](./docs/text-to-image.md)
 - Talking avatars: [talking-head.md](./docs/talking-head.md)
 - Best for: creative tools, avatars, media generation, and synthetic presenters
