@@ -86,6 +86,8 @@
 
 ## 🔧 **Development Tools**
 
+- [ModelRush API documentation](https://modelrush.ai/docs) - Documents paid chat and media APIs with prepaid usage credits.
+
 ### 🔷 **Hugging Face**
 - **Transformers** - Model library
 - **Inference API** - Easy model access
