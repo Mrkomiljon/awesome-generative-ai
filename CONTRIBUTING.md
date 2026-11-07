@@ -7,6 +7,14 @@ Thanks for improving this repository. Keep contributions clear, factual, and eas
 - Open-source or freely accessible tools, models, datasets, papers, and docs.
 - Official links first (GitHub repo, paper, project page, docs).
 - One-line descriptions focused on what the resource does.
+- Hosted products with a usable free tier go only in the "Commercial Platforms" sections.
+
+## What We Do Not Accept
+
+- Unofficial wrapper sites named after third-party models (e.g. Kling, Sora, Wan, Nano Banana, Seedance). Link the official model page instead.
+- Paid-only services with no free tier.
+- Links with tracking or referral parameters (`utm_*`, `ref=`, affiliate codes).
+- Blog posts, landing pages, or directories whose main purpose is promotion or backlinks.
 
 ## Where to Add
 
@@ -24,6 +32,7 @@ Thanks for improving this repository. Keep contributions clear, factual, and eas
 - Keep table format consistent with surrounding section.
 - Do not duplicate an existing entry.
 - Prefer ASCII text when possible.
+- In tables with a `Stars` column, put `-` in that cell. A daily workflow fills in and refreshes the count from GitHub.
 
 ## Recommended Entry Formats
 
