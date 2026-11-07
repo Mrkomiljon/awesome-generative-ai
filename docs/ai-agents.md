@@ -95,6 +95,7 @@
 
 | Agent | Stars | Description | Links |
 |:---|:---|:---|:---|
+| **Breatic** | 3 | Collaborative documents and media canvas with human-reviewed creative agent proposals (source-available). | [Repo](https://github.com/orime-org/breatic) |
 | **ShortGPT** | 8,120 | AI-powered framework for automating content creation | [Repo](https://github.com/RayVentura/ShortGPT) |
 | **GPT Newspaper** | 1,374 | Autonomous agent for creating personalized newspapers | [Repo](https://github.com/rotemweiss/gpt-newspaper) |
 | **MoneyPrinterV2** | 32,341 | Automation app for YouTube Shorts, Twitter bots, affiliate workflows, and AI-assisted online content monetization | [Repo](https://github.com/FujiwaraChoki/MoneyPrinterV2) |
