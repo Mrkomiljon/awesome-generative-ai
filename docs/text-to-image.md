@@ -153,6 +153,7 @@ image = pipeline(
 - **[Voice Cloning](./voice-cloning.md)** - Voice synthesis
 - **[Emotion Recognition](./emotion-recognition.md)** - Audio emotion analysis
 - **[TTS Models](./tts.md)** - Text-to-speech synthesis
+- **[imgmov AI Video Prompt Guide](https://imgmov.com/blog/2026-07-08-ai-video-prompts)** - Publisher-authored video prompt examples covering subject motion, camera movement and lighting.
 
 ---
 
