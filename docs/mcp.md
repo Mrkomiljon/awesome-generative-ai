@@ -274,6 +274,12 @@
 - **Platform**: Hosted remote MCP (OAuth or API key) or self-hosted (AGPL-3.0)
 - **Best for**: Creating and scheduling social media content from an AI agent
 
+### [GetYouTubeTranscript MCP](https://github.com/tubeagentkit/youtube-mcp)
+- **Type**: Remote MCP server for YouTube transcripts and YouTube data (Streamable HTTP)
+- **Features**: Video transcripts with optional timestamps, YouTube search, channel uploads, playlist videos
+- **Platform**: Hosted at https://getyoutubetranscript.com/api/mcp, OAuth or API key; free credits on sign-up
+- **Best for**: Agents that need what was said in YouTube videos for research or content work
+
 ---
 
 ## Aggregators and Frameworks
