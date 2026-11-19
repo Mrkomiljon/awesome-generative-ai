@@ -99,6 +99,8 @@
 - **[Seedream 5.5](https://seedream5-5.net/)** - Browser AI image generator and editor with reference-photo guidance and in-image text editing
 - **[MakeImg](https://makeimg.ai/)** - Browser AI photo generator: text prompt or reference photo to image with 11 models and free daily credits
 
+- **[Vidney](https://vidney.ai/)**: Browser workspace for text-to-image and reference-photo editing, with one-time starter credits.
+
 ### Specialized Models
 - **ControlNet** - Controllable generation
 - **LoRA** - Low-rank adaptation
