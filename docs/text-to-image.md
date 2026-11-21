@@ -71,6 +71,12 @@
 - **Flexibility**: Modular pipelines
 - **Best for**: Rapid prototyping and creative workflows
 
+### [Off Grid AI](https://github.com/off-grid-ai/OGAD)
+- **Type**: Desktop app for on-device image generation (stable-diffusion.cpp)
+- **Features**: Text-to-image and image-to-image with SDXL-Lightning, SDXL, SD 1.5/2.1 and Z-Image-Turbo, live step preview
+- **Accessibility**: macOS, Windows and Linux, no account or cloud, AGPL-3.0
+- **Best for**: Generating images privately on your own computer
+
 ### [igly.ai](https://igly.ai)
 - **Type**: AI image editing platform
 - **Features**: Background removal, inpainting, upscaling, and generative fill
