@@ -258,6 +258,12 @@
 - **Platform**: TypeScript CLI and MCP server
 - **Best for**: Coding-agent video workflows
 
+### [Kite MCP](https://github.com/kitedotnew/kite-agent-plugins)
+- **Type**: Collaborative design and UI layout
+- **Features**: Editable frames, text, components, auto layout; export as HTML/React/Tailwind
+- **Platform**: Hosted at https://kite.new/api/mcp (free tier)
+- **Best for**: Coding agents drawing UI designs a team keeps editing
+
 ---
 
 ## Marketing and SEO
