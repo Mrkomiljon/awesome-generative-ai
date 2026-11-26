@@ -110,6 +110,7 @@
 - **HunyuanVideo** - High-quality text-to-video model from Tencent
 - **PVID** - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 with 100 free credits
 - **[RefVid](https://refvid.com)** - Freemium reference-to-video studio that keeps a product or character consistent from 1-10 photos
+- **[iArt](https://www.iart.ai/)** - Freemium motion graphics generator: prompt to animated video, refined through chat edits
 
 ---
 
